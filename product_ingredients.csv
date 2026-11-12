@@ -1,0 +1,2334 @@
+barcode,ingredient_id,raw_ingredient_name,sequence,source
+8964000101704,ING00187,Carbonated Water,1,Tasmiya CSV
+8964000101704,ING00981,Sugar,2,Tasmiya CSV
+8964000101704,ING00042,"Acidity Regulator (E330[Citrus Acid], E331[Sodium Citrate])",3,Tasmiya CSV
+8964000101704,ING00097,Artificial Flavor,4,Tasmiya CSV
+8964000101704,ING00388,Emulsifier (E452[Polyphosphate]),5,Tasmiya CSV
+8964000101704,ING01004,Taurine,6,Tasmiya CSV
+8964000101704,ING00836,"Preservatives (E202[Potassium Sorbate], E211[Sodium Benzoate])",7,Tasmiya CSV
+8964000101704,ING00175,Caffeine (Max 200 mg/L),8,Tasmiya CSV
+8964000101704,ING00802,Permitted Food Color (E129[Allura Red AC/Red 40]),9,Tasmiya CSV
+8964000101704,ING00505,Inositol,10,Tasmiya CSV
+8964000101704,ING00090,"Antioxidant(E385[Calcium Sodium EDTA]) & Vitamins (B3, B6, B12)",11,Tasmiya CSV
+0870572007444,ING00981,Sugar,1,Tasmiya CSV
+0870572007444,ING00460,Glucose Syrup,2,Tasmiya CSV
+0870572007444,ING00496,Hydrogenated Vegetable Oil,3,Tasmiya CSV
+0870572007444,ING00603,Maltodextrin,4,Tasmiya CSV
+0870572007444,ING00124,Beef Gelatin Halal,5,Tasmiya CSV
+0870572007444,ING00486,Gum Arabic(E-414),6,Tasmiya CSV
+0870572007444,ING00239,Citric Acid(E-330),7,Tasmiya CSV
+0870572007444,ING00533,Lactic Acid(E-270),8,Tasmiya CSV
+0870572007444,ING00106,"Artificial Food Flavours(Apple,Grape,Lemon,Orange And Strawberry)",9,Tasmiya CSV
+0870572007444,ING00104,"Artificial food Colours(E-102,E-110,E-122,E-129,E-133)",10,Tasmiya CSV
+0870572007444,ING01009,Titanium Dioxide(E-171)and glazing Agents(Bees Wax E-901 And Camauba E-903),11,Tasmiya CSV
+8964001179023,ING00187,Carbonated water,1,Tasmiya CSV
+8964001179023,ING00981,sugar,2,Tasmiya CSV
+8964001179023,ING00043,acidity regulator (E338),3,Tasmiya CSV
+8964001179023,ING00174,caffeine (100ppm),4,Tasmiya CSV
+8964001179023,ING00962,stabilizer (E445),5,Tasmiya CSV
+8964001179023,ING00658,natural flavor (cola) & caramel color (E150d),6,Tasmiya CSV
+8964000346334,ING00621,Milk Solids and Stabiliser.,1,Tasmiya CSV
+0620514006130,ING01014,Tomato Paste (>8% Tomato Solid),1,Tasmiya CSV
+0620514006130,ING00981,Sugar,2,Tasmiya CSV
+0620514006130,ING01063,Vinegar,3,Tasmiya CSV
+0620514006130,ING00889,Salt,4,Tasmiya CSV
+0620514006130,ING00627,Mixed Spices,5,Tasmiya CSV
+0620514006130,ING00963,Stabilizer (Xanthan Gum & Carboxymethyl Cellulose),6,Tasmiya CSV
+0620514006130,ING00838,Preservatives (Sodium Benzoate),7,Tasmiya CSV
+0620514006130,ING00029,_sulphites_.,8,Tasmiya CSV
+7622201718664,ING00981,SUGAR,1,Tasmiya CSV
+7622201718664,ING00037,ACID (CITRIC ACID),2,Tasmiya CSV
+7622201718664,ING00082,ANTICAKING AGENT (TRICALCIUM PHOSPHATE),3,Tasmiya CSV
+7622201718664,ING00045,ACIDITY REGULATOR (TRISODIUM CITRATE),4,Tasmiya CSV
+7622201718664,ING00707,ORANGE POWDER,5,Tasmiya CSV
+7622201718664,ING00808,"PERMITTED FOOD COLOURS (TITANIUM DIOXIDE, TARTRAZINE, SUNSET YELLOW)",6,Tasmiya CSV
+7622201718664,ING00889,SALT,7,Tasmiya CSV
+7622201718664,ING00675,NATURAL ORANGE FLAVOUR,8,Tasmiya CSV
+7622201718664,ING01007,"THICKENERS (XANTHAN GUM, SODIUM CARBOXYMETHYL CELLULOSE)",9,Tasmiya CSV
+7622201718664,ING01075,"VITAMINS (VITAMIN C, VITAMIN D)",10,Tasmiya CSV
+7622201718664,ING01144,ZINC OXIDE,11,Tasmiya CSV
+8964000695210,ING01087,Wheat Flour,1,Tasmiya CSV
+8964000695210,ING00758,Palm Oil,2,Tasmiya CSV
+8964000695210,ING00307,Corn Flour,3,Tasmiya CSV
+8964000695210,ING00867,Rice Flour,4,Tasmiya CSV
+8964000695210,ING00539,Leavening Agent (Sodium Bicarbonate E-500(ii)),5,Tasmiya CSV
+8964000695210,ING00493,Hot & Spicy Flavouring [Sugar,6,Tasmiya CSV
+8964000695210,ING00860,Red Chilli,7,Tasmiya CSV
+8964000695210,ING00476,Green Chilli Powder,8,Tasmiya CSV
+8964000695210,ING00889,Salt,9,Tasmiya CSV
+8964000695210,ING00450,Garlic Powder,10,Tasmiya CSV
+8964000695210,ING00603,Maltodextrin,11,Tasmiya CSV
+8964000695210,ING00309,Corn Starch,12,Tasmiya CSV
+8964000695210,ING00703,Onion Powder,13,Tasmiya CSV
+8964000695210,ING00047,"Acidity Regulators (Citric Acid (E-330), Sodium Di Acetate (E-262))",14,Tasmiya CSV
+8964000695210,ING00137,Black Pepper,15,Tasmiya CSV
+8964000695210,ING00215,Chicken Powder,16,Tasmiya CSV
+8964000695210,ING00346,Dehydrated Oregano,17,Tasmiya CSV
+8964000695210,ING00079,Anticaking Agent (E-551),18,Tasmiya CSV
+8964000695210,ING00683,Nature Identical Chilli Flavour,19,Tasmiya CSV
+8964000695210,ING00807,Permitted Food Colours (FD&C Yellow 5 (E-102) & Ponceau 4R (E-124)],20,Tasmiya CSV
+8964002429165,ING00467,Gram Flour,1,Tasmiya CSV
+8964002429165,ING00759,Palm Oil (non hydrogenated). Peanut,2,Tasmiya CSV
+8964002429165,ING00218,Chickpeas,3,Tasmiya CSV
+8964002429165,ING00468,Gram Pulse,4,Tasmiya CSV
+8964002429165,ING00160,Brown lentil,5,Tasmiya CSV
+8964002429165,ING00853,Raisins,6,Tasmiya CSV
+8964002429165,ING01109,White Salt,7,Tasmiya CSV
+8964002429165,ING00141,Black Salt,8,Tasmiya CSV
+8964002429165,ING00862,Red Chilli Powder,9,Tasmiya CSV
+8964002429165,ING00450,Garlic powder,10,Tasmiya CSV
+8964002429165,ING00052,Acidty Regulator (E 330).,11,Tasmiya CSV
+6954237224347,ING00790,peanut butter,1,Tasmiya CSV
+8964000103784,ING00830,Potatoes,1,Tasmiya CSV
+8964000103784,ING00758,Palm oil,2,Tasmiya CSV
+8964000103784,ING01132,"Yogurt & Herb flavor (Whey powder, Sugar, Garlic powder, Salt (E508), Natural and nature-identical flavorings, Onion powder, Herbs (Parsley, Mint, Dill), Yeast powder, Palm oil, Acidity regulators (E296, E330), Lactic acid (E551), Flavor enhancer (E633-from plant source))",3,Tasmiya CSV
+0046876380006,ING00187,Carbonated Water,1,Tasmiya CSV
+0046876380006,ING00981,Sugar,2,Tasmiya CSV
+0046876380006,ING00239,Citric Acid(E-330),3,Tasmiya CSV
+0046876380006,ING00922,Sodium Citrate (E-331),4,Tasmiya CSV
+0046876380006,ING00917,Sodium Benzoate (E-221),5,Tasmiya CSV
+0046876380006,ING00111,Ascorbic Acid(9.72ppm)(E-300),6,Tasmiya CSV
+0046876380006,ING00673,Natural Lemon Flavour,7,Tasmiya CSV
+8964000346679,ING00004,1l,1,Tasmiya CSV
+8964000346549,ING00614,Milk,1,Tasmiya CSV
+8964000346549,ING00967,"Stabilizers (INS 471, 339ii, 452, 407)",2,Tasmiya CSV
+8964002758999,ING01087,Wheat Flour,1,Tasmiya CSV
+8964002758999,ING00498,Hydrogenated Vegetable Oil (Palm) Sugar,2,Tasmiya CSV
+8964002758999,ING00435,Fresh Eggs,3,Tasmiya CSV
+8964002758999,ING00252,Cocoa Powder,4,Tasmiya CSV
+8964002758999,ING00564,Liquid Glucose Dextrose,5,Tasmiya CSV
+8964002758999,ING00350,Dextrin,6,Tasmiya CSV
+8964002758999,ING00889,Salt,7,Tasmiya CSV
+8964002758999,ING01097,Whey Powder (Milk),8,Tasmiya CSV
+8964002758999,ING00908,Skimmed Milk Powder,9,Tasmiya CSV
+8964002758999,ING00848,Raising Agents (Ammonium Bicarbonate E503),10,Tasmiya CSV
+8964002758999,ING00103,"Artificial Flavours (Milk, Chocolate, Vanilla)",11,Tasmiya CSV
+8964002758999,ING00430,Food Colour (E102). May contait traces of Peanut,12,Tasmiya CSV
+8964002758999,ING00931,Soy and Tres Muts.,13,Tasmiya CSV
+5078643001017,ING00181,Cane Sugar,1,Tasmiya CSV
+5078643001017,ING00608,Mango Pulp (10%),2,Tasmiya CSV
+5078643001017,ING00038,Acidifier (E-330),3,Tasmiya CSV
+5078643001017,ING00961,Stabilizer (E-412),4,Tasmiya CSV
+5078643001017,ING00089,Antioxidant (E-300),5,Tasmiya CSV
+5078643001017,ING00832,Preservative (E-211),6,Tasmiya CSV
+5078643001017,ING00107,Artificial Mango Flavour and Food Colours (E-110 & E-102).,7,Tasmiya CSV
+4006067060977,ING00002,100% Coffee. 100% Arabica.,1,Tasmiya CSV
+0620514009490,ING00649,national chilligarlie sauce ne t,1,Tasmiya CSV
+0620514009490,ING01123,wt teate eng,2,Tasmiya CSV
+0620514009490,ING00595,made with real tomato goodness no artificial colo artificial chunky garlic twist new,3,Tasmiya CSV
+0620514009490,ING00503,improved,4,Tasmiya CSV
+0620514009476,ING01015,Tomato Paste (>8% tomato solids),1,Tasmiya CSV
+0620514009476,ING00981,Sugar,2,Tasmiya CSV
+0620514009476,ING01063,Vinegar,3,Tasmiya CSV
+0620514009476,ING00892,Salt Mixed Spices,4,Tasmiya CSV
+0620514009476,ING00963,Stabilizer (Xanthan Gum & Carboxymethyl Cellulose),5,Tasmiya CSV
+0620514009476,ING00835,"Preservative (Sodium Benzoate).
+May contain sulphites.",6,Tasmiya CSV
+8961008022185,ING00614,Milk,1,Tasmiya CSV
+8961008022185,ING00965,Stabilizers,2,Tasmiya CSV
+8961008022185,ING01066,Vitamin A & D,3,Tasmiya CSV
+8961008022185,ING00022,_Milk Protein_,4,Tasmiya CSV
+8961008022185,ING00028,_Soya Protein_,5,Tasmiya CSV
+8964000707029,ING00907,Skimmed Milk (Skimmed Milk Powders),1,Tasmiya CSV
+8964000707029,ING00622,Milk Solids Non-Fat,2,Tasmiya CSV
+8964000707029,ING01041,Vegetable Fat,3,Tasmiya CSV
+8964000707029,ING00027,_Soya Lecithin_,4,Tasmiya CSV
+8964000707029,ING00625,Minerals and Vitamins,5,Tasmiya CSV
+8964002527151,ING01087,Wheat Flour,1,Tasmiya CSV
+8964002527151,ING00497,Hydrogenated Vegetable Oil (Palm),2,Tasmiya CSV
+8964002527151,ING00981,Sugar,3,Tasmiya CSV
+8964002527151,ING00435,Fresh Eggs,4,Tasmiya CSV
+8964002527151,ING00351,Dextrose,5,Tasmiya CSV
+8964002527151,ING00350,Dextrin,6,Tasmiya CSV
+8964002527151,ING00889,Salt,7,Tasmiya CSV
+8964002527151,ING01097,Whey Powder (Milk),8,Tasmiya CSV
+8964002527151,ING00908,Skimmed Milk Powder,9,Tasmiya CSV
+8964002527151,ING00848,Raising Agents (Ammonium Bicarbonate E503),10,Tasmiya CSV
+8964002527151,ING00100,Artificial Flavour (Milk),11,Tasmiya CSV
+8964002527151,ING00429,Food Colour (E102). May contain traces of _Peanut_,12,Tasmiya CSV
+8964002527151,ING00026,_Soy_ and _Tree Nuts_.,13,Tasmiya CSV
+7622210844279,ING00981,sugar,1,Tasmiya CSV
+7622210844279,ING00620,milk solids,2,Tasmiya CSV
+7622210844279,ING00063,almons(12%),3,Tasmiya CSV
+7622210844279,ING00250,cocoa butter,4,Tasmiya CSV
+7622210844279,ING00251,Cocoa mass,5,Tasmiya CSV
+7622210844279,ING01044,"vegetable fats (palm fruit,shea nut)",6,Tasmiya CSV
+7622210844279,ING00395,"emulsifiers (E442,E476)",7,Tasmiya CSV
+7622210844279,ING00653,Natural and artificial flavours,8,Tasmiya CSV
+7622210844279,ING00411,family milk chocolate: milk solids 20% min.Cocoa solids 20%min.,9,Tasmiya CSV
+8964002429158,ING00467,Gram Flour,1,Tasmiya CSV
+8964002429158,ING01049,Vegetable Oil,2,Tasmiya CSV
+8964002429158,ING00867,Rice Flour,3,Tasmiya CSV
+8964002429158,ING00789,Peanut,4,Tasmiya CSV
+8964002429158,ING00207,Chick Peas,5,Tasmiya CSV
+8964002429158,ING00468,Gram Pulse,6,Tasmiya CSV
+8964002429158,ING00160,Brown Lentil,7,Tasmiya CSV
+8964002429158,ING00853,Raisins,8,Tasmiya CSV
+8964002429158,ING01105,White Flour,9,Tasmiya CSV
+8964002429158,ING00889,Salt,10,Tasmiya CSV
+8964002429158,ING00862,Red Chilli Powder,11,Tasmiya CSV
+8964002429158,ING00953,Spices,12,Tasmiya CSV
+8964002429158,ING00238,Citric Acid (E-330).,13,Tasmiya CSV
+8961102500909,ING01087,wheat flour,1,Tasmiya CSV
+8961102500909,ING00981,sugar,2,Tasmiya CSV
+8961102500909,ING01049,vegetable oil,3,Tasmiya CSV
+8961102500909,ING01096,whey powder,4,Tasmiya CSV
+8961102500909,ING00252,cocoa powder,5,Tasmiya CSV
+8961102500909,ING00908,skimmed milk powder,6,Tasmiya CSV
+8961000010203,ING00265,Common salt (171.4 mg),1,Tasmiya CSV
+8961000010203,ING01002,tartaric acid (68.14 mg),2,Tasmiya CSV
+8961000010203,ING00142,Black salt (68.14 mg),3,Tasmiya CSV
+8961000010203,ING00335,Cumin seed (59.5 mg),4,Tasmiya CSV
+8961000010203,ING00138,Black pepper (21 mg),5,Tasmiya CSV
+8961000010203,ING00584,Long pepper (16.7 mg),6,Tasmiya CSV
+8961000010203,ING00456,ginger (16.7 mg),7,Tasmiya CSV
+8961008223063,ING00016,8 961008 223063,1,Tasmiya CSV
+8961003616730,ING00981,Sugar,1,Tasmiya CSV
+8961003616730,ING01087,Wheat Flour,2,Tasmiya CSV
+8961003616730,ING01052,"Vegetable Oil (Hydrogenated Palm Kernel Oil, Hydrogenated and Non-Hydrogenated Palm Oil)",3,Tasmiya CSV
+8961003616730,ING01095,Whey Permeate (From Milk),4,Tasmiya CSV
+8961003616730,ING00309,Corn Starch,5,Tasmiya CSV
+8961003616730,ING00252,Cocoa Powder,6,Tasmiya CSV
+8961003616730,ING00374,E322,7,Tasmiya CSV
+8961003616730,ING00375,E476,8,Tasmiya CSV
+8961003616730,ING00908,Skimmed Milk Powder,9,Tasmiya CSV
+8961003616730,ING00434,Fresh Egg,10,Tasmiya CSV
+8961003616730,ING00459,Glucose,11,Tasmiya CSV
+8961003616730,ING00851,Raising Agents: E500,12,Tasmiya CSV
+8961003616730,ING00376,E503,13,Tasmiya CSV
+8961003616730,ING00650,Natural & Artificial Flavours,14,Tasmiya CSV
+6071221000944,ING00682,Natural Yeast (Saccharomyces Cerevisiae),1,Tasmiya CSV
+0855434009378,ING00981,Sugar,1,Tasmiya CSV
+0855434009378,ING00359,"Distilled Aqueous Extracts of Herbs (Rose, Sanh). Acidliy Regulator 330). Preservative (-211). CONTAINS PERMITTED FOOD COLOUR (E-129)",2,Tasmiya CSV
+0855434009378,ING00672,Natural Identical Flavours. Note: You may find suspended particles in the syrup,3,Tasmiya CSV
+0855434009378,ING01102,which are active ingredients released by the extracts and kept purposely as they are ul. Therefore,4,Tasmiya CSV
+0855434009378,ING00901,shake the bottle before use.,5,Tasmiya CSV
+8964002345724,ING00831,Potatoes Palm oil,1,Tasmiya CSV
+8964002345724,ING00988,Sweet chill flavour Sugar,2,Tasmiya CSV
+8964002345724,ING00889,Salt,3,Tasmiya CSV
+8964002345724,ING00603,Maltodextrin,4,Tasmiya CSV
+8964002345724,ING00890,Salt 508) Spices Acidity regulators E30,5,Tasmiya CSV
+8964002345724,ING00003,1296),6,Tasmiya CSV
+8964002345724,ING00141,Black salt,7,Tasmiya CSV
+8964002345724,ING00684,Nature-identical flavourings,8,Tasmiya CSV
+8964002345724,ING00084,"Anticaking agents 1635 from plant (ESS1, E341(0) Herbs, Flavour enhancer source",9,Tasmiya CSV
+8965310055336,ING00413,Fiber,1,Tasmiya CSV
+8964002346783,ING00830,Potatoes,1,Tasmiya CSV
+8964002346783,ING00758,Palm oil,2,Tasmiya CSV
+8964002346783,ING00118,Barbeque flavour [Sugar,3,Tasmiya CSV
+8964002346783,ING00889,Salt,4,Tasmiya CSV
+8964002346783,ING00596,Maize dextrose,5,Tasmiya CSV
+8964002346783,ING00603,Maltodextrin,6,Tasmiya CSV
+8964002346783,ING00654,Natural and nature identical flavourings,7,Tasmiya CSV
+8964002346783,ING00501,Hydrolyzed wheat protein,8,Tasmiya CSV
+8964002346783,ING00041,Acidity regulator (E330),9,Tasmiya CSV
+8964002346783,ING00757,Palm kernel fat,10,Tasmiya CSV
+8964002346783,ING00083,"Anticaking agents (E551, E341(iii), Paprika extract (E160c), Sunflower oil, Flavour enhancers E627&E631 both from plant source)",11,Tasmiya CSV
+8964002346783,ING00387,Emulsifier (E414),12,Tasmiya CSV
+8964002346783,ING00840,Process flavouring,13,Tasmiya CSV
+8964002346783,ING00792,Peanut oil,14,Tasmiya CSV
+8964002346783,ING00068,and Smoke flavour] ergen: Contains Peanut and wheat MFG 22/11/25 17:17 w 88 22/03/0684619,15,Tasmiya CSV
+9556001249128,ING00927,Soluble Coffee,1,Tasmiya CSV
+8936114080084,ING00648,N PHẦN: ĐƯỜNG,1,Tasmiya CSV
+8936114080084,ING00228,CHẤT GUM NẾ GLUCOSE,2,Tasmiya CSV
+8936114080084,ING01008,TINH BỘT,3,Tasmiya CSV
+8936114080084,ING00231,CHẤT NHŨ HOA (LECITHIN-INS 3221),4,Tasmiya CSV
+8936114080084,ING00502,HƯỢNG BẠC HÀ TỰ NHIÊN VÀ TỔNG HỢP,5,Tasmiya CSV
+8936114080084,ING00230,CHẤT LÀM ẨM (GLYCEROL-INS 422),6,Tasmiya CSV
+8936114080084,ING00232,"CHẤT TẠO NGỌT TỔNG HỢP (ASPARTAME-INS 951, ACESULFAME K-INS 950)",7,Tasmiya CSV
+8936114080084,ING00229,CHẤT LÀM BÓNG (SÁP CARNAUBA-INS 903),8,Tasmiya CSV
+8936114080084,ING00647,"MÀU THỰC PHẨM TÔNG HỢP (TITANIUM DIOXYDE-INS 171, TARTRAZINE-INS 102, BRILLIANT BLUE FCF-INS 133)",9,Tasmiya CSV
+8936114080084,ING00227,CHẤT CHỐNG OXY HÓA (BUTYLATED HYDROXYTOLUENE-INS 321). LƯU Ý: PHENYLKETONURICS CÓ CHÚA PHENYLALANINE. NSX 03091943 HSD-010321123,10,Tasmiya CSV
+8961014021585,ING01013,Tomato Paste,1,Tasmiya CSV
+8961014021585,ING00981,Sugar,2,Tasmiya CSV
+8961014021585,ING00889,Salt,3,Tasmiya CSV
+8961014021585,ING00036,Acetic Acid,4,Tasmiya CSV
+8961014021585,ING00703,Onion Powder,5,Tasmiya CSV
+8961014021585,ING00457,Ginger Powder,6,Tasmiya CSV
+8961014021585,ING01124,Xanthan Gum,7,Tasmiya CSV
+8961014021585,ING00916,Sodium Benzoate,8,Tasmiya CSV
+8961014021585,ING00450,Garlic Powder,9,Tasmiya CSV
+8961014021585,ING00677,Natural Spice Extract,10,Tasmiya CSV
+8964000090282,ING00830,Potatoes,1,Tasmiya CSV
+8964000090282,ING00758,Palm oil,2,Tasmiya CSV
+8964000090282,ING00202,Cheese & Onion flavour [Onion powder,3,Tasmiya CSV
+8964000090282,ING00990,Sweet whey powder,4,Tasmiya CSV
+8964000090282,ING00889,Salt,5,Tasmiya CSV
+8964000090282,ING00597,Maize maltodextrin,6,Tasmiya CSV
+8964000090282,ING00981,Sugar,7,Tasmiya CSV
+8964000090282,ING00598,Maize starch,8,Tasmiya CSV
+8964000090282,ING00425,Flavouring preparations,9,Tasmiya CSV
+8964000090282,ING00423,Flavour enhancer (E627-from plant source),10,Tasmiya CSV
+8964000090282,ING00820,Potassium chloride,11,Tasmiya CSV
+8964000090282,ING00671,Natural identical flavouring substance,12,Tasmiya CSV
+8964000090282,ING00080,Anticaking agent (E551),13,Tasmiya CSV
+8964000090282,ING00668,Natural flavouring substance,14,Tasmiya CSV
+8964000090282,ING00205,Cheese powder,15,Tasmiya CSV
+8964000090282,ING00804,Permitted food colour (E160b)] Contains milk,16,Tasmiya CSV
+8964000707067,ING00909,Skimmed Milk/Skimmed Milk Powders,1,Tasmiya CSV
+8964000090879,ING00056,ade of 00% natural corn nutritional information serving size: 32g per 100g,1,Tasmiya CSV
+8964000090879,ING00799,per serving,2,Tasmiya CSV
+8964000090879,ING00397,energy (k) (kcal) protein (g) carbohydrates (g) sugars (g) total fat (g) saturated fat (g) fibre (g) sodiure (mg) 2427 e80 186 5,3,Tasmiya CSV
+8964000090879,ING00011,6 1,4,Tasmiya CSV
+8964000090879,ING00015,8 52,5,Tasmiya CSV
+8964000090879,ING00006,2 16,6,Tasmiya CSV
+8964000090879,ING00013,7 1,7,Tasmiya CSV
+8964000090879,ING00012,7 0,8,Tasmiya CSV
+8964000090879,ING00010,5 38,9,Tasmiya CSV
+8964000090879,ING00014,8 12,10,Tasmiya CSV
+8964000090879,ING00009,4 16,11,Tasmiya CSV
+8964000090879,ING00007,2 5,12,Tasmiya CSV
+8964000090879,ING00005,2 0,13,Tasmiya CSV
+8964000090879,ING00011,6 1,14,Tasmiya CSV
+8964000090879,ING00017,9 100 313 ingredients: corn meal,15,Tasmiya CSV
+8964000090879,ING00758,palm oil,16,Tasmiya CSV
+8964000090879,ING00419,flaming hot flavour [maltodext dried yeast,17,Tasmiya CSV
+8964000090879,ING00889,salt,18,Tasmiya CSV
+8964000090879,ING01094,whey ar,19,Tasmiya CSV
+8964000090879,ING00500,hydrolyzed vegetable permeate powder,20,Tasmiya CSV
+8964000090879,ING00842,protein,21,Tasmiya CSV
+8964000090879,ING00039,"acidity regu ors (e330, e262 (il), whey powder, permitted food colours (e129, e160b), flavouring,onion powder, garlic powder, palm oil, buttermilk powder, glucose syrup, flavour enhancer (e635), cheese powder, milk proteins skimmed milk powder, anticaking agent (e551) contains milk, soy ral diet",22,Tasmiya CSV
+8964000034699,ING01018,Tomato pulp,1,Tasmiya CSV
+8964000034699,ING01013,tomato paste,2,Tasmiya CSV
+8964000034699,ING00701,onion,3,Tasmiya CSV
+8964000034699,ING00447,garlic,4,Tasmiya CSV
+8964000034699,ING00981,sugar,5,Tasmiya CSV
+8964000034699,ING01049,vegetable oil,6,Tasmiya CSV
+8964000034699,ING00889,salt,7,Tasmiya CSV
+8964000034699,ING00966,stabilizers (Cellulose Gum E466 & Xanthan Gum E415),8,Tasmiya CSV
+8964000034699,ING00455,ginger,9,Tasmiya CSV
+8964000034699,ING00709,Oregano,10,Tasmiya CSV
+8964000034699,ING00834,Preservative (Sodium Benzoate E211),11,Tasmiya CSV
+8964000034699,ING00049,Acidity Regulators (Citric Acid E330 & Ascorbic Acid E300) & Red chilli powder,12,Tasmiya CSV
+0815096000373,ING00542,Lemon Flavour,1,Tasmiya CSV
+0815096000373,ING00478,Green Tea,2,Tasmiya CSV
+8961008213033,ING00981,Sugar,1,Tasmiya CSV
+8961008213033,ING00620,Milk Solids,2,Tasmiya CSV
+8961008213033,ING01041,Vegetable Fat,3,Tasmiya CSV
+8961008213033,ING00259,Coffee,4,Tasmiya CSV
+8961008213033,ING00970,"Stabilizers(INS407, INS339 & INS451)",5,Tasmiya CSV
+8961008213033,ING00252,Cocoa Powder,6,Tasmiya CSV
+8961008213033,ING00891,Salt and Soya Lecithin Allergens: Contains Milk Proteins & Sova Prote,7,Tasmiya CSV
+8961008213866,ING00981,Sugar,1,Tasmiya CSV
+8961008213866,ING00607,Mango Pulp,2,Tasmiya CSV
+8961008213866,ING00040,Acidity Regulator (Citric Acid),3,Tasmiya CSV
+8961008213866,ING00957,Stabiliser (INS 466),4,Tasmiya CSV
+8961008213866,ING00101,Artificial Flavours,5,Tasmiya CSV
+8961008213866,ING00088,Antioxidant (Ascorbic Acid) & Permitted Food Colour (INS 160a) Allergen: contains Soya Lecithin,6,Tasmiya CSV
+0620514008981,ING01077,Water,1,Tasmiya CSV
+0620514008981,ING00981,Sugar,2,Tasmiya CSV
+0620514008981,ING01063,Vinegar,3,Tasmiya CSV
+0620514008981,ING01013,Tomato Paste,4,Tasmiya CSV
+0620514008981,ING00448,Garlic & Red Chilli 104) Salt,5,Tasmiya CSV
+0620514008981,ING00627,Mixed Spices,6,Tasmiya CSV
+0620514008981,ING00969,"Stabilizers (Xanthan Gum, Carboxymethyl Cellulose)",7,Tasmiya CSV
+0620514008981,ING00839,"Preservatives (Sodium Benzoate, Sodium Metabisulphite) Antioxidant (Calcium Disodium EDTA). ALLERGY WARNING: Contains: Sulphites Manufactured at a facility which also processes Egg",8,Tasmiya CSV
+0620514008981,ING00945,Soya,9,Tasmiya CSV
+0620514008981,ING00645,Mustard and Peanut Keep away from direct heat and sunlight. Refrigerate,10,Tasmiya CSV
+8961100280001,ING00981,Sugar,1,Tasmiya CSV
+8961100280001,ING00037,Acid (Citric Acid),2,Tasmiya CSV
+8961100280001,ING00044,Acidity Regulator (Sodium Citrate),3,Tasmiya CSV
+8961100280001,ING01006,"Thickener (Carboxy Methyl Cellulose, Gum Arabic)",4,Tasmiya CSV
+8961100280001,ING00081,Anticaking agent (Tri Calcium Phosphate),5,Tasmiya CSV
+8961100280001,ING01070,Vitamin C,6,Tasmiya CSV
+8961100280001,ING00920,Sodium Chloride,7,Tasmiya CSV
+8961100280001,ING00806,Permitted Food Colour (E171),8,Tasmiya CSV
+8961100280001,ING00604,Maltodextrin & Natural Lemon Flavor.,9,Tasmiya CSV
+6281014440066,ING00248,Cocoa & (E501(i)) Potassium Carb.,1,Tasmiya CSV
+8961014033847,ING00690,Noodle Cake: Wheat Flour,1,Tasmiya CSV
+8961014033847,ING01049,Vegetable Oil,2,Tasmiya CSV
+8961014033847,ING00889,Salt,3,Tasmiya CSV
+8961014033847,ING00968,Stabilizers (Sodium and Potassium Phosphates),4,Tasmiya CSV
+8961014033847,ING00050,Acidity Regulators (Sodium and Potassium Carbonates),5,Tasmiya CSV
+8961014033847,ING00801,"Permitted Food Color (Beta Carotene) and Antioxidant (Tertiary Butyl Hydroquinone)
+Taste Maker: Salt",6,Tasmiya CSV
+8961014033847,ING00598,Maize Starch,7,Tasmiya CSV
+8961014033847,ING00820,Potassium Chloride,8,Tasmiya CSV
+8961014033847,ING00040,Acidity Regulator (Citric Acid),9,Tasmiya CSV
+8961014033847,ING00340,Dehydrated Carrot Flakes,10,Tasmiya CSV
+8961014033847,ING00344,Dehydrated Leeks,11,Tasmiya CSV
+8961014033847,ING00800,"Permitted Flavour Enhancers (Disodium Inosinate and Guanylate, Yeast Extract)",12,Tasmiya CSV
+8961014033847,ING00495,Hydrogenated Palm Fat,13,Tasmiya CSV
+8961014033847,ING00862,Red Chilli Powder,14,Tasmiya CSV
+8961014033847,ING00305,Coriander Powder,15,Tasmiya CSV
+8961014033847,ING00349,Dehydrated Tomato Flakes,16,Tasmiya CSV
+8961014033847,ING00336,Cumin Seed Powder,17,Tasmiya CSV
+8961014033847,ING00245,Clove Powder,18,Tasmiya CSV
+8961014033847,ING00094,Artificial Broth Flavour,19,Tasmiya CSV
+8961014033847,ING00674,Natural Lime Flavour,20,Tasmiya CSV
+8961014033847,ING00235,Cinnamon Powder,21,Tasmiya CSV
+8961014033847,ING00983,"Sugar.
+Allergens Warning: Wheat",22,Tasmiya CSV
+8961014033847,ING00985,Sulphite,23,Tasmiya CSV
+8961014033847,ING00198,Celery,24,Tasmiya CSV
+8961014033847,ING00930,Soy,25,Tasmiya CSV
+0046876380001,ING00187,Carbonated Water,1,Tasmiya CSV
+0046876380001,ING00981,Sugar,2,Tasmiya CSV
+0046876380001,ING00918,Sodium Benzoate(E-211),3,Tasmiya CSV
+0046876380001,ING00176,Caffeine(100ppm),4,Tasmiya CSV
+0046876380001,ING00237,Citric acid (E-330),5,Tasmiya CSV
+0046876380001,ING00810,Phosphoric Acid (E-338),6,Tasmiya CSV
+0046876380001,ING00186,Caramel Colour(E-150d),7,Tasmiya CSV
+0046876380001,ING00261,Cola Natural Flavour.,8,Tasmiya CSV
+8961008222790,ING00981,Sugar,1,Tasmiya CSV
+8961008222790,ING00607,Mango Pulp,2,Tasmiya CSV
+8961008222790,ING00040,Acidity Regulator (Citric Acid),3,Tasmiya CSV
+8961008222790,ING00957,Stabiliser (INS 466),4,Tasmiya CSV
+8961008222790,ING00099,Artificial Flavors (Contains Soya Lecithin),5,Tasmiya CSV
+8961008222790,ING00087,Antioxidant (Ascorbic Acid),6,Tasmiya CSV
+8961008222790,ING00803,Permitted Food Color (INS 160aiii),7,Tasmiya CSV
+8964000090602,ING00830,potatoes,1,Tasmiya CSV
+8964000090602,ING00758,palm oil,2,Tasmiya CSV
+8964000090602,ING00611,masala flavour,3,Tasmiya CSV
+8964000090602,ING00018,"[Natural flavour substance (onion powder, garlic powder,clili powder, coriander powder, cumin powder, black pepper, tomato powder, parsley, paprika extract (E160c),palm kernel oil, Hydrolyzed soy protein, peanut oil, Natural identical flavouring substance)",4,Tasmiya CSV
+8964000090602,ING00889,salt,5,Tasmiya CSV
+8964000090602,ING00981,sugar,6,Tasmiya CSV
+8964000090602,ING00041,Acidity regulator (E330),7,Tasmiya CSV
+8964000090602,ING00080,Anticaking agent (E551),8,Tasmiya CSV
+8964000090602,ING00422,flavour contains soy and peanut,9,Tasmiya CSV
+8964000102978,ING00308,Corn meal,1,Tasmiya CSV
+8964000102978,ING00758,Palm oil,2,Tasmiya CSV
+8964000102978,ING00861,Red chilli jhatka flavour [Sugar,3,Tasmiya CSV
+8964000102978,ING00426,"Flavouring substance (Garlic, Chili pepper, Fennel, Onion, Coriander)",4,Tasmiya CSV
+8964000102978,ING00041,Acidity regulator (E330),5,Tasmiya CSV
+8964000102978,ING00078,Anti-caking agent (E551),6,Tasmiya CSV
+8964000102978,ING00628,"Mixed spices (Cumin, Pepper, Ajowan)",7,Tasmiya CSV
+8964000102978,ING01088,Wheat flour (wheat),8,Tasmiya CSV
+8964000102978,ING00805,Permitted food colour (E160c),9,Tasmiya CSV
+8964000102978,ING00424,"Flavour enhancers (E627, E631-from plant)] and Salt Contains wheat *Guideline Daily Amount based on",10,Tasmiya CSV
+6291105691185,ING00146,BLUEBERRY MUFFIN with BLUEBERRY TOPPING,1,Tasmiya CSV
+8965310053103,ING01087,Wheat Flour,1,Tasmiya CSV
+8965310053103,ING00981,Sugar,2,Tasmiya CSV
+8965310053103,ING00496,Hydrogenated Vegetable Oil,3,Tasmiya CSV
+8965310053103,ING00696,Oat Flakes,4,Tasmiya CSV
+8965310053103,ING00170,Butter,5,Tasmiya CSV
+8965310053103,ING00163,Brown Sugar,6,Tasmiya CSV
+8965310053103,ING00464,Golden Syrup,7,Tasmiya CSV
+8965310053103,ING00563,Liquid Glucose,8,Tasmiya CSV
+8965310053103,ING00908,Skimmed Milk Powder,9,Tasmiya CSV
+8965310053103,ING00540,"Leavening Agents (E 500 (ii), E-503)",10,Tasmiya CSV
+8965310053103,ING00889,Salt,11,Tasmiya CSV
+8965310053103,ING00446,Full Cream Milk Powder,12,Tasmiya CSV
+8965310053103,ING00396,Emulsifying Agent (E 322),13,Tasmiya CSV
+4961200511849,ING01120,Whole Wheat Flour,1,Tasmiya CSV
+4961200511849,ING01086,Wheat Bran,2,Tasmiya CSV
+4961200511849,ING01042,"Vegetable Fat (Palm Oil, Soyabean Oil & Cottonseed Oil)",3,Tasmiya CSV
+4961200511849,ING00908,Skimmed Milk Powder,4,Tasmiya CSV
+4961200511849,ING00889,Salt,5,Tasmiya CSV
+4961200511849,ING00852,Raising Agents: Sodium Bicarbonate (E500),6,Tasmiya CSV
+4961200511849,ING00065,Ammonium Bicarbonate (E503),7,Tasmiya CSV
+4961200511849,ING01003,Tartaric Acid (E334),8,Tasmiya CSV
+4961200511849,ING00035,Acesulfame Potassium (E950),9,Tasmiya CSV
+4961200511849,ING00816,Polydextrose (E1200),10,Tasmiya CSV
+4961200511849,ING00602,Maltitol (E965),11,Tasmiya CSV
+8964002527236,ING00031,_Wheat Flour_,1,Tasmiya CSV
+8964002527236,ING00981,Sugar,2,Tasmiya CSV
+8964002527236,ING00497,Hydrogenated Vegetable Oil (Palm),3,Tasmiya CSV
+8964002527236,ING00033,_Whey Powder (Milk)_,4,Tasmiya CSV
+8964002527236,ING00490,High Fructose Syrup,5,Tasmiya CSV
+8964002527236,ING00177,Calcium Carbonate (E170),6,Tasmiya CSV
+8964002527236,ING00351,Dextrose,7,Tasmiya CSV
+8964002527236,ING00350,Dextrin,8,Tasmiya CSV
+8964002527236,ING00025,_Skimmed Milk Powder_,9,Tasmiya CSV
+8964002527236,ING00020,_Butter_,10,Tasmiya CSV
+8964002527236,ING00889,Salt,11,Tasmiya CSV
+8964002527236,ING00394,Emulsifier _(Soy Lecithin E322)_,12,Tasmiya CSV
+8964002527236,ING00849,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500)",13,Tasmiya CSV
+8964002527236,ING00102,"Artificial Flavours (Milk, Butter & Vanilla).  It may also contain traces of _Egg_",14,Tasmiya CSV
+8964002527236,ING00023,_Peanut_,15,Tasmiya CSV
+8964002527236,ING00030,_Tree Nuts_ & _Sulphite_.,16,Tasmiya CSV
+8801062015337,ING00032,_Wheat_ flour,1,Tasmiya CSV
+8801062015337,ING00060,Almond,2,Tasmiya CSV
+8801062015337,ING00981,Sugar,3,Tasmiya CSV
+8801062015337,ING01053,"Vegetable oil (Palm oil, Sunflower oil, Soy lecithin, Vitamin E)",4,Tasmiya CSV
+8801062015337,ING00253,"Cocoa preparation (Whole milk powder, Cocoa mass)",5,Tasmiya CSV
+8801062015337,ING00251,Cocoa mass,6,Tasmiya CSV
+8801062015337,ING00535,Lactose,7,Tasmiya CSV
+8801062015337,ING00902,"Shortening (Palm oil, Tocopherol)",8,Tasmiya CSV
+8801062015337,ING00466,"Grains (Wheat, Non - glutinous rice, Glutinous rice)",9,Tasmiya CSV
+8801062015337,ING01112,Whole _milk_ powder,10,Tasmiya CSV
+8801062015337,ING00250,Cocoa butter,11,Tasmiya CSV
+8801062015337,ING00841,"Processed butter (Butter, Coconut oil)",12,Tasmiya CSV
+8801062015337,ING01113,Whole egg liquid,13,Tasmiya CSV
+8801062015337,ING00046,"Acidity regulators (Ammonium bicarbonate, Sodium bicarbonate, Sodium phosphate tribasic)",14,Tasmiya CSV
+8801062015337,ING00600,Malt extract,15,Tasmiya CSV
+8801062015337,ING00386,"Emulsifier (_Soy_ lecithin, Polyglycerol polyricinoleate)",16,Tasmiya CSV
+8801062015337,ING00889,Salt,17,Tasmiya CSV
+8801062015337,ING00489,High fructose corn syrup,18,Tasmiya CSV
+8801062015337,ING00097,Artificial flavor,19,Tasmiya CSV
+8801062015337,ING00400,"Enzyme preparation (Glycerin, Water, Papaya extract, Sodium metabisulfite)",20,Tasmiya CSV
+8801062015337,ING01074,Vitamin E,21,Tasmiya CSV
+8801062015337,ING01126,Yeast,22,Tasmiya CSV
+8801062015337,ING00019,_Almond_ powder,23,Tasmiya CSV
+8801062015337,ING00024,_Peanut_ powder,24,Tasmiya CSV
+8801062015337,ING00877,Roasted Sesame,25,Tasmiya CSV
+0870572001404,ING01087,Wheat Flour,1,Tasmiya CSV
+0870572001404,ING00981,Sugar,2,Tasmiya CSV
+0870572001404,ING00496,Hydrogenated Vegetable oil,3,Tasmiya CSV
+0870572001404,ING00252,Cocoa Powder,4,Tasmiya CSV
+0870572001404,ING00507,Invert Syrup,5,Tasmiya CSV
+0870572001404,ING00352,Dextrose Powder,6,Tasmiya CSV
+0870572001404,ING00908,Skimmed Milk Powder,7,Tasmiya CSV
+0870572001404,ING00889,Salt,8,Tasmiya CSV
+0870572001404,ING00847,Raising Agent (Sodium Bicarbonate),9,Tasmiya CSV
+0870572001404,ING00393,Emulsifier (Soya Lacithin E-322),10,Tasmiya CSV
+0870572001404,ING00105,Artificial Food Flavour (Vanilla),11,Tasmiya CSV
+0870572001404,ING01039,Vanillin Powder,12,Tasmiya CSV
+0870572001404,ING00085,Antioxidant,13,Tasmiya CSV
+0870572001404,ING00669,Natural Food Color (E-150).,14,Tasmiya CSV
+8964002755974,ING01087,Wheat Flour,1,Tasmiya CSV
+8964002755974,ING00981,Sugar,2,Tasmiya CSV
+8964002755974,ING00497,Hydrogenated Vegetable Oil (Palm),3,Tasmiya CSV
+8964002755974,ING01098,Whey Powder (Milk) invert Syrup,4,Tasmiya CSV
+8964002755974,ING00351,Dextrose,5,Tasmiya CSV
+8964002755974,ING00350,Dextrin,6,Tasmiya CSV
+8964002755974,ING00908,Skimmed Milk Powder,7,Tasmiya CSV
+8964002755974,ING00433,Fresh Butter,8,Tasmiya CSV
+8964002755974,ING00889,Salt,9,Tasmiya CSV
+8964002755974,ING00392,Emulsifier (Soy Lecithin E322),10,Tasmiya CSV
+8964002755974,ING00850,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500).
+Artificial Flavours (MiIk, Butter & Vanilla). May Contain traces of Egg. Peanut",11,Tasmiya CSV
+8964002755974,ING01023,Tree Nuts & Sulphite,12,Tasmiya CSV
+8901063151963,ING00428,Flour (wheat),1,Tasmiya CSV
+8901063151963,ING00982,"sugar (cane sugar, liquid glucose, maltodextrin, invert sugar)",2,Tasmiya CSV
+8901063151963,ING01043,vegetable fat (palm),3,Tasmiya CSV
+8901063151963,ING00697,oat flakes (15%),4,Tasmiya CSV
+8901063151963,ING00061,almond (5%),5,Tasmiya CSV
+8901063151963,ING01086,wheat bran,6,Tasmiya CSV
+8901063151963,ING00919,sodium bicarbonate,7,Tasmiya CSV
+8901063151963,ING00064,ammonium bicarbonate,8,Tasmiya CSV
+8901063151963,ING00914,sodium acid pyrophosphate,9,Tasmiya CSV
+8901063151963,ING00695,oat fiber,10,Tasmiya CSV
+8901063151963,ING00906,skim milk powder (1%),11,Tasmiya CSV
+8901063151963,ING00933,soy lecithin,12,Tasmiya CSV
+8901063151963,ING00637,mono,13,Tasmiya CSV
+8901063151963,ING00356,diglycerides of fatty acids (palm),14,Tasmiya CSV
+8901063151963,ING00353,diacetyle tartaric acid esters of mono,15,Tasmiya CSV
+8901063151963,ING00355,diglycerides (palm),16,Tasmiya CSV
+8901063151963,ING00889,salt,17,Tasmiya CSV
+8901063151963,ING00170,butter,18,Tasmiya CSV
+8901063151963,ING01030,vanilla,19,Tasmiya CSV
+8901063151963,ING00615,milk (artificial flavours),20,Tasmiya CSV
+8901063151963,ING00185,caramel colour (contains sulphite),21,Tasmiya CSV
+0745314033398,ING01087,WHEAT FLOUR,1,Tasmiya CSV
+0745314033398,ING00496,HYDROGENATED VEGETABLE OIL,2,Tasmiya CSV
+0745314033398,ING01096,WHEY POWDER,3,Tasmiya CSV
+0745314033398,ING00535,LACTOSE,4,Tasmiya CSV
+0745314033398,ING00252,COCOA POWDER,5,Tasmiya CSV
+0745314033398,ING00946,SOYBEAN LECITHIN,6,Tasmiya CSV
+0745314033398,ING00639,MONO-DIGLYCEROL FATTY ACID ESTER,7,Tasmiya CSV
+0745314033398,ING01038,VANILLIN,8,Tasmiya CSV
+0745314033398,ING01110,WHITE SUGAR,9,Tasmiya CSV
+0745314033398,ING00378,EDIBLE VEGETABLE OIL,10,Tasmiya CSV
+0745314033398,ING00889,SALT,11,Tasmiya CSV
+0745314033398,ING00064,AMMONIUM BICARBONATE,12,Tasmiya CSV
+0745314033398,ING00919,SODIUM BICARBONATE,13,Tasmiya CSV
+0745314033398,ING00114,B-CAROTENE,14,Tasmiya CSV
+0745314033398,ING00923,SODIUM METABISULFITE,15,Tasmiya CSV
+0745314033398,ING00992,SYNTHETIC FLAVO( STRAWBERRY) SYNTHETIC COLOR(E129),16,Tasmiya CSV
+0745314033398,ING00655,NATURAL COLOR(E150),17,Tasmiya CSV
+0745314033398,ING00278,CONTAINS ADDED SYNTHETIC FOOD FLAVOR AND SYNTHETIC FOOD COLOR,18,Tasmiya CSV
+8964003593841,ING01087,Wheat Flour,1,Tasmiya CSV
+8964003593841,ING00981,Sugar,2,Tasmiya CSV
+8964003593841,ING00497,Hydrogenated Vegetable Oil (Palm),3,Tasmiya CSV
+8964003593841,ING00252,Cocoa Powder,4,Tasmiya CSV
+8964003593841,ING00257,Coconut Oil,5,Tasmiya CSV
+8964003593841,ING00491,High Fructose Syrup Skimmed Milk Powder,6,Tasmiya CSV
+8964003593841,ING00351,Dextrose,7,Tasmiya CSV
+8964003593841,ING00889,Salt,8,Tasmiya CSV
+8964003593841,ING00392,Emulsifier (Soy Lecithin E322),9,Tasmiya CSV
+8964003593841,ING00849,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500)",10,Tasmiya CSV
+8964003593841,ING00494,Humectant (Propylene Glyad E1520) Dough Conditioner (Sodium Metabisulphite E223),11,Tasmiya CSV
+8964003593841,ING00103,"Artificial Flavours (Milk, Chocolate, Vanilla)",12,Tasmiya CSV
+8964003593841,ING00431,"Food Colours (E12, E150) ALLERGEN ADVICE:",13,Tasmiya CSV
+8961003679759,ING01087,Wheat Flour,1,Tasmiya CSV
+8961003679759,ING00164,Brown Sugar (21%). Vegetable Fat (including Palm Roy Bean Oil & Cotton Seed Oil),2,Tasmiya CSV
+8961003679759,ING00981,Sugar,3,Tasmiya CSV
+8961003679759,ING00380,Egg Powder,4,Tasmiya CSV
+8961003679759,ING00845,"Ra sing Agent Sodium Bicarbonate (Salt, Spice (Cinnamon), Artificial Flavour: Carame gen Warning: ins: Wheat (Gluten) and Egg. May contains of Milk and Soya, يض، عامل رافعة بيكر the freshness and crispness of biscuits. 50",5,Tasmiya CSV
+8964004770616,ING01087,Wheat Flour,1,Tasmiya CSV
+8964004770616,ING00497,Hydrogenated Vegetable Oil (Palm),2,Tasmiya CSV
+8964004770616,ING00981,Sugar,3,Tasmiya CSV
+8964004770616,ING00791,Peanut Grits,4,Tasmiya CSV
+8964004770616,ING00490,High Fructose Syrup,5,Tasmiya CSV
+8964004770616,ING00384,Eggs,6,Tasmiya CSV
+8964004770616,ING01097,Whey Powder (Milk),7,Tasmiya CSV
+8964004770616,ING00889,Salt,8,Tasmiya CSV
+8964004770616,ING00392,Emulsifier (soy Lecithin E322),9,Tasmiya CSV
+8964004770616,ING00599,Malt (Barley),10,Tasmiya CSV
+8964004770616,ING00849,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500)",11,Tasmiya CSV
+8964004770616,ING00108,Artificial Peanut Flavour Allergen Advice: For allergen,12,Tasmiya CSV
+8964004770616,ING00898,see the ingredients in bold text. May contain traces of Tree Nuts & Sulfite The Trademark Pied Piper (Device) is owned by English Biscuit Manufacturers kistan. Used under license and permission and manufactured by Coronet Foods Pvt) Ltd.,13,Tasmiya CSV
+8964004770616,ING00814,Plot No. 55,14,Tasmiya CSV
+8964004770616,ING00809,Phase III,15,Tasmiya CSV
+8964004770616,ING00504,Industrial Estate,16,Tasmiya CSV
+8964004770616,ING00488,Hattar,17,Tasmiya CSV
+8964004770616,ING00487,Haripur uwa,18,Tasmiya CSV
+8964004770616,ING00755,Pakistan. 0600-00326 aapkirai@ebm.com.pk www.sbm.com.pk IN 8 19640,19,Tasmiya CSV
+3012993024298,ING00153,Brandy,1,Tasmiya CSV
+3012993024298,ING01077,water,2,Tasmiya CSV
+3012993024298,ING00981,sugar,3,Tasmiya CSV
+3012993024298,ING00694,oak shavings infusion,4,Tasmiya CSV
+3012993024298,ING00263,colour : E150A. permitted natural colour (INS 15OA),5,Tasmiya CSV
+0012000034220,ING00693,"NUTRITION
+iNPORMATION
+ĐERST
+152",1,Tasmiya CSV
+0815096001158,ING00143,Black Tea.,1,Tasmiya CSV
+1860201136811,ING01078,"WATER ANALYSIS
+
+Mineral contents
+Sodium
+Caicium
+Magnesium
+Suiphate
+Bicarbonates
+Chioride
+Fluoride
+TDS
+pH",1,Tasmiya CSV
+1512141512186,ING01077,Water,1,Tasmiya CSV
+1512141512186,ING00484,Guava Juice: 15%,2,Tasmiya CSV
+1512141512186,ING00981,Sugar,3,Tasmiya CSV
+1512141512186,ING00048,"Acidity Regulators (Citric Acid E-330, Sodium Citrate E-331)",4,Tasmiya CSV
+1512141512186,ING00956,"Stabiliser (Guar Gum E-412, Sodium Carboxy Methyl Cellulose E-466)",5,Tasmiya CSV
+1512141512186,ING00993,Synthetic Guava Flavour,6,Tasmiya CSV
+1512141512186,ING00086,Antioxidant (Ascorbic Acid E-300),7,Tasmiya CSV
+1512141512186,ING00833,Preservative (Sodium Benzoate E-211).,8,Tasmiya CSV
+96198599,ING01082,Wates,1,Tasmiya CSV
+96198599,ING00706,Orange Fruit from Concentrate (40%),2,Tasmiya CSV
+96198599,ING00037,Acid (Citric Acid),3,Tasmiya CSV
+96198599,ING00044,Acidity Regulator (Sodium Citrate),4,Tasmiya CSV
+96198599,ING00676,Natural Orange Flavouring with other Natural Flavourings,5,Tasmiya CSV
+96198599,ING00991,"Sweeteners (Sucralose, Acesulfame K)",6,Tasmiya CSV
+96198599,ING00389,Emulsifier (Glycerol Esters of Wood Rosins),7,Tasmiya CSV
+96198599,ING00958,Stabiliser (Sucrose Acetate Isobutyrate),8,Tasmiya CSV
+96198599,ING00837,"Preservatives (Potassium Sorbate, Sodium Metabisulphite)",9,Tasmiya CSV
+96198599,ING00656,Natural Colour (Carotenes). Suitable for vegetarians and vegans.,10,Tasmiya CSV
+4056489148739,ING00614,Milk,1,Tasmiya CSV
+5012262004011,ING01118,whole milk (60%),1,Tasmiya CSV
+5012262004011,ING01103,whipping cream (21%),2,Tasmiya CSV
+5012262004011,ING00981,sugar,3,Tasmiya CSV
+5012262004011,ING00620,milk solids,4,Tasmiya CSV
+5012262004011,ING00463,glycerine,5,Tasmiya CSV
+5012262004011,ING00390,emulsifier (mono - and diglycerides of fatty acids),6,Tasmiya CSV
+5012262004011,ING00774,pasteurised free range eggs,7,Tasmiya CSV
+5012262004011,ING00960,stabilisers (sodium alginate and guar gum),8,Tasmiya CSV
+5010238020355,ING00311,CORNISH WHOLE MILK (milk),1,Tasmiya CSV
+5010238020355,ING00243,CLOTTED CREAM (MILK) (10%),2,Tasmiya CSV
+5010238020355,ING00981,SUGAR,3,Tasmiya CSV
+5010238020355,ING00365,DRIED GLUCOSE SYRUP,4,Tasmiya CSV
+5010238020355,ING00172,BUTTER OIL (_MILK_),5,Tasmiya CSV
+5010238020355,ING00368,DRIED SKIMMED _MILK_,6,Tasmiya CSV
+5010238020355,ING00391,EMULSIFIER (MONO-AND DIGLYCERIDES OF FATTY ACIDS),7,Tasmiya CSV
+5010238020355,ING00959,"STABILISERS (LOCUST BEAN GUM, GUAR GUM)",8,Tasmiya CSV
+5010238020355,ING00427,FLAVOURINGS,9,Tasmiya CSV
+5010238020355,ING00262,COLOUR (CAROTENES).,10,Tasmiya CSV
+0036632019448,ING00321,Cultured grade A non fat milk,1,Tasmiya CSV
+0036632019448,ING01077,water,2,Tasmiya CSV
+0036632019448,ING00665,natural flavors,3,Tasmiya CSV
+0036632019448,ING00281,contains less than 1% of tapioca starch,4,Tasmiya CSV
+0036632019448,ING00972,stevia leaf extract,5,Tasmiya CSV
+0036632019448,ING00545,lemon juice concentrate,6,Tasmiya CSV
+0036632019448,ING00895,sea salt,7,Tasmiya CSV
+0036632019448,ING01071,vitamin D3,8,Tasmiya CSV
+0036632019448,ING01142,yogurt cultures: S. Thermophilus & L. Bulgaricus.,9,Tasmiya CSV
+0894700010144,ING00328,Cultured nonfat milk,1,Tasmiya CSV
+0894700010144,ING00181,cane sugar,2,Tasmiya CSV
+0894700010144,ING01077,water,3,Tasmiya CSV
+0894700010144,ING00665,natural flavors,4,Tasmiya CSV
+0894700010144,ING00443,fruit pectin,5,Tasmiya CSV
+0894700010144,ING00483,guar gum,6,Tasmiya CSV
+0894700010144,ING00582,locust bean gum,7,Tasmiya CSV
+0894700010144,ING01035,vanilla extract,8,Tasmiya CSV
+0894700010144,ING00546,lemon juice concentrate.,9,Tasmiya CSV
+0036632020192,ING00321,Cultured Grade A Non Fat Milk,1,Tasmiya CSV
+0036632020192,ING01077,Water,2,Tasmiya CSV
+0036632020192,ING00665,Natural Flavors,3,Tasmiya CSV
+0036632020192,ING01000,Tapioca Starch,4,Tasmiya CSV
+0036632020192,ING00972,Stevia Leaf Extract,5,Tasmiya CSV
+0036632020192,ING00545,Lemon Juice Concentrate,6,Tasmiya CSV
+0036632020192,ING00895,Sea Salt,7,Tasmiya CSV
+0036632020192,ING01071,Vitamin D3,8,Tasmiya CSV
+0036632020192,ING00887,S. Thermophilus And L. Bulgaricus.,9,Tasmiya CSV
+0898248001411,ING00783,Pasteurized skim milk,1,Tasmiya CSV
+0898248001411,ING00571,live active cultures: live active cultures: s. thermophilus,2,Tasmiya CSV
+0898248001411,ING00522,l. delbrueckii subsp. bulgaricus,3,Tasmiya CSV
+0898248001411,ING00115,b. lactis,4,Tasmiya CSV
+0898248001411,ING00516,l. acidophilus,5,Tasmiya CSV
+0898248001411,ING00523,l. delbrueckii subsp. lactis,6,Tasmiya CSV
+4099100150889,ING00326,cultured non fat milk,1,Tasmiya CSV
+4099100150889,ING00285,contains live and active culture,2,Tasmiya CSV
+4099100150889,ING00888,s.thermophilus,3,Tasmiya CSV
+4099100150889,ING00526,l.bulgaricus,4,Tasmiya CSV
+4099100150889,ING00525,l.acidophilus,5,Tasmiya CSV
+4099100150889,ING00133,bifidus and l. casei,6,Tasmiya CSV
+0078742016856,ING00331,CULTURED PASTEURIZED NONFAT MILK.,1,Tasmiya CSV
+0894700010069,ING00328,Cultured nonfat milk,1,Tasmiya CSV
+0894700010069,ING00787,peaches,2,Tasmiya CSV
+0894700010069,ING00181,cane sugar,3,Tasmiya CSV
+0894700010069,ING01077,water,4,Tasmiya CSV
+0894700010069,ING00443,fruit pectin,5,Tasmiya CSV
+0894700010069,ING00665,natural flavors,6,Tasmiya CSV
+0894700010069,ING00483,guar gum,7,Tasmiya CSV
+0894700010069,ING00545,lemon juice concentrate,8,Tasmiya CSV
+0894700010069,ING00583,locust bean gum.,9,Tasmiya CSV
+0898248001428,ING00332,cultured pasteurized skim milk,1,Tasmiya CSV
+0898248001428,ING00181,cane sugar,2,Tasmiya CSV
+0898248001428,ING00593,"madagascar bourbon vanilla (vanilla extract, vanilla bean specks)",3,Tasmiya CSV
+0898248001428,ING00443,fruit pectin,4,Tasmiya CSV
+0894700010045,ING00688,Nonfat yogurt (cultured pasteurized nonfat milk),1,Tasmiya CSV
+0894700010045,ING00402,evaporated cane sugar,2,Tasmiya CSV
+0894700010045,ING00976,strawberries,3,Tasmiya CSV
+0894700010045,ING01077,water,4,Tasmiya CSV
+0894700010045,ING00443,fruit pectin,5,Tasmiya CSV
+0894700010045,ING00665,natural flavors,6,Tasmiya CSV
+0894700010045,ING00582,locust bean gum,7,Tasmiya CSV
+0894700010045,ING00439,fruit and vegetable juice concentrate (for color),8,Tasmiya CSV
+0894700010045,ING00546,lemon juice concentrate.,9,Tasmiya CSV
+0078355550006,ING00329,Cultured pasteurized grade a milk,1,Tasmiya CSV
+0078355550006,ING00316,cream,2,Tasmiya CSV
+0078355550006,ING00796,pectin.,3,Tasmiya CSV
+0775075110298,ING00778,Pasteurized Grade A skim milk and cream,1,Tasmiya CSV
+0775075110298,ING00574,live and active bacterial cultures. Contains: milk.,2,Tasmiya CSV
+0818290017710,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290017710,ING00977,strawberries chicory root fiber,2,Tasmiya CSV
+0818290017710,ING00556,less than 1.5% of: lactase,3,Tasmiya CSV
+0818290017710,ING00665,natural flavors,4,Tasmiya CSV
+0818290017710,ING00636,monk fruit extract,5,Tasmiya CSV
+0818290017710,ING00973,stevia leaf extract (reb m),6,Tasmiya CSV
+0818290017710,ING00443,fruit pectin,7,Tasmiya CSV
+0818290017710,ING00582,locust bean gum,8,Tasmiya CSV
+0818290017710,ING01048,vegetable juice concentrate (for color),9,Tasmiya CSV
+0818290017710,ING01077,water,10,Tasmiya CSV
+0818290017710,ING00549,lemon juice concentrate. Ingredient not found in regular yogurt.,11,Tasmiya CSV
+0078354303559,ING00780,PASTEURIZED MILK,1,Tasmiya CSV
+0078354303559,ING00316,CREAM,2,Tasmiya CSV
+0078354303559,ING00619,MILK PROTEIN CONCENTRATE,3,Tasmiya CSV
+0078354303559,ING01099,WHEY PROTEIN CONCENTRATE,4,Tasmiya CSV
+0078354303559,ING00054,"ACTIVE YOGURT CULTURES (L. ACIDOPHILUS,, BIFIDUS, L. BULGARICUS AND S., THERMOPHILUS)",5,Tasmiya CSV
+0078354303559,ING01065,VITAMIN A,6,Tasmiya CSV
+0078354303559,ING00760,PALMITATE,7,Tasmiya CSV
+0078354303559,ING01071,VITAMIN D3,8,Tasmiya CSV
+0078354303559,ING00288,CONTAINS MILK.,9,Tasmiya CSV
+0017077103329,ING00779,Pasteurized lowfat milk,1,Tasmiya CSV
+0017077103329,ING00687,nonfat milk,2,Tasmiya CSV
+0017077103329,ING00181,cane sugar,3,Tasmiya CSV
+0017077103329,ING00795,pectin,4,Tasmiya CSV
+0017077103329,ING00678,natural strawberry flavor,5,Tasmiya CSV
+0017077103329,ING00665,natural flavors,6,Tasmiya CSV
+0017077103329,ING00857,red beet juice (for color),7,Tasmiya CSV
+0017077103329,ING01067,vitamin a palmitate,8,Tasmiya CSV
+0017077103329,ING01071,vitamin d3,9,Tasmiya CSV
+0017077103329,ING00578,live and active cultures.,10,Tasmiya CSV
+0894700010267,ING00328,Cultured nonfat milk,1,Tasmiya CSV
+0894700010267,ING00181,cane sugar,2,Tasmiya CSV
+0894700010267,ING00976,strawberries,3,Tasmiya CSV
+0894700010267,ING01077,water,4,Tasmiya CSV
+0894700010267,ING00665,natural flavors,5,Tasmiya CSV
+0894700010267,ING00443,fruit pectin,6,Tasmiya CSV
+0894700010267,ING00483,guar gum,7,Tasmiya CSV
+0894700010267,ING00439,fruit and vegetable juice concentrate (for color),8,Tasmiya CSV
+0894700010267,ING00545,lemon juice concentrate,9,Tasmiya CSV
+0894700010267,ING00583,locust bean gum.,10,Tasmiya CSV
+0036632042637,ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632042637,ING01077,WATER,2,Tasmiya CSV
+0036632042637,ING01099,WHEY PROTEIN CONCENTRATE,3,Tasmiya CSV
+0036632042637,ING00665,NATURAL FLAVORS,4,Tasmiya CSV
+0036632042637,ING00316,CREAM,5,Tasmiya CSV
+0036632042637,ING01000,TAPIOCA STARCH,6,Tasmiya CSV
+0036632042637,ING00545,LEMON JUICE CONCENTRATE,7,Tasmiya CSV
+0036632042637,ING00975,STEVIA LEAF REB M,8,Tasmiya CSV
+0036632042637,ING00822,POTASSIUM SORBATE,9,Tasmiya CSV
+0036632042637,ING01071,VITAMIN D3,10,Tasmiya CSV
+0036632042637,ING01138,YOGURT CULTURES S. THERMOPHILUS,11,Tasmiya CSV
+0036632042637,ING00518,L. BULGARICUS.,12,Tasmiya CSV
+0705118401212,ING00781,PASTEURIZED ORGANIC COW MILK,1,Tasmiya CSV
+0705118401212,ING00565,LIVE,2,Tasmiya CSV
+0705118401212,ING00053,ACTIVE CULTURES: S. THERMOPHILUS,3,Tasmiya CSV
+0705118401212,ING00515,L BULGARICUS,4,Tasmiya CSV
+0705118401212,ING00527,LACIDOPHILUS,5,Tasmiya CSV
+0705118401212,ING00132,BIFIDUS,6,Tasmiya CSV
+0078354311516,ING00785,Pasteurtzed milk,1,Tasmiya CSV
+0078354311516,ING00903,skim mil,2,Tasmiya CSV
+0078354311516,ING00619,"milk
+protein concentrate",3,Tasmiya CSV
+0078354311516,ING01101,"whey protein
+Goncentrate",4,Tasmiya CSV
+0078354311516,ING00573,"live active yogust
+Gultures (Acidophilus, Bifidus,
+L bulgaricus and s. thermophilus)",5,Tasmiya CSV
+0078354311516,ING01067,Vitamin A palmitate,6,Tasmiya CSV
+0078354311516,ING01072,"Vitamin D3.
+CONTAINS MILK",7,Tasmiya CSV
+0894700010021,ING00688,Nonfat yogurt (cultured pasteurized nonfat milk),1,Tasmiya CSV
+0894700010021,ING00402,evaporated cane sugar,2,Tasmiya CSV
+0894700010021,ING01077,water,3,Tasmiya CSV
+0894700010021,ING01035,vanilla extract,4,Tasmiya CSV
+0894700010021,ING00582,locust bean gum,5,Tasmiya CSV
+0894700010021,ING00443,fruit pectin,6,Tasmiya CSV
+0894700010021,ING00657,natural flavor,7,Tasmiya CSV
+0894700010021,ING00548,lemon juice concentrate. contains live and active cultures: s. thermophilus,8,Tasmiya CSV
+0894700010021,ING00517,l. bulgaricus,9,Tasmiya CSV
+0894700010021,ING00516,l. acidophilus,10,Tasmiya CSV
+0894700010021,ING00134,bifidus and l. casei.,11,Tasmiya CSV
+0859977005125,ING00904,Skim milk,1,Tasmiya CSV
+0859977005125,ING01117,whole milk,2,Tasmiya CSV
+0859977005125,ING00316,cream,3,Tasmiya CSV
+0859977005125,ING00201,celtic sea salt,4,Tasmiya CSV
+0859977005125,ING00576,live and active cultures (lactobacillus paracasei).,5,Tasmiya CSV
+0818290015150,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290015150,ING01077,water,2,Tasmiya CSV
+0818290015150,ING01035,vanilla extract,3,Tasmiya CSV
+0818290015150,ING00219,chicory root fiber,4,Tasmiya CSV
+0818290015150,ING00665,natural flavors,5,Tasmiya CSV
+0818290015150,ING00528,lactase,6,Tasmiya CSV
+0818290015150,ING00443,fruit pectin,7,Tasmiya CSV
+0818290015150,ING00895,sea salt,8,Tasmiya CSV
+0818290015150,ING00972,stevia leaf extract,9,Tasmiya CSV
+0818290015150,ING00483,guar gum,10,Tasmiya CSV
+0818290015150,ING00545,lemon juice concentrate,11,Tasmiya CSV
+0818290015150,ING00582,locust bean gum,12,Tasmiya CSV
+0036632019530,ING00321,cultured grade A non fat milk,1,Tasmiya CSV
+0036632019530,ING01077,water,2,Tasmiya CSV
+0036632019530,ING00665,natural flavors,3,Tasmiya CSV
+0036632019530,ING00283,contains less than 1% of: tapioca starch,4,Tasmiya CSV
+0036632019530,ING00972,stevia leaf extract,5,Tasmiya CSV
+0036632019530,ING00545,lemon juice concentrate,6,Tasmiya CSV
+0036632019530,ING00895,sea salt,7,Tasmiya CSV
+0036632019530,ING01071,vitamin D3,8,Tasmiya CSV
+0036632019530,ING01143,yogurt cultures: S. thermophilus and L. bulgaricus,9,Tasmiya CSV
+0854074006020,ING00912,"Skyr (pasteurized low-fat milk, live and active cultures)",1,Tasmiya CSV
+0854074006020,ING00181,cane sugar,2,Tasmiya CSV
+0854074006020,ING01035,vanilla extract,3,Tasmiya CSV
+0854074006020,ING00795,pectin,4,Tasmiya CSV
+0854074006020,ING00545,lemon juice concentrate,5,Tasmiya CSV
+0854074006020,ING01037,vanilla seeds,6,Tasmiya CSV
+0854074006020,ING00583,locust bean gum.,7,Tasmiya CSV
+0854074006020,ING00579,live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),8,Tasmiya CSV
+0854074006020,ING00534,lactobacillus bulgaricus,9,Tasmiya CSV
+0854074006020,ING00131,bifidobacterium.,10,Tasmiya CSV
+0894700010199,ING00590,"Lowfat yogurt (cultured pasteurized nonfat milk, cream).",1,Tasmiya CSV
+4099100150896,ING00325,CULTURED MILK,1,Tasmiya CSV
+4099100150896,ING00886,S. THERMOPHILUS,2,Tasmiya CSV
+4099100150896,ING00517,L. BULGARICUS,3,Tasmiya CSV
+4099100150896,ING00516,L. ACIDOPHILUS,4,Tasmiya CSV
+4099100150896,ING00132,BIFIDUS,5,Tasmiya CSV
+4099100150896,ING00520,L. CASEI.,6,Tasmiya CSV
+0818290012395,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290012395,ING01077,water,2,Tasmiya CSV
+0818290012395,ING00135,black cherries,3,Tasmiya CSV
+0818290012395,ING00144,blackberries,4,Tasmiya CSV
+0818290012395,ING00665,natural flavors,5,Tasmiya CSV
+0818290012395,ING00528,lactase,6,Tasmiya CSV
+0818290012395,ING01047,vegetable juice (for color),7,Tasmiya CSV
+0818290012395,ING00443,fruit pectin,8,Tasmiya CSV
+0818290012395,ING00895,sea salt,9,Tasmiya CSV
+0818290012395,ING00971,stevia extract,10,Tasmiya CSV
+0818290012395,ING00483,guar gum,11,Tasmiya CSV
+0818290012395,ING00582,locust bean gum,12,Tasmiya CSV
+0818290012395,ING00545,lemon juice concentrate,13,Tasmiya CSV
+0036632024329,ING00327,Cultured non-fat milk,1,Tasmiya CSV
+0036632024329,ING01136,"yogurt cultures (S. thermophilus, L. bulgaricus)",2,Tasmiya CSV
+0036632024329,ING00623,milk.,3,Tasmiya CSV
+0898248001060,ING00783,Pasteurized skim milk,1,Tasmiya CSV
+0898248001060,ING00127,"berries (raspberries, blackberries, strawberries, acai berries)",2,Tasmiya CSV
+0898248001060,ING00181,cane sugar,3,Tasmiya CSV
+0898248001060,ING00443,fruit pectin,4,Tasmiya CSV
+0898248001060,ING00570,live active cultures live active cultures: s. thermophilus,5,Tasmiya CSV
+0898248001060,ING00522,l. delbrueckii subsp. bulgaricus,6,Tasmiya CSV
+0898248001060,ING00115,b. lactis,7,Tasmiya CSV
+0898248001060,ING00516,l. acidophilus,8,Tasmiya CSV
+0898248001060,ING00521,l. delbrueckii subsp,9,Tasmiya CSV
+0818290015365,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290015365,ING01077,water,2,Tasmiya CSV
+0818290015365,ING00609,mangoes,3,Tasmiya CSV
+0818290015365,ING00557,less than 2% of: natural flavors,4,Tasmiya CSV
+0818290015365,ING00529,lactase**,5,Tasmiya CSV
+0818290015365,ING00443,fruit pectin,6,Tasmiya CSV
+0818290015365,ING01047,vegetable juice (for color),7,Tasmiya CSV
+0818290015365,ING00895,sea salt,8,Tasmiya CSV
+0818290015365,ING00971,stevia extract,9,Tasmiya CSV
+0818290015365,ING00483,guar gum,10,Tasmiya CSV
+0818290015365,ING00582,locust bean gum,11,Tasmiya CSV
+0818290015365,ING00545,lemon juice concentrate,12,Tasmiya CSV
+0818290015365,ING00886,S. Thermophilus,13,Tasmiya CSV
+0818290015365,ING00517,L. Bulgaricus,14,Tasmiya CSV
+0818290015365,ING00516,L. Acidophilus,15,Tasmiya CSV
+0818290015365,ING00132,Bifidus,16,Tasmiya CSV
+0818290015365,ING00519,L. Casei,17,Tasmiya CSV
+0818290015365,ING00066,and L. Rhamnosus,18,Tasmiya CSV
+0078355570103,ING00329,Cultured pasteurized grade a milk,1,Tasmiya CSV
+0078355570103,ING00316,cream,2,Tasmiya CSV
+0078355570103,ING00181,cane sugar,3,Tasmiya CSV
+0078355570103,ING00159,brown cane sugar,4,Tasmiya CSV
+0078355570103,ING01035,vanilla extract,5,Tasmiya CSV
+0078355570103,ING00492,honey,6,Tasmiya CSV
+0078355570103,ING00796,pectin.,7,Tasmiya CSV
+0898248001640,ING00784,Pasteurized whole milk,1,Tasmiya CSV
+0898248001640,ING00776,pasteurized cream,2,Tasmiya CSV
+0898248001640,ING00568,"live active cultures (s. thermophilus, l. delbrueckii subsp. bulgaricus, b. lactis, l. acidophilus, l. delbrueckii subsp. lactis).",3,Tasmiya CSV
+0818290012791,ING00688,Nonfat yogurt (cultured pasteurized nonfat milk),1,Tasmiya CSV
+0818290012791,ING00402,evaporated cane sugar,2,Tasmiya CSV
+0818290012791,ING01077,water,3,Tasmiya CSV
+0818290012791,ING01035,vanilla extract,4,Tasmiya CSV
+0818290012791,ING00582,locust bean gum,5,Tasmiya CSV
+0818290012791,ING00443,fruit pectin,6,Tasmiya CSV
+0818290012791,ING00657,natural flavor,7,Tasmiya CSV
+0818290012791,ING00546,lemon juice concentrate.,8,Tasmiya CSV
+0854074006044,ING00912,"Skyr (pasteurized low-fat milk, live and active cultures)",1,Tasmiya CSV
+0854074006044,ING00788,peaches (puree and fruit),2,Tasmiya CSV
+0854074006044,ING00181,cane sugar,3,Tasmiya CSV
+0854074006044,ING00244,cloudberry puree,4,Tasmiya CSV
+0854074006044,ING00795,pectin,5,Tasmiya CSV
+0854074006044,ING00582,locust bean gum,6,Tasmiya CSV
+0854074006044,ING00665,natural flavors,7,Tasmiya CSV
+0854074006044,ING00439,fruit and vegetable juice concentrate (for color),8,Tasmiya CSV
+0854074006044,ING00550,lemon juice concentrate. live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),9,Tasmiya CSV
+0854074006044,ING00534,lactobacillus bulgaricus,10,Tasmiya CSV
+0854074006044,ING00131,bifidobacterium.,11,Tasmiya CSV
+00789004,ING00783,PASTEURIZED SKIM MILK,1,Tasmiya CSV
+00789004,ING00776,PASTEURIZED CREAM,2,Tasmiya CSV
+00789004,ING00577,"LIVE AND ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS BULGARICUS, LACTOBACILLUS ACIDOPHILUS, BIFIDUS, LACTOBACILLUS PARACASEI). CONTAINS MILK.",3,Tasmiya CSV
+0036632042859,ING00333,cultured ultra-filtered non fat milk,1,Tasmiya CSV
+0036632042859,ING01077,water,2,Tasmiya CSV
+0036632042859,ING00266,condensed non fat milk,3,Tasmiya CSV
+0036632042859,ING01099,whey protein concentrate,4,Tasmiya CSV
+0036632042859,ING00665,natural flavors,5,Tasmiya CSV
+0036632042859,ING00282,contains less than 1% of: cream,6,Tasmiya CSV
+0036632042859,ING00795,pectin,7,Tasmiya CSV
+0036632042859,ING00895,sea salt,8,Tasmiya CSV
+0036632042859,ING00545,lemon juice concentrate,9,Tasmiya CSV
+0036632042859,ING00971,stevia extract,10,Tasmiya CSV
+0036632042859,ING00180,calcium citrate,11,Tasmiya CSV
+0036632042859,ING00191,carrot juice extract (for color),12,Tasmiya CSV
+0036632042859,ING01069,vitamin B6,13,Tasmiya CSV
+0036632042859,ING00866,riboflavin (vitamin B2),14,Tasmiya CSV
+0036632042859,ING01068,vitamin B12,15,Tasmiya CSV
+0036632042859,ING01071,vitamin D3,16,Tasmiya CSV
+0036632042859,ING01134,yogurt cultures,17,Tasmiya CSV
+0036632042859,ING00885,s thermophilus,18,Tasmiya CSV
+0036632042859,ING00515,l bulgaricus,19,Tasmiya CSV
+0898248001008,ING00332,Cultured Pasteurized Skim Milk,1,Tasmiya CSV
+0898248001008,ING00886,S. thermophilus,2,Tasmiya CSV
+0898248001008,ING00517,L. bulgaricus,3,Tasmiya CSV
+0898248001008,ING00130,Bifidobacterium,4,Tasmiya CSV
+0898248001008,ING00516,L. acidophilus,5,Tasmiya CSV
+0898248001008,ING00524,L. paracasei,6,Tasmiya CSV
+0898248001107,ING00783,Pasteurized skim milk,1,Tasmiya CSV
+0898248001107,ING00976,strawberries,2,Tasmiya CSV
+0898248001107,ING00181,cane sugar,3,Tasmiya CSV
+0898248001107,ING00443,fruit pectin,4,Tasmiya CSV
+0898248001107,ING00566,live active cultures,5,Tasmiya CSV
+4099100247916,ING00264,coltured pasteurized nonfat milk,1,Tasmiya CSV
+4099100247916,ING00619,milk protein concentrate,2,Tasmiya CSV
+4099100247916,ING00776,pasteurized cream,3,Tasmiya CSV
+4099100247916,ING00765,paracasei,4,Tasmiya CSV
+4099100247916,ING00291,contains: milk dist,5,Tasmiya CSV
+4099100247916,ING00913,so fyclusively by: exc,6,Tasmiya CSV
+0036632019622,ING00321,CULTURED GRADE A NON FAT MILK,1,Tasmiya CSV
+0036632019622,ING01077,WATER,2,Tasmiya CSV
+0036632019622,ING00665,NATURAL FLAVORS,3,Tasmiya CSV
+0036632019622,ING00281,CONTAINS LESS THAN 1% OF TAPIOCA STARCH,4,Tasmiya CSV
+0036632019622,ING01048,VEGETABLE JUICE CONCENTRATE (FOR COLOR),5,Tasmiya CSV
+0036632019622,ING00972,STEVIA LEAF EXTRACT,6,Tasmiya CSV
+0036632019622,ING00545,LEMON JUICE CONCENTRATE,7,Tasmiya CSV
+0036632019622,ING00895,SEA SALT,8,Tasmiya CSV
+0036632019622,ING01073,"VITAMIN D3.
+YOGURT CULTURES: S. THERMOPHILUS AND L. BULGARICUS",9,Tasmiya CSV
+0036632039040,ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632039040,ING00322,CULTURED GRADE A REDUCED FAT MILK,2,Tasmiya CSV
+0036632039040,ING01077,WATER,3,Tasmiya CSV
+0036632039040,ING00555,LESS THAN 1%: TAPIOCA STARCH,4,Tasmiya CSV
+0036632039040,ING00665,NATURAL FLAVORS,5,Tasmiya CSV
+0036632039040,ING00545,LEMON JUICE CONCENTRATE,6,Tasmiya CSV
+0036632039040,ING00454,GELLAN GUM,7,Tasmiya CSV
+0036632039040,ING00438,FRUIT & VEGETABLE JUICE CONCENTRATE (FOR COLOR),8,Tasmiya CSV
+0036632039040,ING00971,STEVIA EXTRACT,9,Tasmiya CSV
+0036632039040,ING00895,SEA SALT,10,Tasmiya CSV
+0036632039040,ING01034,VANILLA BEAN SPECKS,11,Tasmiya CSV
+0036632039040,ING01071,VITAMIN D3,12,Tasmiya CSV
+0036632039040,ING00055,ACTIVE YOGURT CULTURES L. BULGARICUS & S. THERMOPHILUS,13,Tasmiya CSV
+0894700010120,ING00328,Cultured nonfat milk,1,Tasmiya CSV
+0894700010120,ING01077,water,2,Tasmiya CSV
+0894700010120,ING00181,cane sugar,3,Tasmiya CSV
+0894700010120,ING00855,raspberry puree,4,Tasmiya CSV
+0894700010120,ING00854,raspberries,5,Tasmiya CSV
+0894700010120,ING00443,fruit pectin,6,Tasmiya CSV
+0894700010120,ING00665,natural flavors,7,Tasmiya CSV
+0894700010120,ING01047,vegetable juice (for color),8,Tasmiya CSV
+0894700010120,ING00483,guar gum,9,Tasmiya CSV
+0894700010120,ING00582,locust bean gum,10,Tasmiya CSV
+0894700010120,ING00545,lemon juice concentrate,11,Tasmiya CSV
+0894700010120,ING00886,S. Thermophilus,12,Tasmiya CSV
+0894700010120,ING00517,L. Bulgaricus,13,Tasmiya CSV
+0894700010120,ING00516,L. Acidophilus,14,Tasmiya CSV
+0894700010120,ING00132,Bifidus,15,Tasmiya CSV
+0894700010120,ING00519,L. Casei,16,Tasmiya CSV
+0894700010120,ING00067,and L. Rhamnosus.,17,Tasmiya CSV
+0078355550013,ING00329,Cultured pasteurized grade a milk,1,Tasmiya CSV
+0078355550013,ING00316,cream,2,Tasmiya CSV
+0078355550013,ING00796,pectin.,3,Tasmiya CSV
+0898248001848,ING00783,Pasteurized skim milk,1,Tasmiya CSV
+0898248001848,ING00776,pasteurized cream,2,Tasmiya CSV
+0898248001848,ING00181,cane sugar,3,Tasmiya CSV
+0898248001848,ING00732,organic honey,4,Tasmiya CSV
+0898248001848,ING00592,madagascar bourbon vanilla,5,Tasmiya CSV
+0898248001848,ING00443,fruit pectin,6,Tasmiya CSV
+0898248001848,ING00234,cinnamon,7,Tasmiya CSV
+0898248001848,ING00543,lemon juice,8,Tasmiya CSV
+0898248001848,ING00566,live active cultures,9,Tasmiya CSV
+00864503,ING00465,Grade A pasteurized skim milk,1,Tasmiya CSV
+00864503,ING00567,"live active cultures (Bifidobacterium, Lactobacillus acidophilus, L. bulgaricus, L. paracasei, Streptococcus thermophilus)",2,Tasmiya CSV
+4099100150872,ING00328,cultured nonfat milk,1,Tasmiya CSV
+4099100150872,ING00181,cane sugar,2,Tasmiya CSV
+4099100150872,ING01077,water,3,Tasmiya CSV
+4099100150872,ING00443,fruit pectin,4,Tasmiya CSV
+4099100150872,ING00665,natural flavors,5,Tasmiya CSV
+4099100150872,ING00483,guar gum,6,Tasmiya CSV
+4099100150872,ING01035,vanilla extract,7,Tasmiya CSV
+4099100150872,ING00545,lemon juice concentrate,8,Tasmiya CSV
+4099100150872,ING00290,contains: milk,9,Tasmiya CSV
+4099100150872,ING00286,contains live and active cultures: s,10,Tasmiya CSV
+4099100150872,ING01005,thermophilus,11,Tasmiya CSV
+4099100150872,ING00514,l,12,Tasmiya CSV
+4099100150872,ING00168,bulgaricus,13,Tasmiya CSV
+4099100150872,ING00527,lacidophilus,14,Tasmiya CSV
+4099100150872,ING00132,bifidus,15,Tasmiya CSV
+4099100150872,ING00514,l,16,Tasmiya CSV
+4099100150872,ING00193,casei,17,Tasmiya CSV
+0078355570110,ING00329,Cultured pasteurized grade a milk,1,Tasmiya CSV
+0078355570110,ING00316,cream,2,Tasmiya CSV
+0078355570110,ING00181,cane sugar,3,Tasmiya CSV
+0078355570110,ING00159,brown cane sugar,4,Tasmiya CSV
+0078355570110,ING01035,vanilla extract,5,Tasmiya CSV
+0078355570110,ING00492,honey,6,Tasmiya CSV
+0078355570110,ING00796,pectin.,7,Tasmiya CSV
+0036632042842,ING00333,CULTURED ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632042842,ING00987,SWATER,2,Tasmiya CSV
+0036632042842,ING00266,CONDENSED NON FAT MILK,3,Tasmiya CSV
+0036632042842,ING01099,WHEY PROTEIN CONCENTRATE,4,Tasmiya CSV
+0036632042842,ING00665,NATURAL FLAVORS,5,Tasmiya CSV
+0036632042842,ING00279,CONTAINS LESS mL) THAN 1% OF: CREAM,6,Tasmiya CSV
+0036632042842,ING00795,PECTIN,7,Tasmiya CSV
+0036632042842,ING01048,VEGETABLE JUICE CONCENTRATE (FOR COLOR),8,Tasmiya CSV
+0036632042842,ING00895,SEA SALT,9,Tasmiya CSV
+0036632042842,ING00971,STEVIA EXTRACT,10,Tasmiya CSV
+0036632042842,ING00545,LEMON JUICE CONCENTRATE,11,Tasmiya CSV
+0036632042842,ING00180,CALCIUM CITRATE,12,Tasmiya CSV
+0036632042842,ING01069,VITAMIN B6,13,Tasmiya CSV
+0036632042842,ING00866,RIBOFLAVIN (VITAMIN B2),14,Tasmiya CSV
+0036632042842,ING01068,VITAMIN B12,15,Tasmiya CSV
+0036632042842,ING01071,VITAMIN D3,16,Tasmiya CSV
+0036632042842,ING01140,YOGURT CULTURES S. THERMOPHILUS&L. BULGARICUS,17,Tasmiya CSV
+0894700010168,ING00328,Cultured nonfat milk,1,Tasmiya CSV
+0894700010168,ING00135,black cherries,2,Tasmiya CSV
+0894700010168,ING00181,cane sugar,3,Tasmiya CSV
+0894700010168,ING01077,water,4,Tasmiya CSV
+0894700010168,ING00443,fruit pectin,5,Tasmiya CSV
+0894700010168,ING00206,cherry juice concentrate,6,Tasmiya CSV
+0894700010168,ING00665,natural flavors,7,Tasmiya CSV
+0894700010168,ING00582,locust bean gum,8,Tasmiya CSV
+0894700010168,ING00483,guar gum,9,Tasmiya CSV
+0894700010168,ING00547,lemon juice concentrate. 6 live and active cultures: S. Thermophilus,10,Tasmiya CSV
+0894700010168,ING00517,L. Bulgaricus,11,Tasmiya CSV
+0894700010168,ING00516,L. Acidophilus,12,Tasmiya CSV
+0894700010168,ING00148,bobant.com Bifidus,13,Tasmiya CSV
+0894700010168,ING00519,L. Casei,14,Tasmiya CSV
+0894700010168,ING00067,and L. Rhamnosus.,15,Tasmiya CSV
+0036632032737,ING00326,cultured non fat milk,1,Tasmiya CSV
+0036632032737,ING01077,water,2,Tasmiya CSV
+0036632032737,ING00437,fructose,3,Tasmiya CSV
+0036632032737,ING00554,less than 1%: natural,4,Tasmiya CSV
+0036632032737,ING00098,artificial flavors,5,Tasmiya CSV
+0036632032737,ING00632,modified food starch,6,Tasmiya CSV
+0036632032737,ING00034,acesulfame potassium,7,Tasmiya CSV
+0036632032737,ING00980,sucralose,8,Tasmiya CSV
+0036632032737,ING00236,citric acid,9,Tasmiya CSV
+0036632032737,ING00822,potassium sorbate,10,Tasmiya CSV
+0036632032737,ING01141,yogurt cultures: l. bulgaricus,11,Tasmiya CSV
+0036632032737,ING00886,s. thermophilus,12,Tasmiya CSV
+0011115340042,ING00844,Purified water,1,Tasmiya CSV
+0011115340042,ING00947,soybean oil,2,Tasmiya CSV
+0011115340042,ING00689,nonfat yogurt* (cultured nonfat milk),3,Tasmiya CSV
+0011115340042,ING00756,palm kernel and palm oil,4,Tasmiya CSV
+0011115340042,ING00634,modified tapioca starch,5,Tasmiya CSV
+0011115340042,ING00889,salt,6,Tasmiya CSV
+0011115340042,ING00638,mono and diglycerides,7,Tasmiya CSV
+0011115340042,ING00824,potassium sorbate (used to protect quality),8,Tasmiya CSV
+0011115340042,ING00531,lactic acid,9,Tasmiya CSV
+0011115340042,ING00541,lecithin (soy),10,Tasmiya CSV
+0011115340042,ING00665,natural flavors,11,Tasmiya CSV
+0011115340042,ING01067,vitamin a palmitate,12,Tasmiya CSV
+0011115340042,ING00129,beta carotene (color).,13,Tasmiya CSV
+0898248001015,ING00332,Cultured pasteurized skim milk,1,Tasmiya CSV
+0898248001015,ING00147,blueberry puree,2,Tasmiya CSV
+0898248001015,ING00181,cane sugar,3,Tasmiya CSV
+0898248001015,ING00443,fruit pectin,4,Tasmiya CSV
+0854074006037,ING00912,"Skyr (pasteurized low-fat milk, live and active cultures)",1,Tasmiya CSV
+0854074006037,ING00976,strawberries,2,Tasmiya CSV
+0854074006037,ING00181,cane sugar,3,Tasmiya CSV
+0854074006037,ING00562,lingonberries,4,Tasmiya CSV
+0854074006037,ING00795,pectin,5,Tasmiya CSV
+0854074006037,ING00665,natural flavors,6,Tasmiya CSV
+0854074006037,ING00582,locust bean gum,7,Tasmiya CSV
+0854074006037,ING00440,fruit and vegetable juice concentrate (for color).,8,Tasmiya CSV
+0036632042576,ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632042576,ING01077,WATER,2,Tasmiya CSV
+0036632042576,ING01100,WHEY PROTEIN CONCENTRATE NATURAL FLAVORS,3,Tasmiya CSV
+0036632042576,ING00316,CREAM,4,Tasmiya CSV
+0036632042576,ING00281,CONTAINS LESS THAN 1% OF TAPIOCA STARCH,5,Tasmiya CSV
+0036632042576,ING00339,DANONE VEGETABLE JUICE CONCENTRATE (FOR COLOR),6,Tasmiya CSV
+0036632042576,ING00545,LEMON JUICE CONCENTRATE,7,Tasmiya CSV
+0036632042576,ING00974,STEVIA LEAF Part of the REB M. POTASSIUM SORBATE (TO MAINTAIN FRESHNESS),8,Tasmiya CSV
+0036632042576,ING01071,VITAMIN D3,9,Tasmiya CSV
+0036632042576,ING01137,YOGURT CULTURES Danone Family CUM FOR THERMOPHILUS&L BULGARICUS MIND& S. GBONES,10,Tasmiya CSV
+0078742019055,ING00330,CULTURED PASTEURIZED NONFAT MILK,1,Tasmiya CSV
+0078742019055,ING00181,CANE SUGAR,2,Tasmiya CSV
+0078742019055,ING00309,CORN STARCH,3,Tasmiya CSV
+0078742019055,ING00680,NATURAL VANILLA FLAVOR,4,Tasmiya CSV
+0078742019055,ING00657,NATURAL FLAVOR,5,Tasmiya CSV
+0078742019055,ING00796,PECTIN.,6,Tasmiya CSV
+00629058,ING00465,GRADE A PASTEURIZED SKIM MILK,1,Tasmiya CSV
+00629058,ING00575,"LIVE AND ACTIVE CULTURES (BIFIDOBACTERIUM LACTIS, ADOPHILUS, L. BULGARICUS, L. PARACASEI, STREPTOCOCCUS THERMOPHILUS). Potassium 4% DIST EXCLUS TRADER",2,Tasmiya CSV
+0898248001183,ING00783,Pasteurized skim milk,1,Tasmiya CSV
+0898248001183,ING00776,pasteurized cream,2,Tasmiya CSV
+0898248001183,ING00255,coconut,3,Tasmiya CSV
+0898248001183,ING00181,cane sugar,4,Tasmiya CSV
+0898248001183,ING00443,fruit pectin,5,Tasmiya CSV
+0898248001183,ING00570,live active cultures live active cultures: s. thermophilus,6,Tasmiya CSV
+0898248001183,ING00522,l. delbrueckii subsp. bulgaricus,7,Tasmiya CSV
+0898248001183,ING00115,b. lactis,8,Tasmiya CSV
+0898248001183,ING00516,l. acidophilus,9,Tasmiya CSV
+0898248001183,ING00523,l. delbrueckii subsp. lactis,10,Tasmiya CSV
+00978613,ING00465,GRADE A PASTEURIZED SKIM MILK,1,Tasmiya CSV
+00978613,ING00978,"STRAWBERRY FRUIT BASE (CANE SUGAR STRAWBERES FED CORNSTARCH NATURAL FLAVORS, CITRIC ACID, VEGETABLE JUICE (COLOR), LIVE AND ACTIVE CTURES IS THERMOPHILUS L BULGARICUS, LACIDOPHILUS, BIFIDUS, L CASE) CONTAINS MILK",2,Tasmiya CSV
+0078742369266,ING00320,cultured grade a low fat milk,1,Tasmiya CSV
+0078742369266,ING01077,water,2,Tasmiya CSV
+0078742369266,ING00981,sugar,3,Tasmiya CSV
+0078742369266,ING00437,fructose,4,Tasmiya CSV
+0078742369266,ING00632,modified food starch,5,Tasmiya CSV
+0078742369266,ING00280,contains less than 1% of modified corn starch,6,Tasmiya CSV
+0078742369266,ING00513,kosher gelatin,7,Tasmiya CSV
+0078742369266,ING00652,natural and artificial flavors,8,Tasmiya CSV
+0078742369266,ING00076,annatto extract (for color),9,Tasmiya CSV
+0078742369266,ING00183,caramel color,10,Tasmiya CSV
+0078742369266,ING00236,citric acid,11,Tasmiya CSV
+0078742369266,ING00823,potassium sorbate (to maintain freshness),12,Tasmiya CSV
+0078742369266,ING00921,sodium citrate,13,Tasmiya CSV
+0078742369266,ING01067,vitamin a palmitate,14,Tasmiya CSV
+0078742369266,ING01071,vitamin d3,15,Tasmiya CSV
+0078742369266,ING00277,contains active yogurt cultures including l,16,Tasmiya CSV
+0078742369266,ING00051,acidophilus,17,Tasmiya CSV
+0818290015631,ING00589,Lowfat Greek yogurt (cultured skim milk and cream),1,Tasmiya CSV
+0818290015631,ING01077,water,2,Tasmiya CSV
+0818290015631,ING01035,vanilla extract,3,Tasmiya CSV
+0818290015631,ING00665,natural flavors,4,Tasmiya CSV
+0818290015631,ING00443,fruit pectin,5,Tasmiya CSV
+0818290015631,ING00895,sea salt,6,Tasmiya CSV
+0818290015631,ING00219,chicory root fiber,7,Tasmiya CSV
+0818290015631,ING00582,locust bean gum,8,Tasmiya CSV
+0818290015631,ING00971,stevia extract,9,Tasmiya CSV
+0818290015631,ING00636,monk fruit extract,10,Tasmiya CSV
+0818290015631,ING00530,lactase.,11,Tasmiya CSV
+0818290015198,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290015198,ING01077,water,2,Tasmiya CSV
+0818290015198,ING01035,vanilla extract,3,Tasmiya CSV
+0818290015198,ING00219,chicory root fiber,4,Tasmiya CSV
+0818290015198,ING00665,natural flavors,5,Tasmiya CSV
+0818290015198,ING00443,fruit pectin,6,Tasmiya CSV
+0818290015198,ING00895,sea salt,7,Tasmiya CSV
+0818290015198,ING00971,stevia extract,8,Tasmiya CSV
+0818290015198,ING00483,guar gum,9,Tasmiya CSV
+0818290015198,ING00545,lemon juice concentrate,10,Tasmiya CSV
+0818290015198,ING00582,locust bean gum,11,Tasmiya CSV
+0818290015198,ING00528,lactase,12,Tasmiya CSV
+0036632042552,ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632042552,ING01077,WATER,2,Tasmiya CSV
+0036632042552,ING01099,WHEY PROTEIN CONCENTRATE,3,Tasmiya CSV
+0036632042552,ING00665,NATURAL FLAVORS,4,Tasmiya CSV
+0036632042552,ING00316,CREAM,5,Tasmiya CSV
+0036632042552,ING00283,CONTAINS LESS THAN 1% OF: TAPIOCA STARCH,6,Tasmiya CSV
+0036632042552,ING00545,LEMON JUICE CONCENTRATE,7,Tasmiya CSV
+0036632042552,ING00975,STEVIA LEAF REB M,8,Tasmiya CSV
+0036632042552,ING00822,POTASSIUM SORBATE,9,Tasmiya CSV
+0036632042552,ING01071,VITAMIN D3,10,Tasmiya CSV
+0036632042552,ING01135,"YOGURT CULTURES (S. THERMOPHILUS, L BULGARICUS).",11,Tasmiya CSV
+0088194340607,ING00754,Our recipe: cultured pasteurized whole milk,1,Tasmiya CSV
+0088194340607,ING00796,pectin.,2,Tasmiya CSV
+0036632042590,ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,1,Tasmiya CSV
+0036632042590,ING01099,WHEY PROTEIN CONCENTRATE,2,Tasmiya CSV
+0036632042590,ING00316,CREAM,3,Tasmiya CSV
+0036632042590,ING01139,YOGURT CULTURES S. THERMOPHILUS&L BULGARICUS,4,Tasmiya CSV
+0194346193974,ING00330,CULTURED PASTEURIZED NONFAT MILK,1,Tasmiya CSV
+0194346193974,ING00316,CREAM,2,Tasmiya CSV
+0854074006297,ING01119,"Whole Milk Skyr (Pasteurized Milk, Live & Active Cultures)",1,Tasmiya CSV
+0854074006297,ING00181,Cane Sugar,2,Tasmiya CSV
+0854074006297,ING00444,"Fruits (Citrus Pup non Lemon Juice Concentrate, Pectin, Lemon Extract, Carob Bean Gum. Contains Milk. Made the USA with domestic and imported ingredients. No rBST. According to the FDA, no significant ence has been found between milk from rBST-treated and non-rBST treated cows.",3,Tasmiya CSV
+0078354311523,ING00591,Lowfat yogurt [pasteurized milk,1,Tasmiya CSV
+0078354311523,ING00904,skim milk,2,Tasmiya CSV
+0078354311523,ING01099,whey protein concentrate,3,Tasmiya CSV
+0078354311523,ING00619,milk protein concentrate,4,Tasmiya CSV
+0078354311523,ING00572,"live active yogurt cultures (acidophilus, bifidus, l. bulgaricus and s. thermophilus)",5,Tasmiya CSV
+0078354311523,ING01076,vitamins a,6,Tasmiya CSV
+0078354311523,ING00173,c,7,Tasmiya CSV
+0078354311523,ING00338,d,8,Tasmiya CSV
+0078354311523,ING00377,e],9,Tasmiya CSV
+0078354311523,ING01032,vanilla bean flavoring [sugar,10,Tasmiya CSV
+0078354311523,ING01077,water,11,Tasmiya CSV
+0078354311523,ING00665,natural flavors,12,Tasmiya CSV
+0078354311523,ING00630,modified corn starch,13,Tasmiya CSV
+0078354311523,ING00795,pectin,14,Tasmiya CSV
+0078354311523,ING01033,vanilla bean seeds,15,Tasmiya CSV
+0078354311523,ING00070,annatto (color)].,16,Tasmiya CSV
+0043192702611,ING00736,ORGANIC PASTEURIZED WHOLE MILK,1,Tasmiya CSV
+0043192702611,ING00735,ORGANIC PASTEURIZED NONFAT MILK,2,Tasmiya CSV
+0043192702611,ING00722,ORGANIC CREAM,3,Tasmiya CSV
+0043192702611,ING00581,"LIVE YOGURT CULTURES (S. THERMOPHILUS, L. BULGARICUS)",4,Tasmiya CSV
+0043192702611,ING00580,"LIVE PROBIOTIC CULTURES (BIFIDOBACTERIUM LACTIS BB-12, L. ACIDOPHILUS LA-5, L. RHAMNOSUS LB3, L. CASEI, L. RHAMNOSUS, L. ACIDOPHILUS, BIFIDOBACTERIUM LACTIS).",5,Tasmiya CSV
+00723923,ING01077,WATER,1,Tasmiya CSV
+00723923,ING00718,ORGANIC CASHEWS,2,Tasmiya CSV
+00723923,ING00720,"ORGANIC COCONUT CREAM (ORGANIC COCONUT, WATER)",3,Tasmiya CSV
+00723923,ING00747,ORGANIC TAPIOCA STARCH,4,Tasmiya CSV
+00723923,ING00730,ORGANIC GUAR GUM,5,Tasmiya CSV
+00723923,ING00795,PECTIN,6,Tasmiya CSV
+00723923,ING00057,AGAR,7,Tasmiya CSV
+00723923,ING00569,"LIVE ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS 150 BULGARICUS, L. ACIDOPHILUS, % Daily Value 14% BIFIDOBACTERIUM BIFIDUM, L. LACTIS, L. PLANTARUM). CONTAINS CASHEW",8,Tasmiya CSV
+00723923,ING00256,COCONUT 18%,9,Tasmiya CSV
+00665636,ING00122,"Battered Dark Chicken Meat (Dark Chicken Meat, Water, Cornstarch, Unbleached Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Egg, Soybean Oil, Salt, White Pepper, Garlic, Green Onion, Ginger)",1,Tasmiya CSV
+00665636,ING00893,"Sauce (Sugar, Distilled White Vinegar, Water, Soy Sauce [Water, Soybean, Salt, Wheat Flour, Sugar, Mushroom Extract], Modified Food Starch, Garlic, Green Onion, Ginger, Red Chili Pepper, Orange Peel, Mandarin Orange Peel)",2,Tasmiya CSV
+00806657,ING00432,FREEZE DRIED STRAWBERRIES,1,Tasmiya CSV
+0092227975322,ING00719,Organic Chicken,1,Tasmiya CSV
+0092227975322,ING00749,"Organic White Cheddar Cheese (Pasteurized Organic _Milk_, Cheese Cultures, Sea Salt, Vegetable Enzymes)",2,Tasmiya CSV
+0092227975322,ING00716,"Organic Caramelized Onions (Organic Onions, Organic Extra Virgin Olive Oil)",3,Tasmiya CSV
+0092227975322,ING00740,Organic Red Peppers,4,Tasmiya CSV
+0092227975322,ING00895,Sea Salt,5,Tasmiya CSV
+0092227975322,ING00724,Organic Evaporated Cane Sugar,6,Tasmiya CSV
+0092227975322,ING01063,Vinegar,7,Tasmiya CSV
+0092227975322,ING00744,Organic Spices,8,Tasmiya CSV
+0092227975322,ING00726,Organic Extract of Rosemary,9,Tasmiya CSV
+0092227975322,ING00727,Organic Garlic,10,Tasmiya CSV
+0028029088816,ING00812,Pink And/or Keta Salmon,1,Tasmiya CSV
+0028029088816,ING01054,Vegetable Oil (soybean And/or Canola),2,Tasmiya CSV
+0028029088816,ING01077,Water,3,Tasmiya CSV
+0028029088816,ING00272,Contains 2% Or Less Of: Ground Onion,4,Tasmiya CSV
+0028029088816,ING00889,Salt,5,Tasmiya CSV
+0028029088816,ING00826,Potato Extract,6,Tasmiya CSV
+0028029088816,ING00450,Garlic Powder,7,Tasmiya CSV
+0028029088816,ING00646,Mustard Flour,8,Tasmiya CSV
+0028029088816,ING01107,White Pepper,9,Tasmiya CSV
+0028029088816,ING00125,Beet Juice (color),10,Tasmiya CSV
+0028029088816,ING00069,Annatto (color),11,Tasmiya CSV
+0028029088816,ING00884,Rosemary Extract,12,Tasmiya CSV
+0028029088816,ING00612,Mesquite Smoke Flavor,13,Tasmiya CSV
+0028029088816,ING00551,Lemon Juice From Concentrate.,14,Tasmiya CSV
+0072745804892,ING00713,organic boneless chicken breast with rib meat,1,Tasmiya CSV
+0072745804892,ING01077,water,2,Tasmiya CSV
+0072745804892,ING00742,organic rice flour,3,Tasmiya CSV
+0072745804892,ING00752,organic yellow corn flour,4,Tasmiya CSV
+0072745804892,ING00753,organic yellow corn meal,5,Tasmiya CSV
+0072745804892,ING00284,contains less than 2% of sea salt,6,Tasmiya CSV
+0072745804892,ING00721,organic corn starch,7,Tasmiya CSV
+0072745804892,ING00728,organic garlic powder,8,Tasmiya CSV
+0072745804892,ING00715,organic cane sugar,9,Tasmiya CSV
+0072745804892,ING00734,organic onion powder,10,Tasmiya CSV
+0072745804892,ING00846,raisin juice concentrate,11,Tasmiya CSV
+0072745804892,ING00732,organic honey,12,Tasmiya CSV
+0072745804892,ING00750,organic white pepper,13,Tasmiya CSV
+0072745804892,ING00712,organic black pepper,14,Tasmiya CSV
+0072745804892,ING00751,organic yeast extract,15,Tasmiya CSV
+0850397004989,ING00091,APPLES,1,Tasmiya CSV
+0850397004989,ING00145,BLUEBERRIES.,2,Tasmiya CSV
+0096619916146,ING00813,Pink Salmon (Oncorhynchus gorbuscha),1,Tasmiya CSV
+0096619916146,ING00889,Salt,2,Tasmiya CSV
+0655122201745,ING00196,"Cauliflower crust (cauliflower, non-gmo low moisture part-skim mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt vegetarian enzymes, powdered cellulose[ to prevent caking], calcium chloride), rice flour, tapioca starch, water egg whites, modified rice starch, sugar, organic yeast, salt, cultured brown rice, garlic powder, italian seasoning, xanthan gum, non-gmo part skim low moisture mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt, vegetarian enzymes, calcium chloride) tomato sauce (water, tomato paste, seasoning {cane sugar, sea salt, dehydrated onion and garlic, spices} sea salt), roasted zucchini, roasted bell peppers (roasted red bell peppers, roasted yellow bell peppers, roasted green bell peppers), roasted onion, pecorino romano and parmesan cheese blend (pecorino romano cheese {pasteurized sheep's milk, salt, enzymes}, parmesan cheese {pasteurized milk, cheese cultures, salt, enzymes}), roasted garlic, basil, oregano.",1,Tasmiya CSV
+0704863227306,ING01040,"VEGETABLE BLEND (SPINACH, TOMATOES, ONIONS, RED BELL PEPPERS)",1,Tasmiya CSV
+0704863227306,ING00381,EGG WHITES,2,Tasmiya CSV
+0704863227306,ING00642,"MOZZARELLA (PASTEURIZED PART SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)",3,Tasmiya CSV
+0704863227306,ING00614,MILK,4,Tasmiya CSV
+0704863227306,ING00182,CANOLA OIL,5,Tasmiya CSV
+0704863227306,ING00166,BUCKWHEAT,6,Tasmiya CSV
+0704863227306,ING00309,CORN STARCH,7,Tasmiya CSV
+0704863227306,ING00981,SUGAR,8,Tasmiya CSV
+0704863227306,ING00241,CITRUS FIBER,9,Tasmiya CSV
+0704863227306,ING00889,SALT,10,Tasmiya CSV
+0704863227306,ING00450,GARLIC POWDER,11,Tasmiya CSV
+0704863227306,ING00685,"NON-DAIRY NATURAL GRUYERE CHEESE FLAVOR (GUM ARABIC, MALTODEXTRIN, ORGANIC SUNFLOWER OIL, NATURAL FLAVOR)",12,Tasmiya CSV
+0704863227306,ING00140,BLACK PEPPER. D CONTAINS: EGG,13,Tasmiya CSV
+0704863227306,ING00618,MILK K,14,Tasmiya CSV
+00881098,ING00209,chicken breast tenderloins,1,Tasmiya CSV
+00881098,ING01087,wheat flour,2,Tasmiya CSV
+00881098,ING01077,water,3,Tasmiya CSV
+00881098,ING00315,"cracker meal (wheat flour, soybean oil)",4,Tasmiya CSV
+00881098,ING00268,contains 2% or less of salt,5,Tasmiya CSV
+00881098,ING00312,cornstarch,6,Tasmiya CSV
+00881098,ING00895,sea salt,7,Tasmiya CSV
+00881098,ING00954,"spices (black pepper, celery seed)",8,Tasmiya CSV
+00881098,ING00665,natural flavors,9,Tasmiya CSV
+00881098,ING00369,dried whey (milk),10,Tasmiya CSV
+00881098,ING00536,"leavening (cream of tartar, sodium bicarbonate)",11,Tasmiya CSV
+00881098,ING01022,torula yeast,12,Tasmiya CSV
+00881098,ING00763,paprika extractives (color and spice),13,Tasmiya CSV
+00881098,ING00951,spice extractives (including black pepper). breading set in sunflower oil and/or safflower oil.,14,Tasmiya CSV
+00479455,ING00417,filling: white cabbage,1,Tasmiya CSV
+00479455,ING00190,carrot,2,Tasmiya CSV
+00479455,ING00223,chive,3,Tasmiya CSV
+00479455,ING01108,white radish,4,Tasmiya CSV
+00479455,ING00477,green onion,5,Tasmiya CSV
+00479455,ING00701,onion,6,Tasmiya CSV
+00479455,ING00455,ginger,7,Tasmiya CSV
+00479455,ING00447,garlic,8,Tasmiya CSV
+00479455,ING00940,"soy sauce (soybeans,wheat, salt, alcohol, water)",9,Tasmiya CSV
+00479455,ING01087,wheat flour,10,Tasmiya CSV
+00479455,ING01090,wheat starch,11,Tasmiya CSV
+00479455,ING00307,corn flour,12,Tasmiya CSV
+00479455,ING00947,soybean oil,13,Tasmiya CSV
+00479455,ING00899,sesame oil,14,Tasmiya CSV
+00479455,ING00981,sugar,15,Tasmiya CSV
+00479455,ING00889,salt,16,Tasmiya CSV
+00479455,ING00797,pepper,17,Tasmiya CSV
+00479455,ING01060,"vegetable powder (onion, cabbage, carrot, spring onion, maltodextrin [corn], salt)",18,Tasmiya CSV
+00479455,ING00362,dough: unbleached wheat flour,19,Tasmiya CSV
+00479455,ING01000,tapioca starch,20,Tasmiya CSV
+00479455,ING01077,water,21,Tasmiya CSV
+00479455,ING00758,palm oil,22,Tasmiya CSV
+00479455,ING00594,made on equipment shared with shelfish,23,Tasmiya CSV
+00479455,ING00410,facility processes fish,24,Tasmiya CSV
+00479455,ING00292,contains: soybeans,25,Tasmiya CSV
+00479455,ING01083,wheat,26,Tasmiya CSV
+0859480006589,ING01131,Yellowfin Tuna (Thunnus albacares),1,Tasmiya CSV
+0859480006589,ING00896,Sea Salt. CONTAINS: FISH (TUNA). Packed in Thailand.,2,Tasmiya CSV
+0077567254238,ING00614,MILK,1,Tasmiya CSV
+0077567254238,ING00316,CREAM,2,Tasmiya CSV
+0077567254238,ING00981,SUGAR,3,Tasmiya CSV
+0077567254238,ING00904,SKIM MILK,4,Tasmiya CSV
+0077567254238,ING01001,TARA GUM,5,Tasmiya CSV
+0077567254238,ING00660,"NATURAL FLAVOR. 
+CONTAINS MILK.",6,Tasmiya CSV
+0074570650576,ING00316,Cream,1,Tasmiya CSV
+0074570650576,ING00904,skim milk,2,Tasmiya CSV
+0074570650576,ING00181,cane sugar,3,Tasmiya CSV
+0074570650576,ING00382,egg yolks,4,Tasmiya CSV
+0074570650576,ING00482,ground vanilla beans,5,Tasmiya CSV
+0074570650576,ING01036,vanilla extract.,6,Tasmiya CSV
+00947695,ING00830,Potatoes,1,Tasmiya CSV
+00947695,ING01055,vegetable oil (soybean or canola),2,Tasmiya CSV
+00947695,ING00889,salt,3,Tasmiya CSV
+00947695,ING00351,dextrose,4,Tasmiya CSV
+00947695,ING00240,citric acid.,5,Tasmiya CSV
+0042272009244,ING00743,"ORGANIC RICE NOODLES (ORGANIC RICE, FILTERED WATER, ORGANIC TAPIOCA STARCH)",1,Tasmiya CSV
+0042272009244,ING00714,ORGANIC BROCCOLI,2,Tasmiya CSV
+0042272009244,ING00715,ORGANIC CANE SUGAR,3,Tasmiya CSV
+0042272009244,ING00748,"ORGANIC TOFU (FILTERED WATER, ORGANIC SOYBEANS, MAGNESIUM CHLORIDE)",4,Tasmiya CSV
+0042272009244,ING00717,ORGANIC CARROTS,5,Tasmiya CSV
+0042272009244,ING00418,FILTERED WATER,6,Tasmiya CSV
+0042272009244,ING00729,ORGANIC GREEN ONIONS,7,Tasmiya CSV
+0042272009244,ING00746,"ORGANIC TAMARI (WATER, ORGANIC SOYBEANS, SALT, ORGANIC ALCOHOL). ORGANIC BROWN RICE VINEGAR (WATER, ORGANIC BROWN RICE)",8,Tasmiya CSV
+0042272009244,ING00718,ORGANIC CASHEWS,9,Tasmiya CSV
+0042272009244,ING00404,EXPELLER PRESSED HIGH OLEIC SAFFLOWER AND/OR SUNFLOWER OIL,10,Tasmiya CSV
+0042272009244,ING00739,ORGANIC RED ONIONS,11,Tasmiya CSV
+0042272009244,ING00761,PAPRIKA,12,Tasmiya CSV
+0042272009244,ING00995,TAMARIND EXTRACT,13,Tasmiya CSV
+0042272009244,ING00895,SEA SALT,14,Tasmiya CSV
+0042272009244,ING00727,ORGANIC GARLIC,15,Tasmiya CSV
+0042272009244,ING00723,ORGANIC DISTILLED VINEGAR,16,Tasmiya CSV
+0042272009244,ING00137,BLACK PEPPER,17,Tasmiya CSV
+0074570024001,ING00316,Cream,1,Tasmiya CSV
+0074570024001,ING00904,skim milk,2,Tasmiya CSV
+0074570024001,ING00976,strawberries,3,Tasmiya CSV
+0074570024001,ING00181,cane sugar,4,Tasmiya CSV
+0074570024001,ING00383,egg yolks.,5,Tasmiya CSV
+0041548608105,ING00979,strawberry: water,1,Tasmiya CSV
+0041548608105,ING00976,strawberries,2,Tasmiya CSV
+0041548608105,ING00929,sorbitol**,3,Tasmiya CSV
+0041548608105,ING00603,maltodextrin,4,Tasmiya CSV
+0041548608105,ING00462,glycerin,5,Tasmiya CSV
+0041548608105,ING01106,"white grape juice from concentrate (water, white grape juice concentrate)",6,Tasmiya CSV
+0041548608105,ING00815,polydextrose,7,Tasmiya CSV
+0041548608105,ING00665,natural flavors,8,Tasmiya CSV
+0041548608105,ING00236,citric acid,9,Tasmiya CSV
+0041548608105,ING00126,beet juice extract (color),10,Tasmiya CSV
+0041548608105,ING00110,ascorbic acid (vitamin c),11,Tasmiya CSV
+0041548608105,ING00483,guar gum,12,Tasmiya CSV
+0041548608105,ING01028,turmeric oleoresin color,13,Tasmiya CSV
+0041548608105,ING00188,carob bean gum,14,Tasmiya CSV
+0041548608105,ING00980,sucralose,15,Tasmiya CSV
+0041548608105,ING00034,acesulfame potassium,16,Tasmiya CSV
+0041548608105,ING00818,polysorbate 80,17,Tasmiya CSV
+0041548608105,ING00856,raspberry: water,18,Tasmiya CSV
+0041548608105,ING00865,red raspberry puree,19,Tasmiya CSV
+0041548608105,ING00929,sorbitol**,20,Tasmiya CSV
+0041548608105,ING00603,maltodextrin,21,Tasmiya CSV
+0041548608105,ING00462,glycerin,22,Tasmiya CSV
+0041548608105,ING01106,"white grape juice from concentrate (water, white grape juice concentrate)",23,Tasmiya CSV
+0041548608105,ING00815,polydextrose,24,Tasmiya CSV
+0041548608105,ING00657,natural flavor,25,Tasmiya CSV
+0041548608105,ING00385,"elderberry juice from concentrate (water, elderberry juice concentrate)",26,Tasmiya CSV
+0041548608105,ING00236,citric acid,27,Tasmiya CSV
+0041548608105,ING00110,ascorbic acid (vitamin c),28,Tasmiya CSV
+0041548608105,ING00483,guar gum,29,Tasmiya CSV
+0041548608105,ING00188,carob bean gum,30,Tasmiya CSV
+0041548608105,ING00980,sucralose,31,Tasmiya CSV
+0041548608105,ING00034,acesulfame potassium,32,Tasmiya CSV
+0041548608105,ING00998,tangerine: water,33,Tasmiya CSV
+0041548608105,ING00929,sorbitol**,34,Tasmiya CSV
+0041548608105,ING01106,"white grape juice from concentrate (water, white grape juice concentrate)",35,Tasmiya CSV
+0041548608105,ING00603,maltodextrin,36,Tasmiya CSV
+0041548608105,ING00462,glycerin,37,Tasmiya CSV
+0041548608105,ING00996,"tangerine juice from concentrate (water, tangerine juice concentrate)",38,Tasmiya CSV
+0041548608105,ING00815,polydextrose,39,Tasmiya CSV
+0041548608105,ING00657,natural flavor,40,Tasmiya CSV
+0041548608105,ING00236,citric acid,41,Tasmiya CSV
+0041548608105,ING00708,orange pulp cells,42,Tasmiya CSV
+0041548608105,ING00110,ascorbic acid (vitamin c),43,Tasmiya CSV
+0041548608105,ING00483,guar gum,44,Tasmiya CSV
+0041548608105,ING00997,tangerine oil,45,Tasmiya CSV
+0041548608105,ING00188,carob bean gum,46,Tasmiya CSV
+0041548608105,ING00980,sucralose,47,Tasmiya CSV
+0041548608105,ING00034,acesulfame potassium,48,Tasmiya CSV
+0041548608105,ING00485,gum arabic,49,Tasmiya CSV
+0041548608105,ING01028,turmeric oleoresin color,50,Tasmiya CSV
+0041548608105,ING00128,beta carotene (color),51,Tasmiya CSV
+0041548608105,ING00508,isomalt**,52,Tasmiya CSV
+0041548608105,ING00630,modified corn starch,53,Tasmiya CSV
+0071899051015,ING00614,milk,1,Tasmiya CSV
+0071899051015,ING00316,cream,2,Tasmiya CSV
+0071899051015,ING00904,skim milk,3,Tasmiya CSV
+0071899051015,ING00787,peaches,4,Tasmiya CSV
+0071899051015,ING00981,sugar,5,Tasmiya CSV
+0071899051015,ING00489,high fructose corn syrup,6,Tasmiya CSV
+0071899051015,ING00786,peach juice concentrate,7,Tasmiya CSV
+0071899051015,ING00310,corn syrup,8,Tasmiya CSV
+0071899051015,ING01077,water,9,Tasmiya CSV
+0071899051015,ING00632,modified food starch,10,Tasmiya CSV
+0071899051015,ING00236,citric acid,11,Tasmiya CSV
+0071899051015,ING00109,ascorbic acid,12,Tasmiya CSV
+0071899051015,ING00651,natural and artificial flavor,13,Tasmiya CSV
+0071899051015,ING00200,cellulose gum,14,Tasmiya CSV
+0071899051015,ING01046,"vegetable gums (guar, carrageenan, carob bean)",15,Tasmiya CSV
+0071899051015,ING00096,"artificial color ntainer 40 (includes yellow 5, yellow 6, red 40). 109g) %dv* contains bioengineered food ingredients. 36% 90% 32%",16,Tasmiya CSV
+0013120014178,ING00830,potatoes,1,Tasmiya CSV
+0013120014178,ING01057,"vegetable oil (sunflower, cottonseed, soybean, and/or canola)",2,Tasmiya CSV
+0013120014178,ING00632,modified food starch,3,Tasmiya CSV
+0013120014178,ING00867,rice flour,4,Tasmiya CSV
+0013120014178,ING00889,salt,5,Tasmiya CSV
+0013120014178,ING00350,dextrin,6,Tasmiya CSV
+0013120014178,ING00309,corn starch,7,Tasmiya CSV
+0013120014178,ING00072,annatto (vegetable color),8,Tasmiya CSV
+0013120014178,ING00357,disodium dihydrogen pyrophosphate,9,Tasmiya CSV
+0013120014178,ING00351,dextrose,10,Tasmiya CSV
+0013120014178,ING00537,"leavening (disodium dihydrogen pyrophosphate, sodium bicarbonate)",11,Tasmiya CSV
+0013120014178,ING01124,xanthan gum,12,Tasmiya CSV
+0021131506919,ING00416,"Filling: chicken broth (water, chicken broth powder [maltodextrin, chicken broth, salt, flavors])",1,Tasmiya CSV
+0021131506919,ING00296,"cooked chicken (white meat chicken, water, isolated soy protein product [isolated soy protein, modified potato starch, corn starch, carrageenan, soy lecithin], dextrose, salt, flavoring)",2,Tasmiya CSV
+0021131506919,ING00192,carrots,3,Tasmiya CSV
+0021131506919,ING00793,peas,4,Tasmiya CSV
+0021131506919,ING01077,water,5,Tasmiya CSV
+0021131506919,ING00198,celery,6,Tasmiya CSV
+0021131506919,ING00630,modified corn starch,7,Tasmiya CSV
+0021131506919,ING00705,onions,8,Tasmiya CSV
+0021131506919,ING00275,contains 2% or less of: salt,9,Tasmiya CSV
+0021131506919,ING00947,soybean oil,10,Tasmiya CSV
+0021131506919,ING00686,nonfat dry milk,11,Tasmiya CSV
+0021131506919,ING00213,"chicken flavor (contains chicken broth, rendered chicken fat, salt, flavor, disodium inosinate & disodium guanylate, polysorbate 60, xanthan gum)",12,Tasmiya CSV
+0021131506919,ING00316,cream,13,Tasmiya CSV
+0021131506919,ING00981,sugar,14,Tasmiya CSV
+0021131506919,ING00613,methylcellulose,15,Tasmiya CSV
+0021131506919,ING00420,flavoring,16,Tasmiya CSV
+0021131506919,ING01124,xanthan gum,17,Tasmiya CSV
+0021131506919,ING00483,guar gum,18,Tasmiya CSV
+0021131506919,ING00409,"extractives of turmeric. crust: enriched wheat flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid)",19,Tasmiya CSV
+0021131506919,ING00506,interesterified soybean oil,20,Tasmiya CSV
+0021131506919,ING01077,water,21,Tasmiya CSV
+0021131506919,ING00889,salt,22,Tasmiya CSV
+0021131506919,ING00635,modified whey,23,Tasmiya CSV
+0021131506919,ING00184,caramel color.,24,Tasmiya CSV
+00615341,ING00414,"FILLING (POTATOES, CARROTS, PEAS, LENTILS, ONION, EXPELLER PRESSED CANOLA OIL, CILANTRO, SALT, SPICES, GARLIC, CITRIC ACID, TURMERIC (FLAVOR]), PASTRY (WATER, UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID, THIAMINE MONONITRATE, RIBOFLAVIN, AMYLASE, FOLIC ACIDI, EXPELLER PRESSED CANOLA OIL, SALT, DISTILLED VINEGAR).",1,Tasmiya CSV
+0028989100689,ING01077,Water,1,Tasmiya CSV
+0028989100689,ING00192,carrots,2,Tasmiya CSV
+0028989100689,ING00705,onions,3,Tasmiya CSV
+0028989100689,ING00935,soy protein concentrate,4,Tasmiya CSV
+0028989100689,ING00643,mushrooms,5,Tasmiya CSV
+0028989100689,ING01080,water chestnuts,6,Tasmiya CSV
+0028989100689,ING00932,soy flour,7,Tasmiya CSV
+0028989100689,ING01089,wheat gluten,8,Tasmiya CSV
+0028989100689,ING01051,"vegetable oil (corn, canola and/or sunflower)",9,Tasmiya CSV
+0028989100689,ING00473,green bell peppers,10,Tasmiya CSV
+0028989100689,ING00936,soy protein isolate,11,Tasmiya CSV
+0028989100689,ING00295,"cooked brown rice (water, brown rice)",12,Tasmiya CSV
+0028989100689,ING01115,whole grain oats,13,Tasmiya CSV
+0028989100689,ING00703,onion powder,14,Tasmiya CSV
+0028989100689,ING00859,red bell peppers,15,Tasmiya CSV
+0028989100689,ING00314,cornstarch. Contains 2% or less of sugar,16,Tasmiya CSV
+0028989100689,ING00136,black olives,17,Tasmiya CSV
+0028989100689,ING00889,salt,18,Tasmiya CSV
+0028989100689,ING00613,methylcellulose,19,Tasmiya CSV
+0028989100689,ING00512,konjac flour,20,Tasmiya CSV
+0028989100689,ING00939,"soy sauce (fermented soybeans, salt)",21,Tasmiya CSV
+0028989100689,ING00953,spices,22,Tasmiya CSV
+0028989100689,ING00450,garlic powder,23,Tasmiya CSV
+0028989100689,ING00821,potassium salt,24,Tasmiya CSV
+0028989100689,ING01124,xanthan gum,25,Tasmiya CSV
+0028989100689,ING00509,jalapeno pepper.,26,Tasmiya CSV
+0074570014002,ING00316,Cream,1,Tasmiya CSV
+0074570014002,ING00904,skim milk,2,Tasmiya CSV
+0074570014002,ING00181,cane sugar,3,Tasmiya CSV
+0074570014002,ING00254,cocoa processed with alkali,4,Tasmiya CSV
+0074570014002,ING00383,egg yolks.,5,Tasmiya CSV
+0013120001338,ING00830,Potatoes,1,Tasmiya CSV
+0013120001338,ING01056,"vegetable oil (sunflower, cottonseed, soybean and/or canola)",2,Tasmiya CSV
+0013120001338,ING00889,salt,3,Tasmiya CSV
+0013120001338,ING00351,dextrose,4,Tasmiya CSV
+0013120001338,ING01130,yellow corn flour,5,Tasmiya CSV
+0013120001338,ING00358,disodium dihydrogen pyrophosphate (to retain natural color),6,Tasmiya CSV
+0013120001338,ING00925,sodium sulfate,7,Tasmiya CSV
+0013120001338,ING00345,dehydrated onion,8,Tasmiya CSV
+0013120001338,ING00113,autolyzed yeast extract,9,Tasmiya CSV
+0013120001338,ING00663,natural flavoring.,10,Tasmiya CSV
+0186852000389,ING00614,Milk,1,Tasmiya CSV
+0186852000389,ING00981,sugar,2,Tasmiya CSV
+0186852000389,ING00316,cream,3,Tasmiya CSV
+0186852000389,ING00351,dextrose,4,Tasmiya CSV
+0186852000389,ING01035,vanilla extract,5,Tasmiya CSV
+0186852000389,ING00986,sunflower lecithin,6,Tasmiya CSV
+0186852000389,ING00188,carob bean gum,7,Tasmiya CSV
+0186852000389,ING00483,guar gum,8,Tasmiya CSV
+0186852000389,ING00657,natural flavor,9,Tasmiya CSV
+0186852000389,ING00552,lemon peel.,10,Tasmiya CSV
+0072830081092,ING00316,CREAM,1,Tasmiya CSV
+0072830081092,ING00904,SKIM MILK,2,Tasmiya CSV
+0072830081092,ING00614,MILK,3,Tasmiya CSV
+0072830081092,ING00981,SUGAR,4,Tasmiya CSV
+0072830081092,ING00777,PASTEURIZED EGG YOLKS,5,Tasmiya CSV
+0072830081092,ING01035,VANILLA EXTRACT,6,Tasmiya CSV
+0072830081092,ING01001,TARA GUM,7,Tasmiya CSV
+0072830081092,ING00483,GUAR GUM,8,Tasmiya CSV
+0072830081092,ING00659,NATURAL FLAVOR.,9,Tasmiya CSV
+00991421,ING00217,CHICKEN TIKKA: CHICKEN BREAST,1,Tasmiya CSV
+00991421,ING01021,"TOMATOES (WHOLE PEELED TOMATOES, TOMATO JUICE, SALT)",2,Tasmiya CSV
+00991421,ING00705,ONIONS,3,Tasmiya CSV
+00991421,ING01077,WATER,4,Tasmiya CSV
+00991421,ING00182,CANOLA OIL,5,Tasmiya CSV
+00991421,ING01133,"YOGURT (CULTURED PASTEURIZED NONFAT MILK, CREAM)",6,Tasmiya CSV
+00991421,ING00316,CREAM,7,Tasmiya CSV
+00991421,ING00686,NONFAT DRY MILK,8,Tasmiya CSV
+00991421,ING00953,SPICES,9,Tasmiya CSV
+00991421,ING00447,GARLIC,10,Tasmiya CSV
+00991421,ING00194,CASHEWS,11,Tasmiya CSV
+00991421,ING00544,"LEMON JUICE (WATER, CONCENTRATED LEMON JUICE)",12,Tasmiya CSV
+00991421,ING00889,SALT,13,Tasmiya CSV
+00991421,ING00170,BUTTER,14,Tasmiya CSV
+00991421,ING00981,SUGAR,15,Tasmiya CSV
+00991421,ING00829,POTATO STARCH,16,Tasmiya CSV
+00991421,ING00994,"SYRUP BLEND (RICE SYRUP, GRAPE JUICE)",17,Tasmiya CSV
+00991421,ING01000,TAPIOCA STARCH,18,Tasmiya CSV
+00991421,ING00698,OLEORESIN OF PAPRIKA,19,Tasmiya CSV
+00991421,ING00242,CLARIFIED BUTTER (GHEE),20,Tasmiya CSV
+00991421,ING00412,FENUGREEK LEAVES,21,Tasmiya CSV
+00991421,ING00233,CILANTRO,22,Tasmiya CSV
+00991421,ING01027,TURMERIC,23,Tasmiya CSV
+00991421,ING01063,VINEGAR,24,Tasmiya CSV
+00991421,ING00606,MANGO POWDER. CUMIN RICE: WATER,25,Tasmiya CSV
+00991421,ING00121,BASMATI RICE,26,Tasmiya CSV
+00991421,ING00182,CANOLA OIL,27,Tasmiya CSV
+00991421,ING00242,CLARIFIED BUTTER (GHEE),28,Tasmiya CSV
+00991421,ING00337,CUMIN SEEDS. CONTAINS MILK,29,Tasmiya CSV
+00991421,ING00194,CASHEWS,30,Tasmiya CSV
+0851035003234,ING00687,NONFAT MILK,1,Tasmiya CSV
+0851035003234,ING00472,"GREEK YOGURT (PASTEURIZED NONFAT MILK, YOGURT CULTURES)",2,Tasmiya CSV
+0851035003234,ING00981,SUGAR,3,Tasmiya CSV
+0851035003234,ING00226,"CHOCOLATE FLAKE (CONFECTIONER'S SUGAR, COCONUT OIL, DUTCH PROCESSED COCOA, COCOA, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR)",4,Tasmiya CSV
+0851035003234,ING00619,MILK PROTEIN CONCENTRATE,5,Tasmiya CSV
+0851035003234,ING00603,MALTODEXTRIN,6,Tasmiya CSV
+0851035003234,ING00316,CREAM,7,Tasmiya CSV
+0851035003234,ING00582,LOCUST BEAN GUM,8,Tasmiya CSV
+0851035003234,ING00483,GUAR GUM,9,Tasmiya CSV
+0851035003234,ING00665,NATURAL FLAVORS,10,Tasmiya CSV
+0851035003234,ING00955,SPIRULINA EXTRACT (FOR COLOR) AND FRUIT JUICE (FOR COLOR),11,Tasmiya CSV
+0851035003234,ING00934,SOY LECITHIN.,12,Tasmiya CSV
+0014500021830,ING00158,broccoli,1,Tasmiya CSV
+00754200,ING00692,Nutrition Facts 3 servings per container Serving size 2 patties (72g) Amount per serving Calories 140 % Dally Value* Total Fat 9g 12% Saturated Fat 29 10% Trans Fat 0g Cholesterol 70mg Sodium 390mg Total carsonydrite 1g Dietary Fiber 0g Total Supera 0g 23% 17% 0% 0% Protein dar Includes 0g Added Sugars vitam 0% Gelchuvong Tron 1 Ang Poter m AROMO 0% 2% 6% 10%  CHICKEN,1,Tasmiya CSV
+00754200,ING00276,CONTAINS 27 OR LESS OF SEA SALT,2,Tasmiya CSV
+00754200,ING01062,VIES POWER,3,Tasmiya CSV
+00754200,ING01077,WATER,4,Tasmiya CSV
+00754200,ING00367,DRIED SAGE LEAVES,5,Tasmiya CSV
+00754200,ING00770,PARSLEY,6,Tasmiya CSV
+00754200,ING00481,GROUND THYME,7,Tasmiya CSV
+00754200,ING00863,RED ONU ASPER RACE CRUSHED RED PEPPER,8,Tasmiya CSV
+00754200,ING00137,BLACK PEPPER,9,Tasmiya CSV
+00754200,ING00480,GROUND CLOVE,10,Tasmiya CSV
+00754200,ING00883,ROSAY UTAT DIST,11,Tasmiya CSV
+00754200,ING00926,SOLD EXCLUSIVELY BY: TRADER JOE'S,12,Tasmiya CSV
+00754200,ING00640,MONROVA CARE asn HEATING INSTRUCTIONS: HEAT FROM FROZEN STOVE TOP: Preheat non-stick shit frequently for approximatel Stol MICROWAVE (1200 watt): Micro wattage Place patties on a micror seconds or until heated through AIR FRYER: Set al fryer temperature 35/ Heat for approximately minutes other through Add to an English muffin with ches and patty and acid to am omeiet,13,Tasmiya CSV
+00754200,ING00157,breakfast bon,14,Tasmiya CSV
+0077567001580,ING00687,nonfat milk,1,Tasmiya CSV
+0077567001580,ING00605,maltodextrin (corn),2,Tasmiya CSV
+0077567001580,ING00928,sorbitol,3,Tasmiya CSV
+0077567001580,ING00815,polydextrose,4,Tasmiya CSV
+0077567001580,ING00254,cocoa processed with alkali,5,Tasmiya CSV
+0077567001580,ING00558,less than 2% of: whey,6,Tasmiya CSV
+0077567001580,ING00758,palm oil,7,Tasmiya CSV
+0077567001580,ING01024,tricalcium phosphate,8,Tasmiya CSV
+0077567001580,ING00199,cellulose gel,9,Tasmiya CSV
+0077567001580,ING00638,mono and diglycerides,10,Tasmiya CSV
+0077567001580,ING00200,cellulose gum,11,Tasmiya CSV
+0077567001580,ING00601,malted barley extract,12,Tasmiya CSV
+0077567001580,ING00889,salt,13,Tasmiya CSV
+0077567001580,ING00483,guar gum,14,Tasmiya CSV
+0077567001580,ING00112,aspartame*,15,Tasmiya CSV
+0077567001580,ING00818,polysorbate 80,16,Tasmiya CSV
+0077567001580,ING00034,acesulfame potassium,17,Tasmiya CSV
+0077567001580,ING00817,polysorbate 65,18,Tasmiya CSV
+0077567001580,ING00236,citric acid,19,Tasmiya CSV
+0077567001580,ING00189,carrageenan,20,Tasmiya CSV
+0077567001580,ING00651,natural and artificial flavor,21,Tasmiya CSV
+0077567001580,ING00582,locust bean gum,22,Tasmiya CSV
+0077567001580,ING00183,caramel color,23,Tasmiya CSV
+0077567001580,ING00001,*phenylketonurics: contains phenylalanine,24,Tasmiya CSV
+0072830081146,ING00316,cream,1,Tasmiya CSV
+0072830081146,ING00904,skim milk,2,Tasmiya CSV
+0072830081146,ING00614,milk,3,Tasmiya CSV
+0072830081146,ING00981,sugar,4,Tasmiya CSV
+0072830081146,ING00777,pasteurized egg yolks,5,Tasmiya CSV
+0072830081146,ING01035,vanilla extract,6,Tasmiya CSV
+0072830081146,ING01001,tara gum,7,Tasmiya CSV
+0072830081146,ING00483,guar gum,8,Tasmiya CSV
+0072830081146,ING01031,vanilla bean,9,Tasmiya CSV
+0072830081146,ING00661,natural flavor. contains: egg,10,Tasmiya CSV
+0072830081146,ING00624,milk. made on equipment that makes products made in the usa than is legally required. till amook,11,Tasmiya CSV
+0023700014528,ING00210,chicken breast with rib meat,1,Tasmiya CSV
+0023700014528,ING01077,water,2,Tasmiya CSV
+0023700014528,ING01120,whole wheat flour,3,Tasmiya CSV
+0023700014528,ING01087,wheat flour,4,Tasmiya CSV
+0023700014528,ING00270,contains 2% or less of the following: chicken broth,5,Tasmiya CSV
+0023700014528,ING00309,corn starch,6,Tasmiya CSV
+0023700014528,ING00364,dried garlic,7,Tasmiya CSV
+0023700014528,ING00366,dried onion,8,Tasmiya CSV
+0023700014528,ING00370,dried yeast,9,Tasmiya CSV
+0023700014528,ING00408,extractives of paprika,10,Tasmiya CSV
+0023700014528,ING00664,natural flavorings,11,Tasmiya CSV
+0023700014528,ING00889,salt,12,Tasmiya CSV
+0023700014528,ING00947,soybean oil,13,Tasmiya CSV
+0023700014528,ING00950,spice,14,Tasmiya CSV
+0023700014528,ING00981,sugar,15,Tasmiya CSV
+0023700014528,ING01130,yellow corn flour,16,Tasmiya CSV
+0023700014528,ING00156,breading set in vegetable oil,17,Tasmiya CSV
+0074570004003,ING00316,Cream,1,Tasmiya CSV
+0074570004003,ING00904,Skim Milk,2,Tasmiya CSV
+0074570004003,ING00181,Cane Sugar,3,Tasmiya CSV
+0074570004003,ING00382,Egg Yolks,4,Tasmiya CSV
+0074570004003,ING01035,Vanilla Extract,5,Tasmiya CSV
+0071899037200,ING00614,Milk,1,Tasmiya CSV
+0071899037200,ING00316,cream,2,Tasmiya CSV
+0071899037200,ING00904,skim milk,3,Tasmiya CSV
+0071899037200,ING00981,sugar,4,Tasmiya CSV
+0071899037200,ING00976,strawberries,5,Tasmiya CSV
+0071899037200,ING00489,high fructose corn syrup,6,Tasmiya CSV
+0071899037200,ING00310,corn syrup,7,Tasmiya CSV
+0071899037200,ING00236,citric acid,8,Tasmiya CSV
+0071899037200,ING01045,"vegetable gums (carob bean, guar, carrageenan)",9,Tasmiya CSV
+0071899037200,ING00200,cellulose gum,10,Tasmiya CSV
+0071899037200,ING00095,"artificial color (includes red 40, red 3, blue 1)",11,Tasmiya CSV
+0071899037200,ING00651,natural and artificial flavor,12,Tasmiya CSV
+0071899037200,ING00074,annatto color,13,Tasmiya CSV
+0071899037200,ING00184,caramel color.,14,Tasmiya CSV
+0015292700187,ING01122,WILD KETA _SALMON_,1,Tasmiya CSV
+0015292700187,ING01077,WATER,2,Tasmiya CSV
+0015292700187,ING00700,"OLIVE OIL BLEND (CANOLA OIL, OLIVE OIL)",3,Tasmiya CSV
+0015292700187,ING00889,SALT,4,Tasmiya CSV
+0015292700187,ING00666,NATURAL FLAVORS (SMOKE AND GRILL FLAVOR),5,Tasmiya CSV
+0015292700187,ING00113,AUTOLYZED YEAST EXTRACT,6,Tasmiya CSV
+0015292700187,ING00953,SPICES,7,Tasmiya CSV
+0015292700187,ING00342,DEHYDRATED GARLIC,8,Tasmiya CSV
+0015292700187,ING00761,PAPRIKA,9,Tasmiya CSV
+0015292700187,ING00345,DEHYDRATED ONION,10,Tasmiya CSV
+0015292700187,ING00858,RED BELL PEPPER,11,Tasmiya CSV
+0015292700187,ING00236,CITRIC ACID,12,Tasmiya CSV
+0042272008117,ING00869,"rice pasta (organic rice flour, filtered water, organic potato starch, rice starch, organic _soy_ flour)",1,Tasmiya CSV
+0042272008117,ING00733,organic lowfat _milk_,2,Tasmiya CSV
+0042272008117,ING00714,organic broccoli,3,Tasmiya CSV
+0042272008117,ING01104,"white cheddar cheese (pasteurized milk, culture, salt, enzymes)",4,Tasmiya CSV
+0042272008117,ING00742,organic rice flour,5,Tasmiya CSV
+0042272008117,ING00418,filtered water,6,Tasmiya CSV
+0042272008117,ING00171,"butter (cream, salt)",7,Tasmiya CSV
+0042272008117,ING00745,organic sweet rice flour,8,Tasmiya CSV
+0042272008117,ING00747,organic tapioca starch,9,Tasmiya CSV
+0042272008117,ING00738,organic potatoes,10,Tasmiya CSV
+0042272008117,ING00725,organic extra virgin olive oil,11,Tasmiya CSV
+0042272008117,ING00895,sea salt,12,Tasmiya CSV
+0042272008117,ING00710,organic agave syrup,13,Tasmiya CSV
+0042272008117,ING00731,organic high oleic safflower and/or sunflower oil,14,Tasmiya CSV
+0042272008117,ING01126,yeast,15,Tasmiya CSV
+0042272008117,ING00737,organic potato flour,16,Tasmiya CSV
+0042272008117,ING00711,organic annatto (color),17,Tasmiya CSV
+0042272008117,ING00741,organic rice bran extract,18,Tasmiya CSV
+0028989100825,ING01077,Water,1,Tasmiya CSV
+0028989100825,ING00935,soy protein concentrate,2,Tasmiya CSV
+0028989100825,ING01089,wheat gluten,3,Tasmiya CSV
+0028989100825,ING01051,"vegetable oil (corn, canola and/or sunflower)",4,Tasmiya CSV
+0028989100825,ING00178,calcium caseinate,5,Tasmiya CSV
+0028989100825,ING00381,egg whites,6,Tasmiya CSV
+0028989100825,ING00704,onion powder. Contains 2% or less of cornstarch,7,Tasmiya CSV
+0028989100825,ING00702,onion and carrot juice concentrate,8,Tasmiya CSV
+0028989100825,ING00613,methylcellulose,9,Tasmiya CSV
+0028989100825,ING00665,natural flavors,10,Tasmiya CSV
+0028989100825,ING00889,salt,11,Tasmiya CSV
+0028989100825,ING00939,"soy sauce (fermented soybeans, salt)",12,Tasmiya CSV
+0028989100825,ING00936,soy protein isolate,13,Tasmiya CSV
+0028989100825,ING00981,sugar,14,Tasmiya CSV
+0028989100825,ING00450,garlic powder,15,Tasmiya CSV
+0028989100825,ING00953,spices,16,Tasmiya CSV
+0028989100825,ING01093,whey,17,Tasmiya CSV
+0028989100825,ING01124,xanthan gum,18,Tasmiya CSV
+0028989100825,ING01127,yeast extract,19,Tasmiya CSV
+0028989100825,ING01016,tomato paste (tomatoes).,20,Tasmiya CSV
+0021131501112,ING00416,"Filling: chicken broth (water, chicken broth powder [maltodextrin, chicken broth, salt, flavors])",1,Tasmiya CSV
+0021131501112,ING00296,"cooked chicken (white meat chicken, water, isolated soy protein product [isolated soy protein, modified potato starch, corn starch, carrageenan, soy lecithin], dextrose, salt, flavoring)",2,Tasmiya CSV
+0021131501112,ING00192,carrots,3,Tasmiya CSV
+0021131501112,ING00793,peas,4,Tasmiya CSV
+0021131501112,ING01077,water,5,Tasmiya CSV
+0021131501112,ING00630,modified corn starch,6,Tasmiya CSV
+0021131501112,ING00198,celery,7,Tasmiya CSV
+0021131501112,ING00274,contains 2% or less of: onions,8,Tasmiya CSV
+0021131501112,ING00889,salt,9,Tasmiya CSV
+0021131501112,ING00947,soybean oil,10,Tasmiya CSV
+0021131501112,ING00686,nonfat dry milk,11,Tasmiya CSV
+0021131501112,ING00213,"chicken flavor (contains chicken broth, rendered chicken fat, salt, flavor, disodium inosinate & disodium guanylate, polysorbate 60, xanthan gum)",12,Tasmiya CSV
+0021131501112,ING00316,cream,13,Tasmiya CSV
+0021131501112,ING00981,sugar,14,Tasmiya CSV
+0021131501112,ING00613,methylcellulose,15,Tasmiya CSV
+0021131501112,ING00420,flavoring,16,Tasmiya CSV
+0021131501112,ING01124,xanthan gum,17,Tasmiya CSV
+0021131501112,ING00483,guar gum,18,Tasmiya CSV
+0021131501112,ING00409,"extractives of turmeric. crust: enriched wheat flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid)",19,Tasmiya CSV
+0021131501112,ING00506,interesterified soybean oil,20,Tasmiya CSV
+0021131501112,ING01077,water,21,Tasmiya CSV
+0021131501112,ING00889,salt,22,Tasmiya CSV
+0021131501112,ING00635,modified whey,23,Tasmiya CSV
+0021131501112,ING00184,caramel color.,24,Tasmiya CSV
+00549882,ING00415,FILLING: Chicken,1,Tasmiya CSV
+00549882,ING01077,Water,2,Tasmiya CSV
+00549882,ING00701,Onion,3,Tasmiya CSV
+00549882,ING00477,Green Onion,4,Tasmiya CSV
+00549882,ING00942,"Soy Sauce (Water, Soybeans, Wheat, Salt)",5,Tasmiya CSV
+00549882,ING00455,Ginger,6,Tasmiya CSV
+00549882,ING00453,Gelatin,7,Tasmiya CSV
+00549882,ING00981,Sugar,8,Tasmiya CSV
+00549882,ING00303,"Cooking Rice Wine (Water, Alcohol, Salt)",9,Tasmiya CSV
+00549882,ING00899,Sesame Oil,10,Tasmiya CSV
+00549882,ING00947,Soybean Oil,11,Tasmiya CSV
+00549882,ING00889,Salt,12,Tasmiya CSV
+00549882,ING00113,Autolyzed Yeast Extract,13,Tasmiya CSV
+00549882,ING01107,White Pepper,14,Tasmiya CSV
+00549882,ING00214,"Chicken Flavored Powder (Yeast Extract, Natural Flavor, Salt)",15,Tasmiya CSV
+00549882,ING01127,Yeast Extract,16,Tasmiya CSV
+00549882,ING00361,"DOUGH: Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)",17,Tasmiya CSV
+00549882,ING01077,Water,18,Tasmiya CSV
+00549882,ING01087,Wheat Flour,19,Tasmiya CSV
+00549882,ING00634,Modified Tapioca Starch,20,Tasmiya CSV
+00549882,ING00889,Salt,21,Tasmiya CSV
+00549882,ING00948,Soybean Oil.,22,Tasmiya CSV
+00951128,ING00773,"Pasta (Water, Durum Wheat Semolina, Egg White Powder)",1,Tasmiya CSV
+00951128,ING01077,Water,2,Tasmiya CSV
+00951128,ING00772,"Part-skim Ricotta Cheese (Whey, Milk, Cheese Cultures, Salt, Citric Acid [Acidifier])",3,Tasmiya CSV
+00951128,ING00123,Beef,4,Tasmiya CSV
+00951128,ING00819,Pork,5,Tasmiya CSV
+00951128,ING00588,"Low-moisture Part-skim Mozzarella Cheese (Pasteurized Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)",6,Tasmiya CSV
+00951128,ING00318,Crushed Tomatoes,7,Tasmiya CSV
+00951128,ING00354,"Diced Tomatoes In Juice (Tomato, Tomato Juice, Citric Acid [Acidifier], Calcium Chloride)",8,Tasmiya CSV
+00951128,ING00701,Onion,9,Tasmiya CSV
+00951128,ING00360,Distilled Vinegar,10,Tasmiya CSV
+00951128,ING00631,Modified Cornstarch,11,Tasmiya CSV
+00951128,ING00905,Skim Milk Powder,12,Tasmiya CSV
+00951128,ING00889,Salt,13,Tasmiya CSV
+00951128,ING00882,"Romano Cheese Made From Cow's Milk (Milk, Salt, Cheese Cultures, Microbial Enzyme, Calcium Chloride)",14,Tasmiya CSV
+00951128,ING00953,Spices,15,Tasmiya CSV
+00951128,ING00447,Garlic,16,Tasmiya CSV
+00951128,ING00181,Cane Sugar,17,Tasmiya CSV
+00951128,ING00767,"Parmesan Cheese (Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)",18,Tasmiya CSV
+00951128,ING00470,Granulated Onion,19,Tasmiya CSV
+00951128,ING01127,Yeast Extract,20,Tasmiya CSV
+00951128,ING00469,Granulated Garlic.,21,Tasmiya CSV
+0186852000334,ING00614,milk,1,Tasmiya CSV
+0186852000334,ING00981,sugar,2,Tasmiya CSV
+0186852000334,ING00316,cream,3,Tasmiya CSV
+0186852000334,ING00904,skim milk,4,Tasmiya CSV
+0186852000334,ING00382,egg yolks,5,Tasmiya CSV
+0186852000334,ING00372,"dulce de leche (sweetened condensed milk [milk, sugar], corn syrup, sugar, water, nonfat dry milk, butter, natural flavor, salt, baking soda)",6,Tasmiya CSV
+0186852000334,ING00257,coconut oil,7,Tasmiya CSV
+0186852000334,ING00249,cocoa (processed with alkali),8,Tasmiya CSV
+0186852000334,ING00255,coconut,9,Tasmiya CSV
+0186852000334,ING00188,carob bean gum,10,Tasmiya CSV
+0186852000334,ING00483,guar gum,11,Tasmiya CSV
+0186852000334,ING01035,vanilla extract,12,Tasmiya CSV
+0186852000334,ING00889,salt,13,Tasmiya CSV
+00727792,ING00479,GROUND BEEF,1,Tasmiya CSV
+00727792,ING00705,ONIONS,2,Tasmiya CSV
+00727792,ING00384,EGGS,3,Tasmiya CSV
+00727792,ING00236,CITRIC ACID,4,Tasmiya CSV
+00727792,ING00154,BREAD CRUMBS,5,Tasmiya CSV
+00727792,ING01029,UNBLEACHED WHEAT FLOUR,6,Tasmiya CSV
+00727792,ING00981,SUGAR,7,Tasmiya CSV
+00727792,ING00889,SALT,8,Tasmiya CSV
+00727792,ING01126,YEAST,9,Tasmiya CSV
+00727792,ING00770,PARSLEY,10,Tasmiya CSV
+00727792,ING00761,PAPRIKA,11,Tasmiya CSV
+00727792,ING00450,GARLIC POWDER,12,Tasmiya CSV
+00727792,ING00059,ALLSPICE,13,Tasmiya CSV
+00727792,ING00137,BLACK PEPPER,14,Tasmiya CSV
+00727792,ING00304,CORIANDER,15,Tasmiya CSV
+00727792,ING00246,CLOVES,16,Tasmiya CSV
+00727792,ING00334,CUMIN,17,Tasmiya CSV
+00727792,ING00691,NUTMEG,18,Tasmiya CSV
+00727792,ING00953,SPICES,19,Tasmiya CSV
+0851035003630,ING00687,Nonfat milk,1,Tasmiya CSV
+0851035003630,ING00471,"greek yogurt (nonfat milk, yogurt cultures)",2,Tasmiya CSV
+0851035003630,ING00981,sugar,3,Tasmiya CSV
+0851035003630,ING00445,"fudge swirl (tapioca syrup, water, invert sugar, coconut oil, corn starch, cocoa processed with alkali, cocoa, nonfat milk, salt, sunflower lecithin, natural flavors, citric acid)",4,Tasmiya CSV
+0851035003630,ING00165,"brownie dough (wheat flour, sugar, water, butter, cocoa processed with alkali, expeller pressed soybean oil, white rice flour, vanilla extract, sunflower lecithin, salt)",5,Tasmiya CSV
+0851035003630,ING00619,milk protein concentrate,6,Tasmiya CSV
+0851035003630,ING00603,maltodextrin,7,Tasmiya CSV
+0851035003630,ING00373,dutch processed cocoa,8,Tasmiya CSV
+0851035003630,ING00582,locust bean gum,9,Tasmiya CSV
+0851035003630,ING00483,guar gum,10,Tasmiya CSV
+0851035003630,ING00934,soy lecithin.,11,Tasmiya CSV
+00977067,ING00212,Chicken Dark Meat Chunks: Chicken Dark Meat Chunks Whole Eggs. Soy Bean Oil Water Cornstarch. Chill Powder Salt White Pepper,1,Tasmiya CSV
+00977067,ING00455,Ginger,2,Tasmiya CSV
+00977067,ING00449,Garlic And Green Onion Vegetables Packet: Green Bell Pepper Red Bell Pepper,3,Tasmiya CSV
+00977067,ING00161,Brown Onion,4,Tasmiya CSV
+00977067,ING00436,"Fried Dry Chill And Water Chestnut Peanuts Packet Fried Peanuts (Pears Peanut Oil) Sauce Packet Water Sugar Soy Sa (Soy, Wheat)",5,Tasmiya CSV
+00977067,ING01063,Vinegar,6,Tasmiya CSV
+00977067,ING00629,Modified Can Starch,7,Tasmiya CSV
+00977067,ING00561,"Lime Juice Salt Ginger Garc And Green Onion
+
+CONTAINS EGGS",8,Tasmiya CSV
+00977067,ING00930,SOY,9,Tasmiya CSV
+00977067,ING01084,WHEAT & PEANUTS,10,Tasmiya CSV
+0092227878364,ING00208,Chicken,1,Tasmiya CSV
+0092227878364,ING00843,Pure Maple Syrup,2,Tasmiya CSV
+0092227878364,ING00610,Maple Extract,3,Tasmiya CSV
+0092227878364,ING00895,Sea Salt,4,Tasmiya CSV
+0092227878364,ING00953,Spices,5,Tasmiya CSV
+0092227878364,ING00770,Parsley,6,Tasmiya CSV
+0092227878364,ING00317,Crushed Red Pepper,7,Tasmiya CSV
+0092227878364,ING01063,Vinegar,8,Tasmiya CSV
+0092227878364,ING00406,Extract of Rosemary,9,Tasmiya CSV
+0092227878364,ING00363,Dried Citrus Pulp.,10,Tasmiya CSV
+0028989100900,ING01077,Water,1,Tasmiya CSV
+0028989100900,ING01089,wheat gluten,2,Tasmiya CSV
+0028989100900,ING00935,soy protein concentrate,3,Tasmiya CSV
+0028989100900,ING01051,"vegetable oil (corn, canola and/or sunflower)",4,Tasmiya CSV
+0028989100900,ING00932,soy flour,5,Tasmiya CSV
+0028989100900,ING00937,soy protein isolate.Contains 2% or less of maltodextrin,6,Tasmiya CSV
+0028989100900,ING00613,methylcellulose,7,Tasmiya CSV
+0028989100900,ING01127,yeast extract,8,Tasmiya CSV
+0028989100900,ING00889,salt,9,Tasmiya CSV
+0028989100900,ING00441,fruit juice for color,10,Tasmiya CSV
+0028989100900,ING00665,natural flavors,11,Tasmiya CSV
+0028989100900,ING00953,spices,12,Tasmiya CSV
+0028989100900,ING00981,sugar,13,Tasmiya CSV
+0028989100900,ING00829,potato starch,14,Tasmiya CSV
+0028989100900,ING00512,konjac flour,15,Tasmiya CSV
+0028989100900,ING00703,onion powder,16,Tasmiya CSV
+0028989100900,ING00941,"soy sauce (water, soybeans, salt, wheat).",17,Tasmiya CSV
+0028989100887,ING01077,Water,1,Tasmiya CSV
+0028989100887,ING01089,wheat gluten,2,Tasmiya CSV
+0028989100887,ING00935,soy protein concentrate,3,Tasmiya CSV
+0028989100887,ING01051,"vegetable oil (corn, canola and/or sunflower)",4,Tasmiya CSV
+0028989100887,ING00932,soy flour,5,Tasmiya CSV
+0028989100887,ING00936,soy protein isolate,6,Tasmiya CSV
+0028989100887,ING00603,maltodextrin,7,Tasmiya CSV
+0028989100887,ING00613,methylcellulose,8,Tasmiya CSV
+0028989100887,ING01127,yeast extract,9,Tasmiya CSV
+0028989100887,ING00889,salt,10,Tasmiya CSV
+0028989100887,ING00442,fruit juice for color natural flavors,11,Tasmiya CSV
+0028989100887,ING00953,spices,12,Tasmiya CSV
+0028989100887,ING00981,sugar,13,Tasmiya CSV
+0028989100887,ING00829,potato starch,14,Tasmiya CSV
+0028989100887,ING00512,konjac flour,15,Tasmiya CSV
+0028989100887,ING00703,onion powder,16,Tasmiya CSV
+0028989100887,ING00944,soy sauce water,17,Tasmiya CSV
+0028989100887,ING00949,soybeans,18,Tasmiya CSV
+0028989100887,ING00889,salt,19,Tasmiya CSV
+0028989100887,ING01091,wheat).,20,Tasmiya CSV
+0096619031955,ING00195,cauliflower,1,Tasmiya CSV
+0096619031955,ING00585,low moisture mozzarella cheese,2,Tasmiya CSV
+0096619031955,ING00780,pasteurized milk,3,Tasmiya CSV
+0096619031955,ING00204,cheese cultures,4,Tasmiya CSV
+0096619031955,ING00889,salt,5,Tasmiya CSV
+0096619031955,ING00401,enzymes,6,Tasmiya CSV
+0096619031955,ING00867,rice flour,7,Tasmiya CSV
+0096619031955,ING01000,tapioca starch,8,Tasmiya CSV
+0096619031955,ING00381,egg whites,9,Tasmiya CSV
+0096619031955,ING00870,rice starch,10,Tasmiya CSV
+0096619031955,ING00633,modified rice starch,11,Tasmiya CSV
+0096619031955,ING00181,cane sugar,12,Tasmiya CSV
+0096619031955,ING01126,yeast,13,Tasmiya CSV
+0096619031955,ING00889,salt,14,Tasmiya CSV
+0096619031955,ING00319,cultured brown rice,15,Tasmiya CSV
+0096619031955,ING00450,garlic powder,16,Tasmiya CSV
+0096619031955,ING00953,spices,17,Tasmiya CSV
+0096619031955,ING01124,xanthan gum,18,Tasmiya CSV
+0096619031955,ING00162,brown rice flour,19,Tasmiya CSV
+0096619031955,ING00236,citric acid,20,Tasmiya CSV
+0096619031955,ING00531,lactic acid,21,Tasmiya CSV
+0096619031955,ING00586,low moisture part skim mozzarella cheese,22,Tasmiya CSV
+0096619031955,ING00782,pasteurized part skim milk,23,Tasmiya CSV
+0096619031955,ING00204,cheese cultures,24,Tasmiya CSV
+0096619031955,ING00889,salt,25,Tasmiya CSV
+0096619031955,ING00401,enzymes,26,Tasmiya CSV
+0096619031955,ING01077,water,27,Tasmiya CSV
+0096619031955,ING01013,tomato paste,28,Tasmiya CSV
+0096619031955,ING00798,pepperoni,29,Tasmiya CSV
+0096619031955,ING00819,pork,30,Tasmiya CSV
+0096619031955,ING00889,salt,31,Tasmiya CSV
+0096619031955,ING00953,spices,32,Tasmiya CSV
+0096619031955,ING00351,dextrose,33,Tasmiya CSV
+0096619031955,ING00532,lactic acid starter culture,34,Tasmiya CSV
+0096619031955,ING00420,flavoring,35,Tasmiya CSV
+0096619031955,ING00698,oleoresin of paprika,36,Tasmiya CSV
+0096619031955,ING00924,sodium nitrite,37,Tasmiya CSV
+0096619031955,ING00058,all natural italian sausage,38,Tasmiya CSV
+0096619031955,ING00819,pork,39,Tasmiya CSV
+0096619031955,ING00953,spices,40,Tasmiya CSV
+0096619031955,ING00981,sugar,41,Tasmiya CSV
+0096619031955,ING00664,natural flavorings,42,Tasmiya CSV
+0096619031955,ING00342,dehydrated garlic,43,Tasmiya CSV
+0096619031955,ING00876,roasted red bell peppers,44,Tasmiya CSV
+0096619031955,ING00878,roasted yellow bell peppers,45,Tasmiya CSV
+0096619031955,ING00873,roasted green bell peppers,46,Tasmiya CSV
+0096619031955,ING00874,roasted mushrooms,47,Tasmiya CSV
+0096619031955,ING00875,roasted onions,48,Tasmiya CSV
+0096619031955,ING00879,roasted zucchini,49,Tasmiya CSV
+0096619031955,ING00766,parmesan cheese,50,Tasmiya CSV
+0096619031955,ING00775,pasteurized cow’s milk,51,Tasmiya CSV
+0096619031955,ING00203,cheese culture,52,Tasmiya CSV
+0096619031955,ING00889,salt,53,Tasmiya CSV
+0096619031955,ING00401,enzymes,54,Tasmiya CSV
+0096619031955,ING00880,romano cheese,55,Tasmiya CSV
+0096619031955,ING00775,pasteurized cow’s milk,56,Tasmiya CSV
+0096619031955,ING00203,cheese culture,57,Tasmiya CSV
+0096619031955,ING00889,salt,58,Tasmiya CSV
+0096619031955,ING00401,enzymes,59,Tasmiya CSV
+0096619031955,ING00981,sugar,60,Tasmiya CSV
+0096619031955,ING00895,sea salt,61,Tasmiya CSV
+0096619031955,ING00450,garlic powder,62,Tasmiya CSV
+0096619031955,ING00709,oregano,63,Tasmiya CSV
+0096619031955,ING00120,basil,64,Tasmiya CSV
+0096619031955,ING00703,onion powder,65,Tasmiya CSV
+0851035003319,ING00687,Nonfat milk,1,Tasmiya CSV
+0851035003319,ING00472,"greek yogurt (pasteurized nonfat milk, yogurt cultures)",2,Tasmiya CSV
+0851035003319,ING00302,"cookie dough (wheat flour, sugar, butter, water, soybean oil, molasses, corn starch, salt, vanilla extract, soy lecithin, baking soda)",3,Tasmiya CSV
+0851035003319,ING00981,sugar,4,Tasmiya CSV
+0851035003319,ING00226,"chocolate flake (confectioner's sugar, coconut oil, dutch processed cocoa, cocoa, butter oil, soy lecithin, natural flavor)",5,Tasmiya CSV
+0851035003319,ING00619,milk protein concentrate,6,Tasmiya CSV
+0851035003319,ING00603,maltodextrin,7,Tasmiya CSV
+0851035003319,ING00316,cream,8,Tasmiya CSV
+0851035003319,ING00657,natural flavor,9,Tasmiya CSV
+0851035003319,ING00582,locust bean gum,10,Tasmiya CSV
+0851035003319,ING00483,guar gum,11,Tasmiya CSV
+0851035003319,ING00934,soy lecithin.,12,Tasmiya CSV
+0013120002861,ING00830,POTATOES,1,Tasmiya CSV
+0013120002861,ING01058,VEGETABLE OIL BLEND (SOYBEAN AND COTTONSEED),2,Tasmiya CSV
+0013120002861,ING00889,SALT,3,Tasmiya CSV
+0013120002861,ING00075,ANNATTO COLOR DEXTROSE,4,Tasmiya CSV
+0013120002861,ING00915,SODIUM ACID PYROPHOSPHATE (TO RETAIN NATURAL COLOR).,5,Tasmiya CSV
+0096619887446,ING00479,GROUND BEEF,1,Tasmiya CSV
+0096619887446,ING01079,"WATER BREAD CRUMBS (ENRICHED BLEACHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SALT, LEAVENING (SODIUM BICARBONATE, SODIUM ACID PYROPHOSPHATE, MONOCALCIUM PHOSPHATE) VEGETABLE OIL (CANOLA &/OR SUNFLOWER), DEXTROSE, YEAST, SPICE EXTRACTIVES)",2,Tasmiya CSV
+0096619887446,ING00935,SOY PROTEIN CONCENTRATE,3,Tasmiya CSV
+0096619887446,ING00351,DEXTROSE,4,Tasmiya CSV
+0096619887446,ING00889,SALT,5,Tasmiya CSV
+0096619887446,ING00644,MUSTARD,6,Tasmiya CSV
+0096619887446,ING00953,SPICES,7,Tasmiya CSV
+0096619887446,ING00343,DEHYDRATED GREEN BEL PEPPER,8,Tasmiya CSV
+0096619887446,ING00348,DEHYDRATED RED BELL PEPPER,9,Tasmiya CSV
+0096619887446,ING00769,"PARMESAN CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)",10,Tasmiya CSV
+0096619887446,ING00881,"ROMANO CHEESE FROM COW'S MILK (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES)",11,Tasmiya CSV
+0096619887446,ING00342,DEHYDRATED GARLIC,12,Tasmiya CSV
+0096619887446,ING00499,HYDROLYZED SOY PROTEIN,13,Tasmiya CSV
+0096619887446,ING00220,CHILI PEPPER,14,Tasmiya CSV
+0096619887446,ING00665,NATURAL FLAVORS,15,Tasmiya CSV
+0096619887446,ING00347,DEHYDRATED PARSLEY.,16,Tasmiya CSV
+0071899835486,ING00614,milk,1,Tasmiya CSV
+0071899835486,ING00316,cream,2,Tasmiya CSV
+0071899835486,ING00981,sugar,3,Tasmiya CSV
+0071899835486,ING00904,skim milk,4,Tasmiya CSV
+0071899835486,ING00680,natural vanilla flavor,5,Tasmiya CSV
+0071899835486,ING00679,natural vanilla beans,6,Tasmiya CSV
+0071899835486,ING00681,"natural vegetable gums (guar, carob bean).",7,Tasmiya CSV
+0818290019196,ING00324,Cultured lowfat milk,1,Tasmiya CSV
+0818290019196,ING00181,Cane sugar,2,Tasmiya CSV
+0818290019196,ING01077,water,3,Tasmiya CSV
+0818290019196,ING01087,wheat flour,4,Tasmiya CSV
+0818290019196,ING01059,"vegetable oils (palm, palm kernel)",5,Tasmiya CSV
+0818290019196,ING00247,cocoa,6,Tasmiya CSV
+0818290019196,ING00665,NATURAL FLAVORS,7,Tasmiya CSV
+0818290019196,ING00443,FRUIT PECTIN,8,Tasmiya CSV
+0818290019196,ING00224,CHOCOLATE,9,Tasmiya CSV
+0818290019196,ING00250,COCOA BUTTER,10,Tasmiya CSV
+0818290019196,ING00999,TAPIOCA FLOUR,11,Tasmiya CSV
+0818290019196,ING00183,CARAMEL COLOR,12,Tasmiya CSV
+0818290019196,ING00483,GUAR GUM,13,Tasmiya CSV
+0818290019196,ING00904,SKIM MILK,14,Tasmiya CSV
+0818290019196,ING00889,SALT,15,Tasmiya CSV
+0818290019196,ING00117,BAKING SODA,16,Tasmiya CSV
+0818290019196,ING00933,SOY LECITHIN,17,Tasmiya CSV
+0818290019196,ING00545,LEMON JUICE CONCENTRATE,18,Tasmiya CSV
+0818290019196,ING00582,LOCUST BEAN GUM,19,Tasmiya CSV
+0818290019196,ING01035,VANILLA EXTRACT,20,Tasmiya CSV
+0818290019196,ING00287,CONTAINS MILK,21,Tasmiya CSV
+0818290019196,ING01085,WHEAT AND SOY,22,Tasmiya CSV
+0074570650972,ING00316,Cream,1,Tasmiya CSV
+0074570650972,ING00904,Skim Milk,2,Tasmiya CSV
+0074570650972,ING00981,Sugar,3,Tasmiya CSV
+0074570650972,ING00382,Egg Yolks,4,Tasmiya CSV
+0074570650972,ING01035,Vanilla Extract,5,Tasmiya CSV
+0074570650972,ING00616,"Milk Chocolate (Sugar, Whole Milk Powder, Chocolate, Cocoa Butter, Soy Lecithin, Vanilla Extract)",6,Tasmiya CSV
+0074570650972,ING00062,"Almonds Roasted in Vegetable Oil (Almonds, Safflower Oil)",7,Tasmiya CSV
+0074570650972,ING00258,Coconut Oil.,8,Tasmiya CSV
+0023700025104,ING00150,boneless,1,Tasmiya CSV
+0023700025104,ING00911,skinless chicken breast strips with rib meat,2,Tasmiya CSV
+0023700025104,ING01087,wheat flour,3,Tasmiya CSV
+0023700025104,ING01077,water,4,Tasmiya CSV
+0023700025104,ING00269,contains 2% or less of the following: brown sugar,5,Tasmiya CSV
+0023700025104,ING00309,corn starch,6,Tasmiya CSV
+0023700025104,ING00364,dried garlic,7,Tasmiya CSV
+0023700025104,ING00408,extractives of paprika,8,Tasmiya CSV
+0023700025104,ING00450,garlic powder,9,Tasmiya CSV
+0023700025104,ING00870,rice starch,10,Tasmiya CSV
+0023700025104,ING00889,salt,11,Tasmiya CSV
+0023700025104,ING00953,spices,12,Tasmiya CSV
+0023700025104,ING00952,spice extracts,13,Tasmiya CSV
+0023700025104,ING00156,breading set in vegetable oil,14,Tasmiya CSV
+0077567226006,ING00614,Milk,1,Tasmiya CSV
+0077567226006,ING00316,cream,2,Tasmiya CSV
+0077567226006,ING00981,sugar,3,Tasmiya CSV
+0077567226006,ING00310,corn syrup,4,Tasmiya CSV
+0077567226006,ING01093,whey,5,Tasmiya CSV
+0077567226006,ING00382,egg yolks,6,Tasmiya CSV
+0077567226006,ING00638,mono and diglycerides,7,Tasmiya CSV
+0077567226006,ING00483,guar gum,8,Tasmiya CSV
+0077567226006,ING00188,carob bean gum,9,Tasmiya CSV
+0077567226006,ING00889,salt,10,Tasmiya CSV
+0077567226006,ING01001,tara gum,11,Tasmiya CSV
+0077567226006,ING00657,natural flavor,12,Tasmiya CSV
+0077567226006,ING00071,annatto (for color),13,Tasmiya CSV
+0072745806568,ING00713,organic boneless chicken breast with rib meat,1,Tasmiya CSV
+0072745806568,ING01077,water,2,Tasmiya CSV
+0072745806568,ING00742,organic rice flour,3,Tasmiya CSV
+0072745806568,ING00752,organic yellow corn flour,4,Tasmiya CSV
+0072745806568,ING00753,organic yellow corn meal,5,Tasmiya CSV
+0072745806568,ING00284,contains less than 2% of sea salt,6,Tasmiya CSV
+0072745806568,ING00721,organic corn starch,7,Tasmiya CSV
+0072745806568,ING00728,organic garlic powder,8,Tasmiya CSV
+0072745806568,ING00715,organic cane sugar,9,Tasmiya CSV
+0072745806568,ING00734,organic onion powder,10,Tasmiya CSV
+0072745806568,ING00846,raisin juice concentrate,11,Tasmiya CSV
+0072745806568,ING00732,organic honey,12,Tasmiya CSV
+0072745806568,ING00750,organic white pepper,13,Tasmiya CSV
+0072745806568,ING00712,organic black pepper,14,Tasmiya CSV
+0072745806568,ING00751,organic yeast extract,15,Tasmiya CSV
+0092227819466,ING00216,Chicken Raised Without Antibiotics,1,Tasmiya CSV
+0092227819466,ING00120,Basil,2,Tasmiya CSV
+0092227819466,ING00768,"Parmesan Cheese (Pasteurized Cow's Milk, Cheese Cultures, Salt, Enzymes)",3,Tasmiya CSV
+0092227819466,ING00794,"Pecorino Romano Cheese (Sheep's Milk, Salt, Rennet)",4,Tasmiya CSV
+0092227819466,ING00273,Contains 2% or less of: Kosher Salt,5,Tasmiya CSV
+0092227819466,ING00953,Spices,6,Tasmiya CSV
+0092227819466,ING00447,Garlic,7,Tasmiya CSV
+0092227819466,ING00553,Lemon Powder,8,Tasmiya CSV
+0092227819466,ING00092,Aquaresin of Basil,9,Tasmiya CSV
+0092227819466,ING01063,Vinegar,10,Tasmiya CSV
+0092227819466,ING00407,Extract of Rosemary. CONTAINS: Milk.,11,Tasmiya CSV
+0072745804311,ING00151,Boneless chicken breast with rib meat,1,Tasmiya CSV
+0072745804311,ING01081,water. contains less than 2% of salt,2,Tasmiya CSV
+0072745804311,ING00703,onion powder,3,Tasmiya CSV
+0072745804311,ING00451,garlic powder. breaded with: wheat flour,4,Tasmiya CSV
+0072745804311,ING01077,water,5,Tasmiya CSV
+0072745804311,ING01130,yellow corn flour,6,Tasmiya CSV
+0072745804311,ING00351,dextrose,7,Tasmiya CSV
+0072745804311,ING00981,sugar,8,Tasmiya CSV
+0072745804311,ING00889,salt,9,Tasmiya CSV
+0072745804311,ING01128,yeast. contains less than 2% of spice,10,Tasmiya CSV
+0072745804311,ING00408,extractives of paprika,11,Tasmiya CSV
+0072745804311,ING00947,soybean oil,12,Tasmiya CSV
+0072745804311,ING00483,guar gum,13,Tasmiya CSV
+0072745804311,ING00450,garlic powder,14,Tasmiya CSV
+0072745804311,ING00667,natural flavors.,15,Tasmiya CSV
+00921572,ING00989,SWEET POTATO,1,Tasmiya CSV
+00921572,ING00947,SOYBEAN OIL,2,Tasmiya CSV
+00921572,ING00829,POTATO STARCH,3,Tasmiya CSV
+00921572,ING00867,RICE FLOUR,4,Tasmiya CSV
+00921572,ING00312,CORNSTARCH,5,Tasmiya CSV
+00921572,ING00825,POTATO DEXTRIN,6,Tasmiya CSV
+00921572,ING00889,SALT,7,Tasmiya CSV
+00921572,ING00914,SODIUM ACID PYROPHOSPHATE,8,Tasmiya CSV
+00921572,ING00919,SODIUM BICARBONATE,9,Tasmiya CSV
+00921572,ING00764,PAPRIKA OLEORESIN (COLOR),10,Tasmiya CSV
+0022655306306,ING01026,Turkey,1,Tasmiya CSV
+0022655306306,ING01077,water,2,Tasmiya CSV
+0022655306306,ING00275,contains 2% or less of: salt,3,Tasmiya CSV
+0022655306306,ING00953,spices,4,Tasmiya CSV
+0022655306306,ING00981,sugar,5,Tasmiya CSV
+0022655306306,ING00884,rosemary extract,6,Tasmiya CSV
+0022655306306,ING00236,citric acid,7,Tasmiya CSV
+0022655306306,ING01064,vinegar.,8,Tasmiya CSV
+0072655401044,ING00300,"cooked rice (water, brown rice)",1,Tasmiya CSV
+0072655401044,ING00900,"sesame sauce (water, soy sauce [water, wheat, soybeans, salt, alcohol, vinegar, lactic acid], sugar, rice vinegar, sake wine [contains salt], corn starch, garlic puree, sesame oil, ginger puree, locust bean gum)",2,Tasmiya CSV
+0072655401044,ING00897,"seasoned cooked chicken (chicken breast, water, sugar, sea salt, olive oil, isolated soy protein, soy fiber, rice starch, natural flavoring)",3,Tasmiya CSV
+0072655401044,ING01061,"vegetables (carrots, edamame)",4,Tasmiya CSV
+0072655401044,ING00894,"scrambled eggs (whole eggs, water, citric acid)",5,Tasmiya CSV
+0072655401044,ING00289,contains: egg,6,Tasmiya CSV
+0072655401044,ING00930,soy,7,Tasmiya CSV
+0072655401044,ING01083,wheat,8,Tasmiya CSV
+00785761,ING00316,CREAM,1,Tasmiya CSV
+00785761,ING00614,MILK,2,Tasmiya CSV
+00785761,ING00181,CANE SUGAR,3,Tasmiya CSV
+00785761,ING00984,"SUGARED EGG YOLKS (EGG YOLKS, SUGAR)",4,Tasmiya CSV
+00785761,ING00680,NATURAL VANILLA FLAVOR,5,Tasmiya CSV
+00785761,ING00964,"STABILIZER BLEND (CAROB BEAN GUM, GUAR GUM, CANE SUGAR).",6,Tasmiya CSV
+0709481000232,ING00399,"ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID)",1,Tasmiya CSV
+0709481000232,ING00830,POTATOES,2,Tasmiya CSV
+0709481000232,ING00116,"BAKER'S CHEESE (MILK, LACTIC ACID)",3,Tasmiya CSV
+0709481000232,ING01077,WATER,4,Tasmiya CSV
+0709481000232,ING00701,ONION,5,Tasmiya CSV
+0709481000232,ING00947,SOYBEAN OIL,6,Tasmiya CSV
+0709481000232,ING01114,WHOLE EGGS,7,Tasmiya CSV
+0709481000232,ING00381,EGG WHITES,8,Tasmiya CSV
+0709481000232,ING00889,SALT,9,Tasmiya CSV
+0709481000232,ING00829,POTATO STARCH,10,Tasmiya CSV
+0709481000232,ING00797,PEPPER,11,Tasmiya CSV
+0709481000232,ING00868,RICE FLOUR CONTAINS: MILK,12,Tasmiya CSV
+0709481000232,ING00379,EGG,13,Tasmiya CSV
+0709481000232,ING00930,SOY,14,Tasmiya CSV
+0709481000232,ING01092,WHEAT.,15,Tasmiya CSV
+0023700014153,ING00150,boneless,1,Tasmiya CSV
+0023700014153,ING00910,skinless chicken breast chunks with rib meat,2,Tasmiya CSV
+0023700014153,ING01087,wheat flour,3,Tasmiya CSV
+0023700014153,ING00211,chicken broth,4,Tasmiya CSV
+0023700014153,ING01077,water,5,Tasmiya CSV
+0023700014153,ING00269,contains 2% or less of the following: brown sugar,6,Tasmiya CSV
+0023700014153,ING00309,corn starch,7,Tasmiya CSV
+0023700014153,ING00364,dried garlic,8,Tasmiya CSV
+0023700014153,ING00408,extractives of paprika,9,Tasmiya CSV
+0023700014153,ING00421,flavorings,10,Tasmiya CSV
+0023700014153,ING00450,garlic powder,11,Tasmiya CSV
+0023700014153,ING00870,rice starch,12,Tasmiya CSV
+0023700014153,ING00889,salt,13,Tasmiya CSV
+0023700014153,ING00952,spice extracts,14,Tasmiya CSV
+0023700014153,ING00953,spices,15,Tasmiya CSV
+0023700014153,ING00156,breading set in vegetable oil,16,Tasmiya CSV
+0704863050058,ING01040,"Vegetable blend (spinach, tomatoes, onions, red bell peppers)",1,Tasmiya CSV
+0704863050058,ING00381,egg whites,2,Tasmiya CSV
+0704863050058,ING00641,"mozzarella (pasteurized milk, cheese cultures, salt, enzymes)",3,Tasmiya CSV
+0704863050058,ING00614,milk,4,Tasmiya CSV
+0704863050058,ING00182,canola oil,5,Tasmiya CSV
+0704863050058,ING00167,buckwheat (gluten free),6,Tasmiya CSV
+0704863050058,ING00309,corn starch,7,Tasmiya CSV
+0704863050058,ING00241,citrus fiber,8,Tasmiya CSV
+0704863050058,ING00981,sugar,9,Tasmiya CSV
+0704863050058,ING00889,salt,10,Tasmiya CSV
+0704863050058,ING00450,garlic powder,11,Tasmiya CSV
+0704863050058,ING00670,"natural gruyere non-dairy cheese flavor (gum arabic, maltodextrin, organic sunflower oil, natural flavor)",12,Tasmiya CSV
+0704863050058,ING00139,black pepper.,13,Tasmiya CSV
+00698566,ING00195,cauliflower,1,Tasmiya CSV
+00698566,ING01025,tumatoes,2,Tasmiya CSV
+00698566,ING00859,red bell peppers,3,Tasmiya CSV
+00698566,ING01129,yellow bell peppers,4,Tasmiya CSV
+00698566,ING00473,green bell peppers,5,Tasmiya CSV
+00698566,ING01077,water,6,Tasmiya CSV
+00698566,ING00811,"pickled jalapeño peppers (jalapeño peppers, water, alcohol vinegar, salt, calcium chloride, turmeric oleoresin [color])",7,Tasmiya CSV
+00698566,ING00233,cilantro,8,Tasmiya CSV
+00698566,ING00405,extra virgin olive oil,9,Tasmiya CSV
+00698566,ING01011,tomato concentrate,10,Tasmiya CSV
+00698566,ING00889,salt,11,Tasmiya CSV
+00698566,ING00559,lime juice,12,Tasmiya CSV
+00698566,ING00197,cayenne pepper,13,Tasmiya CSV
+00698566,ING00334,cumin,14,Tasmiya CSV
+00698566,ING00452,garlic puree.,15,Tasmiya CSV
+0851035003326,ING00687,Nonfat milk,1,Tasmiya CSV
+0851035003326,ING00472,"greek yogurt (pasteurized nonfat milk, yogurt cultures)",2,Tasmiya CSV
+0851035003326,ING00981,sugar,3,Tasmiya CSV
+0851035003326,ING00226,"chocolate flake (confectioner's sugar, coconut oil, dutch processed cocoa, cocoa, butter oil, soy lecithin, natural flavor)",4,Tasmiya CSV
+0851035003326,ING00619,milk protein concentrate,5,Tasmiya CSV
+0851035003326,ING00603,maltodextrin,6,Tasmiya CSV
+0851035003326,ING00316,cream,7,Tasmiya CSV
+0851035003326,ING00260,coffee extract,8,Tasmiya CSV
+0851035003326,ING00582,locust bean gum,9,Tasmiya CSV
+0851035003326,ING00483,guar gum,10,Tasmiya CSV
+0851035003326,ING00662,natural flavor. soy lecithin.,11,Tasmiya CSV
+0041164000222,ING01077,Water,1,Tasmiya CSV
+0041164000222,ING00398,"enriched flour (wheat flour, niacin, iron, thiamine mononitrate, riboflavin, folic acid)",2,Tasmiya CSV
+0041164000222,ING00828,"potato flakes (potatoes, mono and diglycerides, sodium acid pyrophosphate, citric acid)",3,Tasmiya CSV
+0041164000222,ING00947,soybean oil,4,Tasmiya CSV
+0041164000222,ING00341,"dehydrated cheddar cheese (cheddar cheese [pasteurized milk, cheese cultures, salt, enzymes], disodium phosphate)",5,Tasmiya CSV
+0041164000222,ING00889,salt,6,Tasmiya CSV
+0041164000222,ING00701,onion,7,Tasmiya CSV
+0041164000222,ING00657,natural flavor,8,Tasmiya CSV
+0041164000222,ING00384,eggs,9,Tasmiya CSV
+0041164000222,ING01127,yeast extract,10,Tasmiya CSV
+0041164000222,ING01093,whey,11,Tasmiya CSV
+0041164000222,ING00950,spice,12,Tasmiya CSV
+0041164000222,ING00073,annatto and turmeric (color).,13,Tasmiya CSV
+00782753,ING00299,Cooked Rice,1,Tasmiya CSV
+00782753,ING00152,Boneless Skinless Chicken Thigh,2,Tasmiya CSV
+00782753,ING00158,Broccoli,3,Tasmiya CSV
+00782753,ING00149,Bok Choy,4,Tasmiya CSV
+00782753,ING00192,Carrots,5,Tasmiya CSV
+00782753,ING00181,Cane Sugar,6,Tasmiya CSV
+00782753,ING00938,Soy Sauce,7,Tasmiya CSV
+00782753,ING01077,Water,8,Tasmiya CSV
+00782753,ING00559,Lime Juice,9,Tasmiya CSV
+00782753,ING00312,Cornstarch,10,Tasmiya CSV
+00782753,ING00447,Garlic,11,Tasmiya CSV
+00782753,ING01010,Toasted Sesame Oil,12,Tasmiya CSV
+00782753,ING00458,Ginger.,13,Tasmiya CSV
+0078742007908,ING00614,Milk,1,Tasmiya CSV
+0078742007908,ING00316,cream,2,Tasmiya CSV
+0078742007908,ING00904,skim milk,3,Tasmiya CSV
+0078742007908,ING00981,sugar,4,Tasmiya CSV
+0078742007908,ING00310,corn syrup,5,Tasmiya CSV
+0078742007908,ING00382,egg yolks,6,Tasmiya CSV
+0078742007908,ING00267,contains 1% or less of vanilla extract,7,Tasmiya CSV
+0078742007908,ING00188,carob bean gum,8,Tasmiya CSV
+0078742007908,ING00483,guar gum,9,Tasmiya CSV
+0078742007908,ING00889,salt,10,Tasmiya CSV
+0078742007908,ING00077,annatto extract for color.,11,Tasmiya CSV
+00532761,ING00301,"Cooked tri color quinoa (tri blend quiona, water)",1,Tasmiya CSV
+00532761,ING00864,red peppers,2,Tasmiya CSV
+00532761,ING00294,"cooked black beans (black beans, water)",3,Tasmiya CSV
+00532761,ING00155,"bread crumbs (_wheat_ flour, sugar, yeast, salt)",4,Tasmiya CSV
+00532761,ING00403,expeller pressed canola oil,5,Tasmiya CSV
+00532761,ING00871,roasted corn,6,Tasmiya CSV
+00532761,ING00705,onions,7,Tasmiya CSV
+00532761,ING00827,potato flakes,8,Tasmiya CSV
+00532761,ING00093,arrowroot,9,Tasmiya CSV
+00532761,ING01020,tomatoes,10,Tasmiya CSV
+00532761,ING00699,olive oil,11,Tasmiya CSV
+00532761,ING00511,jalepeno peppers,12,Tasmiya CSV
+00532761,ING01013,tomato paste,13,Tasmiya CSV
+00532761,ING00021,_egg_ white powder,14,Tasmiya CSV
+00532761,ING00872,roasted garlic,15,Tasmiya CSV
+00532761,ING01111,white vinegar,16,Tasmiya CSV
+00532761,ING00889,salt,17,Tasmiya CSV
+00532761,ING00233,cilantro,18,Tasmiya CSV
+00532761,ING00221,"chili powder (chili pepper, salt, garlic, cumin, spices)",19,Tasmiya CSV
+00532761,ING00703,onion powder,20,Tasmiya CSV
+00532761,ING00304,coriander,21,Tasmiya CSV
+00532761,ING00137,black pepper,22,Tasmiya CSV
+00532761,ING00450,garlic powder,23,Tasmiya CSV
+00532761,ING00222,chipotle powder,24,Tasmiya CSV
+00532761,ING00560,lime juice powder.,25,Tasmiya CSV
+0028989100641,ING01077,Water,1,Tasmiya CSV
+0028989100641,ING00294,"cooked black beans (black beans, water)",2,Tasmiya CSV
+0028989100641,ING00295,"cooked brown rice (water, brown rice)",3,Tasmiya CSV
+0028989100641,ING00705,onions,4,Tasmiya CSV
+0028989100641,ING01050,"vegetable oil (corn, canola and/or sunflower oil)",5,Tasmiya CSV
+0028989100641,ING01116,whole kernel corn,6,Tasmiya CSV
+0028989100641,ING00935,soy protein concentrate,7,Tasmiya CSV
+0028989100641,ING00703,onion powder,8,Tasmiya CSV
+0028989100641,ING01089,wheat gluten,9,Tasmiya CSV
+0028989100641,ING00381,egg whites,10,Tasmiya CSV
+0028989100641,ING01020,tomatoes,11,Tasmiya CSV
+0028989100641,ING00169,bulgur wheat,12,Tasmiya CSV
+0028989100641,ING00475,green chilies,13,Tasmiya CSV
+0028989100641,ING00179,calcium caseinate (milk),14,Tasmiya CSV
+0028989100641,ING00312,cornstarch,15,Tasmiya CSV
+0028989100641,ING01012,tomato juice,16,Tasmiya CSV
+0028989100641,ING00953,spices,17,Tasmiya CSV
+0028989100641,ING01017,tomato powder,18,Tasmiya CSV
+0028989100641,ING00889,salt,19,Tasmiya CSV
+0028989100641,ING00450,garlic powder,20,Tasmiya CSV
+0028989100641,ING00657,natural flavor,21,Tasmiya CSV
+0028989100641,ING00943,"soy sauce powder (soybeans, wheat, salt)",22,Tasmiya CSV
+0028989100641,ING00510,jalapeno peppers,23,Tasmiya CSV
+0028989100641,ING00485,gum arabic,24,Tasmiya CSV
+0028989100641,ING00702,onion and carrot juice concentrate,25,Tasmiya CSV
+0028989100641,ING00236,citric acid,26,Tasmiya CSV
+0028989100641,ING01124,xanthan gum,27,Tasmiya CSV
+0079900001691,ING01121,WILD BLUEBERRIES,1,Tasmiya CSV
+0028989101020,ING01077,water,1,Tasmiya CSV
+0028989101020,ING01087,wheat flour,2,Tasmiya CSV
+0028989101020,ING01050,"vegetable oil (corn, canola and/or sunflower oil)",3,Tasmiya CSV
+0028989101020,ING00932,soy flour,4,Tasmiya CSV
+0028989101020,ING00936,soy protein isolate,5,Tasmiya CSV
+0028989101020,ING00271,contains 2% or less of wheat starch,6,Tasmiya CSV
+0028989101020,ING01130,yellow corn flour,7,Tasmiya CSV
+0028989101020,ING01089,wheat gluten,8,Tasmiya CSV
+0028989101020,ING00613,methylcellulose,9,Tasmiya CSV
+0028989101020,ING01127,yeast extract,10,Tasmiya CSV
+0028989101020,ING00981,sugar,11,Tasmiya CSV
+0028989101020,ING00829,potato starch,12,Tasmiya CSV
+0028989101020,ING00312,cornstarch,13,Tasmiya CSV
+0028989101020,ING00351,dextrose,14,Tasmiya CSV
+0028989101020,ING00889,salt,15,Tasmiya CSV
+0028989101020,ING00953,spices,16,Tasmiya CSV
+0028989101020,ING00665,natural flavors,17,Tasmiya CSV
+0028989101020,ING00703,onion powder,18,Tasmiya CSV
+0028989101020,ING01126,yeast,19,Tasmiya CSV
+0028989101020,ING00762,paprika (color),20,Tasmiya CSV
+0028989101020,ING00538,"leavening (sodium acid pyrophosphate, sodium bicarbonate)",21,Tasmiya CSV
+0028989101020,ING00820,potassium chloride,22,Tasmiya CSV
+0028989101020,ING00461,glutamic acid,23,Tasmiya CSV
+0028989101020,ING00450,garlic powder,24,Tasmiya CSV
+0028989101020,ING00236,citric acid,25,Tasmiya CSV
+0028989101020,ING01124,xanthan gum,26,Tasmiya CSV
+0028989101020,ING00119,barley malt extract,27,Tasmiya CSV
+0028989100665,ING01077,Water,1,Tasmiya CSV
+0028989100665,ING00294,"cooked black beans (black beans, water)",2,Tasmiya CSV
+0028989100665,ING00295,"cooked brown rice (water, brown rice)",3,Tasmiya CSV
+0028989100665,ING00705,onions,4,Tasmiya CSV
+0028989100665,ING01050,"vegetable oil (corn, canola and/or sunflower oil)",5,Tasmiya CSV
+0028989100665,ING00306,corn,6,Tasmiya CSV
+0028989100665,ING00932,soy flour,7,Tasmiya CSV
+0028989100665,ING01020,tomatoes,8,Tasmiya CSV
+0028989100665,ING00703,onion powder,9,Tasmiya CSV
+0028989100665,ING01089,wheat gluten,10,Tasmiya CSV
+0028989100665,ING00381,egg whites,11,Tasmiya CSV
+0028989100665,ING00169,bulgur wheat,12,Tasmiya CSV
+0028989100665,ING00474,green chiles,13,Tasmiya CSV
+0028989100665,ING00179,calcium caseinate (milk),14,Tasmiya CSV
+0028989100665,ING00313,cornstarch. contains 2% or less of spices,15,Tasmiya CSV
+0028989100665,ING01017,tomato powder,16,Tasmiya CSV
+0028989100665,ING01012,tomato juice,17,Tasmiya CSV
+0028989100665,ING00889,salt,18,Tasmiya CSV
+0028989100665,ING00450,garlic powder,19,Tasmiya CSV
+0028989100665,ING00657,natural flavor,20,Tasmiya CSV
+0028989100665,ING00943,"soy sauce powder (soybeans, wheat, salt)",21,Tasmiya CSV
+0028989100665,ING00510,jalapeno peppers,22,Tasmiya CSV
+0028989100665,ING00485,gum arabic,23,Tasmiya CSV
+0028989100665,ING00297,cooked onion and carrot juice concentrate,24,Tasmiya CSV
+0028989100665,ING00236,citric acid,25,Tasmiya CSV
+0028989100665,ING01125,xanthan gum.,26,Tasmiya CSV
+0186852000365,ING00614,Milk,1,Tasmiya CSV
+0186852000365,ING00981,sugar,2,Tasmiya CSV
+0186852000365,ING00316,cream,3,Tasmiya CSV
+0186852000365,ING00224,chocolate,4,Tasmiya CSV
+0186852000365,ING00351,dextrose,5,Tasmiya CSV
+0186852000365,ING00617,milk fat,6,Tasmiya CSV
+0186852000365,ING00250,cocoa butter,7,Tasmiya CSV
+0186852000365,ING00986,sunflower lecithin,8,Tasmiya CSV
+0186852000365,ING00188,carob bean gum,9,Tasmiya CSV
+0186852000365,ING00657,natural flavor,10,Tasmiya CSV
+0186852000365,ING00483,guar gum,11,Tasmiya CSV
+0186852000365,ING00225,chocolate (processed with alkali),12,Tasmiya CSV
+0186852000365,ING01035,vanilla extract,13,Tasmiya CSV
+0186852000365,ING00933,soy lecithin,14,Tasmiya CSV
+0186852000365,ING00626,mint leaf extractives.,15,Tasmiya CSV
+0074570007004,ING00316,Cream,1,Tasmiya CSV
+0074570007004,ING00904,Skim Milk,2,Tasmiya CSV
+0074570007004,ING00181,Cane Sugar,3,Tasmiya CSV
+0074570007004,ING00382,Egg Yolks,4,Tasmiya CSV
+0074570007004,ING01035,Vanilla Extract,5,Tasmiya CSV
+0074570034000,ING00316,CREAM,1,Tasmiya CSV
+0074570034000,ING00904,SKIM MILK,2,Tasmiya CSV
+0074570034000,ING00181,CANE SUGAR,3,Tasmiya CSV
+0074570034000,ING00382,EGG YOLKS,4,Tasmiya CSV
+0074570034000,ING00259,COFFEE,5,Tasmiya CSV
+0013800103215,ING01019,"TOMATO PUREE (WATER, TOMATO PASTE)",1,Tasmiya CSV
+0013800103215,ING00298,"COOKED PASTA (WATER, SEMOLINA WHEAT FLOUR)",2,Tasmiya CSV
+0013800103215,ING00293,COOKED BEEF,3,Tasmiya CSV
+0013800103215,ING01077,WATER,4,Tasmiya CSV
+0013800103215,ING00587,"LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE (CULTURED PART-SKIM MILK, SALT, ENZYMES)",5,Tasmiya CSV
+0013800103215,ING00371,"DRY CURD COTTAGE CHEESE (CULTURED SKIM MILK, ENZYMES)",6,Tasmiya CSV
+0013800103215,ING00008,2% OR LESS OF MODIFIED FOOD STARCH,7,Tasmiya CSV
+0013800103215,ING00771,"PART-SKIM MOZZARELLA CHEESE AND MODIFIED CORNSTARCH (PART-SKIM MOZZARELLA CHEESE (CULTURED MILK, SALT, ENZYMES], MODIFIED CORNSTARCH, NONFAT MILK, FLAVORS), SOY SAUCE (WATER, SOYBEANS, WHEAT, SALT), WHEAT FLOUR, DRIED ONIONS, SALT, SUGAR, PARMESAN CHEESE (CULTURED MILK, SALT, ENZYMES), SPICES, GARLIC POWDER. CONTAINS: WHEAT, MILK, SOY.",8,Tasmiya CSV

@@ -1,0 +1,1145 @@
+ingredient_id,raw_name,canonical_name,alternative_names,category,allergens,additives,ingredient_tags,description,source,normalization_status
+ING00001,*phenylketonurics: contains phenylalanine,*phenylketonurics: contains phenylalanine,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00002,100% Coffee. 100% Arabica.,100% Coffee. 100% Arabica.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00003,1296),1296),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00004,1l,1l,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00005,2 0,2 0,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00006,2 16,2 16,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00007,2 5,2 5,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00008,2% OR LESS OF MODIFIED FOOD STARCH,2% OR LESS OF MODIFIED FOOD STARCH,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00009,4 16,4 16,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00010,5 38,5 38,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00011,6 1,6 1,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00012,7 0,7 0,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00013,7 1,7 1,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00014,8 12,8 12,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00015,8 52,8 52,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00016,8 961008 223063,8 961008 223063,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00017,9 100 313 ingredients: corn meal,9 100 313 ingredients: corn meal,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00018,"[Natural flavour substance (onion powder, garlic powder,clili powder, coriander powder, cumin powder, black pepper, tomato powder, parsley, paprika extract (E160c),palm kernel oil, Hydrolyzed soy protein, peanut oil, Natural identical flavouring substance)","[Natural flavour substance (onion powder, garlic powder,clili powder, coriander powder, cumin powder, black pepper, tomato powder, parsley, paprika extract (E160c),palm kernel oil, Hydrolyzed soy protein, peanut oil, Natural identical flavouring substance)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00019,_Almond_ powder,_Almond_ powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00020,_Butter_,_Butter_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00021,_egg_ white powder,_egg_ white powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00022,_Milk Protein_,_Milk Protein_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00023,_Peanut_,_Peanut_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00024,_Peanut_ powder,_Peanut_ powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00025,_Skimmed Milk Powder_,_Skimmed Milk Powder_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00026,_Soy_ and _Tree Nuts_.,_Soy_ and _Tree Nuts_.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00027,_Soya Lecithin_,_Soya Lecithin_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00028,_Soya Protein_,_Soya Protein_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00029,_sulphites_.,_sulphites_.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00030,_Tree Nuts_ & _Sulphite_.,_Tree Nuts_ & _Sulphite_.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00031,_Wheat Flour_,_Wheat Flour_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00032,_Wheat_ flour,_Wheat_ flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00033,_Whey Powder (Milk)_,_Whey Powder (Milk)_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00034,acesulfame potassium,acesulfame potassium,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00035,Acesulfame Potassium (E950),Acesulfame Potassium (E950),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00036,Acetic Acid,Acetic Acid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00037,ACID (CITRIC ACID),ACID (CITRIC ACID),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00038,Acidifier (E-330),Acidifier (E-330),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00039,"acidity regu ors (e330, e262 (il), whey powder, permitted food colours (e129, e160b), flavouring,onion powder, garlic powder, palm oil, buttermilk powder, glucose syrup, flavour enhancer (e635), cheese powder, milk proteins skimmed milk powder, anticaking agent (e551) contains milk, soy ral diet","acidity regu ors (e330, e262 (il), whey powder, permitted food colours (e129, e160b), flavouring,onion powder, garlic powder, palm oil, buttermilk powder, glucose syrup, flavour enhancer (e635), cheese powder, milk proteins skimmed milk powder, anticaking agent (e551) contains milk, soy ral diet",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00040,Acidity Regulator (Citric Acid),Acidity Regulator (Citric Acid),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00041,Acidity regulator (E330),Acidity regulator (E330),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00042,"Acidity Regulator (E330[Citrus Acid], E331[Sodium Citrate])","Acidity Regulator (E330[Citrus Acid], E331[Sodium Citrate])",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00043,acidity regulator (E338),acidity regulator (E338),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00044,Acidity Regulator (Sodium Citrate),Acidity Regulator (Sodium Citrate),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00045,ACIDITY REGULATOR (TRISODIUM CITRATE),ACIDITY REGULATOR (TRISODIUM CITRATE),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00046,"Acidity regulators (Ammonium bicarbonate, Sodium bicarbonate, Sodium phosphate tribasic)","Acidity regulators (Ammonium bicarbonate, Sodium bicarbonate, Sodium phosphate tribasic)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00047,"Acidity Regulators (Citric Acid (E-330), Sodium Di Acetate (E-262))","Acidity Regulators (Citric Acid (E-330), Sodium Di Acetate (E-262))",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00048,"Acidity Regulators (Citric Acid E-330, Sodium Citrate E-331)","Acidity Regulators (Citric Acid E-330, Sodium Citrate E-331)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00049,Acidity Regulators (Citric Acid E330 & Ascorbic Acid E300) & Red chilli powder,Acidity Regulators (Citric Acid E330 & Ascorbic Acid E300) & Red chilli powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00050,Acidity Regulators (Sodium and Potassium Carbonates),Acidity Regulators (Sodium and Potassium Carbonates),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00051,acidophilus,acidophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00052,Acidty Regulator (E 330).,Acidty Regulator (E 330).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00053,ACTIVE CULTURES: S. THERMOPHILUS,ACTIVE CULTURES: S. THERMOPHILUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00054,"ACTIVE YOGURT CULTURES (L. ACIDOPHILUS,, BIFIDUS, L. BULGARICUS AND S., THERMOPHILUS)","ACTIVE YOGURT CULTURES (L. ACIDOPHILUS,, BIFIDUS, L. BULGARICUS AND S., THERMOPHILUS)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00055,ACTIVE YOGURT CULTURES L. BULGARICUS & S. THERMOPHILUS,ACTIVE YOGURT CULTURES L. BULGARICUS & S. THERMOPHILUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00056,ade of 00% natural corn nutritional information serving size: 32g per 100g,ade of 00% natural corn nutritional information serving size: 32g per 100g,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00057,AGAR,AGAR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00058,all natural italian sausage,all natural italian sausage,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00059,ALLSPICE,ALLSPICE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00060,Almond,Almond,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00061,almond (5%),almond (5%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00062,"Almonds Roasted in Vegetable Oil (Almonds, Safflower Oil)","Almonds Roasted in Vegetable Oil (Almonds, Safflower Oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00063,almons(12%),almons(12%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00064,ammonium bicarbonate,ammonium bicarbonate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00065,Ammonium Bicarbonate (E503),Ammonium Bicarbonate (E503),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00066,and L. Rhamnosus,and L. Rhamnosus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00067,and L. Rhamnosus.,and L. Rhamnosus.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00068,and Smoke flavour] ergen: Contains Peanut and wheat MFG 22/11/25 17:17 w 88 22/03/0684619,and Smoke flavour] ergen: Contains Peanut and wheat MFG 22/11/25 17:17 w 88 22/03/0684619,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00069,Annatto (color),Annatto (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00070,annatto (color)].,annatto (color)].,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00071,annatto (for color),annatto (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00072,annatto (vegetable color),annatto (vegetable color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00073,annatto and turmeric (color).,annatto and turmeric (color).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00074,annatto color,annatto color,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00075,ANNATTO COLOR DEXTROSE,ANNATTO COLOR DEXTROSE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00076,annatto extract (for color),annatto extract (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00077,annatto extract for color.,annatto extract for color.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00078,Anti-caking agent (E551),Anti-caking agent (E551),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00079,Anticaking Agent (E-551),Anticaking Agent (E-551),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00080,Anticaking agent (E551),Anticaking agent (E551),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00081,Anticaking agent (Tri Calcium Phosphate),Anticaking agent (Tri Calcium Phosphate),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00082,ANTICAKING AGENT (TRICALCIUM PHOSPHATE),ANTICAKING AGENT (TRICALCIUM PHOSPHATE),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00083,"Anticaking agents (E551, E341(iii), Paprika extract (E160c), Sunflower oil, Flavour enhancers E627&E631 both from plant source)","Anticaking agents (E551, E341(iii), Paprika extract (E160c), Sunflower oil, Flavour enhancers E627&E631 both from plant source)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00084,"Anticaking agents 1635 from plant (ESS1, E341(0) Herbs, Flavour enhancer source","Anticaking agents 1635 from plant (ESS1, E341(0) Herbs, Flavour enhancer source",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00085,Antioxidant,Antioxidant,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00086,Antioxidant (Ascorbic Acid E-300),Antioxidant (Ascorbic Acid E-300),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00087,Antioxidant (Ascorbic Acid),Antioxidant (Ascorbic Acid),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00088,Antioxidant (Ascorbic Acid) & Permitted Food Colour (INS 160a) Allergen: contains Soya Lecithin,Antioxidant (Ascorbic Acid) & Permitted Food Colour (INS 160a) Allergen: contains Soya Lecithin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00089,Antioxidant (E-300),Antioxidant (E-300),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00090,"Antioxidant(E385[Calcium Sodium EDTA]) & Vitamins (B3, B6, B12)","Antioxidant(E385[Calcium Sodium EDTA]) & Vitamins (B3, B6, B12)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00091,APPLES,APPLES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00092,Aquaresin of Basil,Aquaresin of Basil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00093,arrowroot,arrowroot,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00094,Artificial Broth Flavour,Artificial Broth Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00095,"artificial color (includes red 40, red 3, blue 1)","artificial color (includes red 40, red 3, blue 1)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00096,"artificial color ntainer 40 (includes yellow 5, yellow 6, red 40). 109g) %dv* contains bioengineered food ingredients. 36% 90% 32%","artificial color ntainer 40 (includes yellow 5, yellow 6, red 40). 109g) %dv* contains bioengineered food ingredients. 36% 90% 32%",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00097,Artificial Flavor,Artificial Flavor,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00098,artificial flavors,artificial flavors,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00099,Artificial Flavors (Contains Soya Lecithin),Artificial Flavors (Contains Soya Lecithin),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00100,Artificial Flavour (Milk),Artificial Flavour (Milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00101,Artificial Flavours,Artificial Flavours,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00102,"Artificial Flavours (Milk, Butter & Vanilla). It may also contain traces of _Egg_","Artificial Flavours (Milk, Butter & Vanilla). It may also contain traces of _Egg_",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00103,"Artificial Flavours (Milk, Chocolate, Vanilla)","Artificial Flavours (Milk, Chocolate, Vanilla)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00104,"Artificial food Colours(E-102,E-110,E-122,E-129,E-133)","Artificial food Colours(E-102,E-110,E-122,E-129,E-133)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00105,Artificial Food Flavour (Vanilla),Artificial Food Flavour (Vanilla),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00106,"Artificial Food Flavours(Apple,Grape,Lemon,Orange And Strawberry)","Artificial Food Flavours(Apple,Grape,Lemon,Orange And Strawberry)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00107,Artificial Mango Flavour and Food Colours (E-110 & E-102).,Artificial Mango Flavour and Food Colours (E-110 & E-102).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00108,Artificial Peanut Flavour Allergen Advice: For allergen,Artificial Peanut Flavour Allergen Advice: For allergen,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00109,ascorbic acid,ascorbic acid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00110,ascorbic acid (vitamin c),ascorbic acid (vitamin c),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00111,Ascorbic Acid(9.72ppm)(E-300),Ascorbic Acid(9.72ppm)(E-300),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00112,aspartame*,aspartame*,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00113,autolyzed yeast extract,autolyzed yeast extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00114,B-CAROTENE,B-CAROTENE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00115,b. lactis,b. lactis,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00116,"BAKER'S CHEESE (MILK, LACTIC ACID)","BAKER'S CHEESE (MILK, LACTIC ACID)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00117,BAKING SODA,BAKING SODA,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00118,Barbeque flavour [Sugar,Barbeque flavour [Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00119,barley malt extract,barley malt extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00120,basil,basil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00121,BASMATI RICE,BASMATI RICE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00122,"Battered Dark Chicken Meat (Dark Chicken Meat, Water, Cornstarch, Unbleached Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Egg, Soybean Oil, Salt, White Pepper, Garlic, Green Onion, Ginger)","Battered Dark Chicken Meat (Dark Chicken Meat, Water, Cornstarch, Unbleached Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Egg, Soybean Oil, Salt, White Pepper, Garlic, Green Onion, Ginger)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00123,Beef,Beef,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00124,Beef Gelatin Halal,Beef Gelatin Halal,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00125,Beet Juice (color),Beet Juice (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00126,beet juice extract (color),beet juice extract (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00127,"berries (raspberries, blackberries, strawberries, acai berries)","berries (raspberries, blackberries, strawberries, acai berries)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00128,beta carotene (color),beta carotene (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00129,beta carotene (color).,beta carotene (color).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00130,Bifidobacterium,Bifidobacterium,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00131,bifidobacterium.,bifidobacterium.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00132,BIFIDUS,BIFIDUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00133,bifidus and l. casei,bifidus and l. casei,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00134,bifidus and l. casei.,bifidus and l. casei.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00135,black cherries,black cherries,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00136,black olives,black olives,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00137,Black Pepper,Black Pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00138,Black pepper (21 mg),Black pepper (21 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00139,black pepper.,black pepper.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00140,BLACK PEPPER. D CONTAINS: EGG,BLACK PEPPER. D CONTAINS: EGG,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00141,Black Salt,Black Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00142,Black salt (68.14 mg),Black salt (68.14 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00143,Black Tea.,Black Tea.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00144,blackberries,blackberries,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00145,BLUEBERRIES.,BLUEBERRIES.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00146,BLUEBERRY MUFFIN with BLUEBERRY TOPPING,BLUEBERRY MUFFIN with BLUEBERRY TOPPING,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00147,blueberry puree,blueberry puree,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00148,bobant.com Bifidus,bobant.com Bifidus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00149,Bok Choy,Bok Choy,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00150,boneless,boneless,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00151,Boneless chicken breast with rib meat,Boneless chicken breast with rib meat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00152,Boneless Skinless Chicken Thigh,Boneless Skinless Chicken Thigh,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00153,Brandy,Brandy,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00154,BREAD CRUMBS,BREAD CRUMBS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00155,"bread crumbs (_wheat_ flour, sugar, yeast, salt)","bread crumbs (_wheat_ flour, sugar, yeast, salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00156,breading set in vegetable oil,breading set in vegetable oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00157,breakfast bon,breakfast bon,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00158,broccoli,broccoli,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00159,brown cane sugar,brown cane sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00160,Brown lentil,Brown lentil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00161,Brown Onion,Brown Onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00162,brown rice flour,brown rice flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00163,Brown Sugar,Brown Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00164,Brown Sugar (21%). Vegetable Fat (including Palm Roy Bean Oil & Cotton Seed Oil),Brown Sugar (21%). Vegetable Fat (including Palm Roy Bean Oil & Cotton Seed Oil),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00165,"brownie dough (wheat flour, sugar, water, butter, cocoa processed with alkali, expeller pressed soybean oil, white rice flour, vanilla extract, sunflower lecithin, salt)","brownie dough (wheat flour, sugar, water, butter, cocoa processed with alkali, expeller pressed soybean oil, white rice flour, vanilla extract, sunflower lecithin, salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00166,BUCKWHEAT,BUCKWHEAT,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00167,buckwheat (gluten free),buckwheat (gluten free),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00168,bulgaricus,bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00169,bulgur wheat,bulgur wheat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00170,Butter,Butter,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00171,"butter (cream, salt)","butter (cream, salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00172,BUTTER OIL (_MILK_),BUTTER OIL (_MILK_),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00173,c,c,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00174,caffeine (100ppm),caffeine (100ppm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00175,Caffeine (Max 200 mg/L),Caffeine (Max 200 mg/L),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00176,Caffeine(100ppm),Caffeine(100ppm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00177,Calcium Carbonate (E170),Calcium Carbonate (E170),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00178,calcium caseinate,calcium caseinate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00179,calcium caseinate (milk),calcium caseinate (milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00180,calcium citrate,calcium citrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00181,Cane Sugar,Cane Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00182,CANOLA OIL,CANOLA OIL,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00183,caramel color,caramel color,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00184,caramel color.,caramel color.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00185,caramel colour (contains sulphite),caramel colour (contains sulphite),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00186,Caramel Colour(E-150d),Caramel Colour(E-150d),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00187,Carbonated Water,Carbonated Water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00188,carob bean gum,carob bean gum,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00189,carrageenan,carrageenan,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00190,carrot,carrot,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00191,carrot juice extract (for color),carrot juice extract (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00192,carrots,carrots,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00193,casei,casei,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00194,CASHEWS,CASHEWS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00195,cauliflower,cauliflower,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00196,"Cauliflower crust (cauliflower, non-gmo low moisture part-skim mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt vegetarian enzymes, powdered cellulose[ to prevent caking], calcium chloride), rice flour, tapioca starch, water egg whites, modified rice starch, sugar, organic yeast, salt, cultured brown rice, garlic powder, italian seasoning, xanthan gum, non-gmo part skim low moisture mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt, vegetarian enzymes, calcium chloride) tomato sauce (water, tomato paste, seasoning {cane sugar, sea salt, dehydrated onion and garlic, spices} sea salt), roasted zucchini, roasted bell peppers (roasted red bell peppers, roasted yellow bell peppers, roasted green bell peppers), roasted onion, pecorino romano and parmesan cheese blend (pecorino romano cheese {pasteurized sheep's milk, salt, enzymes}, parmesan cheese {pasteurized milk, cheese cultures, salt, enzymes}), roasted garlic, basil, oregano.","Cauliflower crust (cauliflower, non-gmo low moisture part-skim mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt vegetarian enzymes, powdered cellulose[ to prevent caking], calcium chloride), rice flour, tapioca starch, water egg whites, modified rice starch, sugar, organic yeast, salt, cultured brown rice, garlic powder, italian seasoning, xanthan gum, non-gmo part skim low moisture mozzarella cheese (non-gmo cultured pasteurized part skim milk, salt, vegetarian enzymes, calcium chloride) tomato sauce (water, tomato paste, seasoning {cane sugar, sea salt, dehydrated onion and garlic, spices} sea salt), roasted zucchini, roasted bell peppers (roasted red bell peppers, roasted yellow bell peppers, roasted green bell peppers), roasted onion, pecorino romano and parmesan cheese blend (pecorino romano cheese {pasteurized sheep's milk, salt, enzymes}, parmesan cheese {pasteurized milk, cheese cultures, salt, enzymes}), roasted garlic, basil, oregano.",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00197,cayenne pepper,cayenne pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00198,Celery,Celery,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00199,cellulose gel,cellulose gel,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00200,cellulose gum,cellulose gum,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00201,celtic sea salt,celtic sea salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00202,Cheese & Onion flavour [Onion powder,Cheese & Onion flavour [Onion powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00203,cheese culture,cheese culture,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00204,cheese cultures,cheese cultures,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00205,Cheese powder,Cheese powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00206,cherry juice concentrate,cherry juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00207,Chick Peas,Chick Peas,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00208,Chicken,Chicken,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00209,chicken breast tenderloins,chicken breast tenderloins,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00210,chicken breast with rib meat,chicken breast with rib meat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00211,chicken broth,chicken broth,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00212,Chicken Dark Meat Chunks: Chicken Dark Meat Chunks Whole Eggs. Soy Bean Oil Water Cornstarch. Chill Powder Salt White Pepper,Chicken Dark Meat Chunks: Chicken Dark Meat Chunks Whole Eggs. Soy Bean Oil Water Cornstarch. Chill Powder Salt White Pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00213,"chicken flavor (contains chicken broth, rendered chicken fat, salt, flavor, disodium inosinate & disodium guanylate, polysorbate 60, xanthan gum)","chicken flavor (contains chicken broth, rendered chicken fat, salt, flavor, disodium inosinate & disodium guanylate, polysorbate 60, xanthan gum)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00214,"Chicken Flavored Powder (Yeast Extract, Natural Flavor, Salt)","Chicken Flavored Powder (Yeast Extract, Natural Flavor, Salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00215,Chicken Powder,Chicken Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00216,Chicken Raised Without Antibiotics,Chicken Raised Without Antibiotics,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00217,CHICKEN TIKKA: CHICKEN BREAST,CHICKEN TIKKA: CHICKEN BREAST,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00218,Chickpeas,Chickpeas,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00219,chicory root fiber,chicory root fiber,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00220,CHILI PEPPER,CHILI PEPPER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00221,"chili powder (chili pepper, salt, garlic, cumin, spices)","chili powder (chili pepper, salt, garlic, cumin, spices)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00222,chipotle powder,chipotle powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00223,chive,chive,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00224,CHOCOLATE,CHOCOLATE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00225,chocolate (processed with alkali),chocolate (processed with alkali),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00226,"CHOCOLATE FLAKE (CONFECTIONER'S SUGAR, COCONUT OIL, DUTCH PROCESSED COCOA, COCOA, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR)","CHOCOLATE FLAKE (CONFECTIONER'S SUGAR, COCONUT OIL, DUTCH PROCESSED COCOA, COCOA, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00227,CHẤT CHỐNG OXY HÓA (BUTYLATED HYDROXYTOLUENE-INS 321). LƯU Ý: PHENYLKETONURICS CÓ CHÚA PHENYLALANINE. NSX 03091943 HSD-010321123,CHẤT CHỐNG OXY HÓA (BUTYLATED HYDROXYTOLUENE-INS 321). LƯU Ý: PHENYLKETONURICS CÓ CHÚA PHENYLALANINE. NSX 03091943 HSD-010321123,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00228,CHẤT GUM NẾ GLUCOSE,CHẤT GUM NẾ GLUCOSE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00229,CHẤT LÀM BÓNG (SÁP CARNAUBA-INS 903),CHẤT LÀM BÓNG (SÁP CARNAUBA-INS 903),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00230,CHẤT LÀM ẨM (GLYCEROL-INS 422),CHẤT LÀM ẨM (GLYCEROL-INS 422),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00231,CHẤT NHŨ HOA (LECITHIN-INS 3221),CHẤT NHŨ HOA (LECITHIN-INS 3221),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00232,"CHẤT TẠO NGỌT TỔNG HỢP (ASPARTAME-INS 951, ACESULFAME K-INS 950)","CHẤT TẠO NGỌT TỔNG HỢP (ASPARTAME-INS 951, ACESULFAME K-INS 950)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00233,CILANTRO,CILANTRO,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00234,cinnamon,cinnamon,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00235,Cinnamon Powder,Cinnamon Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00236,citric acid,citric acid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00237,Citric acid (E-330),Citric acid (E-330),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00238,Citric Acid (E-330).,Citric Acid (E-330).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00239,Citric Acid(E-330),Citric Acid(E-330),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00240,citric acid.,citric acid.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00241,CITRUS FIBER,CITRUS FIBER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00242,CLARIFIED BUTTER (GHEE),CLARIFIED BUTTER (GHEE),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00243,CLOTTED CREAM (MILK) (10%),CLOTTED CREAM (MILK) (10%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00244,cloudberry puree,cloudberry puree,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00245,Clove Powder,Clove Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00246,CLOVES,CLOVES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00247,cocoa,cocoa,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00248,Cocoa & (E501(i)) Potassium Carb.,Cocoa & (E501(i)) Potassium Carb.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00249,cocoa (processed with alkali),cocoa (processed with alkali),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00250,cocoa butter,cocoa butter,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00251,Cocoa mass,Cocoa mass,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00252,Cocoa Powder,Cocoa Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00253,"Cocoa preparation (Whole milk powder, Cocoa mass)","Cocoa preparation (Whole milk powder, Cocoa mass)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00254,cocoa processed with alkali,cocoa processed with alkali,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00255,coconut,coconut,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00256,COCONUT 18%,COCONUT 18%,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00257,Coconut Oil,Coconut Oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00258,Coconut Oil.,Coconut Oil.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00259,Coffee,Coffee,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00260,coffee extract,coffee extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00261,Cola Natural Flavour.,Cola Natural Flavour.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00262,COLOUR (CAROTENES).,COLOUR (CAROTENES).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00263,colour : E150A. permitted natural colour (INS 15OA),colour : E150A. permitted natural colour (INS 15OA),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00264,coltured pasteurized nonfat milk,coltured pasteurized nonfat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00265,Common salt (171.4 mg),Common salt (171.4 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00266,condensed non fat milk,condensed non fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00267,contains 1% or less of vanilla extract,contains 1% or less of vanilla extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00268,contains 2% or less of salt,contains 2% or less of salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00269,contains 2% or less of the following: brown sugar,contains 2% or less of the following: brown sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00270,contains 2% or less of the following: chicken broth,contains 2% or less of the following: chicken broth,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00271,contains 2% or less of wheat starch,contains 2% or less of wheat starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00272,Contains 2% Or Less Of: Ground Onion,Contains 2% Or Less Of: Ground Onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00273,Contains 2% or less of: Kosher Salt,Contains 2% or less of: Kosher Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00274,contains 2% or less of: onions,contains 2% or less of: onions,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00275,contains 2% or less of: salt,contains 2% or less of: salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00276,CONTAINS 27 OR LESS OF SEA SALT,CONTAINS 27 OR LESS OF SEA SALT,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00277,contains active yogurt cultures including l,contains active yogurt cultures including l,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00278,CONTAINS ADDED SYNTHETIC FOOD FLAVOR AND SYNTHETIC FOOD COLOR,CONTAINS ADDED SYNTHETIC FOOD FLAVOR AND SYNTHETIC FOOD COLOR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00279,CONTAINS LESS mL) THAN 1% OF: CREAM,CONTAINS LESS mL) THAN 1% OF: CREAM,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00280,contains less than 1% of modified corn starch,contains less than 1% of modified corn starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00281,contains less than 1% of tapioca starch,contains less than 1% of tapioca starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00282,contains less than 1% of: cream,contains less than 1% of: cream,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00283,contains less than 1% of: tapioca starch,contains less than 1% of: tapioca starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00284,contains less than 2% of sea salt,contains less than 2% of sea salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00285,contains live and active culture,contains live and active culture,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00286,contains live and active cultures: s,contains live and active cultures: s,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00287,CONTAINS MILK,CONTAINS MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00288,CONTAINS MILK.,CONTAINS MILK.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00289,contains: egg,contains: egg,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00290,contains: milk,contains: milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00291,contains: milk dist,contains: milk dist,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00292,contains: soybeans,contains: soybeans,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00293,COOKED BEEF,COOKED BEEF,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00294,"cooked black beans (black beans, water)","cooked black beans (black beans, water)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00295,"cooked brown rice (water, brown rice)","cooked brown rice (water, brown rice)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00296,"cooked chicken (white meat chicken, water, isolated soy protein product [isolated soy protein, modified potato starch, corn starch, carrageenan, soy lecithin], dextrose, salt, flavoring)","cooked chicken (white meat chicken, water, isolated soy protein product [isolated soy protein, modified potato starch, corn starch, carrageenan, soy lecithin], dextrose, salt, flavoring)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00297,cooked onion and carrot juice concentrate,cooked onion and carrot juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00298,"COOKED PASTA (WATER, SEMOLINA WHEAT FLOUR)","COOKED PASTA (WATER, SEMOLINA WHEAT FLOUR)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00299,Cooked Rice,Cooked Rice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00300,"cooked rice (water, brown rice)","cooked rice (water, brown rice)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00301,"Cooked tri color quinoa (tri blend quiona, water)","Cooked tri color quinoa (tri blend quiona, water)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00302,"cookie dough (wheat flour, sugar, butter, water, soybean oil, molasses, corn starch, salt, vanilla extract, soy lecithin, baking soda)","cookie dough (wheat flour, sugar, butter, water, soybean oil, molasses, corn starch, salt, vanilla extract, soy lecithin, baking soda)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00303,"Cooking Rice Wine (Water, Alcohol, Salt)","Cooking Rice Wine (Water, Alcohol, Salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00304,CORIANDER,CORIANDER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00305,Coriander Powder,Coriander Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00306,corn,corn,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00307,Corn Flour,Corn Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00308,Corn meal,Corn meal,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00309,Corn Starch,Corn Starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00310,corn syrup,corn syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00311,CORNISH WHOLE MILK (milk),CORNISH WHOLE MILK (milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00312,cornstarch,cornstarch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00313,cornstarch. contains 2% or less of spices,cornstarch. contains 2% or less of spices,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00314,cornstarch. Contains 2% or less of sugar,cornstarch. Contains 2% or less of sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00315,"cracker meal (wheat flour, soybean oil)","cracker meal (wheat flour, soybean oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00316,cream,cream,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00317,Crushed Red Pepper,Crushed Red Pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00318,Crushed Tomatoes,Crushed Tomatoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00319,cultured brown rice,cultured brown rice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00320,cultured grade a low fat milk,cultured grade a low fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00321,Cultured grade A non fat milk,Cultured grade A non fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00322,CULTURED GRADE A REDUCED FAT MILK,CULTURED GRADE A REDUCED FAT MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00323,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,CULTURED GRADE A ULTRA-FILTERED NON FAT MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00324,Cultured lowfat milk,Cultured lowfat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00325,CULTURED MILK,CULTURED MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00326,cultured non fat milk,cultured non fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00327,Cultured non-fat milk,Cultured non-fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00328,Cultured nonfat milk,Cultured nonfat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00329,Cultured pasteurized grade a milk,Cultured pasteurized grade a milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00330,CULTURED PASTEURIZED NONFAT MILK,CULTURED PASTEURIZED NONFAT MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00331,CULTURED PASTEURIZED NONFAT MILK.,CULTURED PASTEURIZED NONFAT MILK.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00332,cultured pasteurized skim milk,cultured pasteurized skim milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00333,cultured ultra-filtered non fat milk,cultured ultra-filtered non fat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00334,CUMIN,CUMIN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00335,Cumin seed (59.5 mg),Cumin seed (59.5 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00336,Cumin Seed Powder,Cumin Seed Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00337,CUMIN SEEDS. CONTAINS MILK,CUMIN SEEDS. CONTAINS MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00338,d,d,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00339,DANONE VEGETABLE JUICE CONCENTRATE (FOR COLOR),DANONE VEGETABLE JUICE CONCENTRATE (FOR COLOR),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00340,Dehydrated Carrot Flakes,Dehydrated Carrot Flakes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00341,"dehydrated cheddar cheese (cheddar cheese [pasteurized milk, cheese cultures, salt, enzymes], disodium phosphate)","dehydrated cheddar cheese (cheddar cheese [pasteurized milk, cheese cultures, salt, enzymes], disodium phosphate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00342,DEHYDRATED GARLIC,DEHYDRATED GARLIC,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00343,DEHYDRATED GREEN BEL PEPPER,DEHYDRATED GREEN BEL PEPPER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00344,Dehydrated Leeks,Dehydrated Leeks,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00345,dehydrated onion,dehydrated onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00346,Dehydrated Oregano,Dehydrated Oregano,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00347,DEHYDRATED PARSLEY.,DEHYDRATED PARSLEY.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00348,DEHYDRATED RED BELL PEPPER,DEHYDRATED RED BELL PEPPER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00349,Dehydrated Tomato Flakes,Dehydrated Tomato Flakes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00350,Dextrin,Dextrin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00351,Dextrose,Dextrose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00352,Dextrose Powder,Dextrose Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00353,diacetyle tartaric acid esters of mono,diacetyle tartaric acid esters of mono,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00354,"Diced Tomatoes In Juice (Tomato, Tomato Juice, Citric Acid [Acidifier], Calcium Chloride)","Diced Tomatoes In Juice (Tomato, Tomato Juice, Citric Acid [Acidifier], Calcium Chloride)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00355,diglycerides (palm),diglycerides (palm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00356,diglycerides of fatty acids (palm),diglycerides of fatty acids (palm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00357,disodium dihydrogen pyrophosphate,disodium dihydrogen pyrophosphate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00358,disodium dihydrogen pyrophosphate (to retain natural color),disodium dihydrogen pyrophosphate (to retain natural color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00359,"Distilled Aqueous Extracts of Herbs (Rose, Sanh). Acidliy Regulator 330). Preservative (-211). CONTAINS PERMITTED FOOD COLOUR (E-129)","Distilled Aqueous Extracts of Herbs (Rose, Sanh). Acidliy Regulator 330). Preservative (-211). CONTAINS PERMITTED FOOD COLOUR (E-129)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00360,Distilled Vinegar,Distilled Vinegar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00361,"DOUGH: Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)","DOUGH: Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00362,dough: unbleached wheat flour,dough: unbleached wheat flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00363,Dried Citrus Pulp.,Dried Citrus Pulp.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00364,dried garlic,dried garlic,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00365,DRIED GLUCOSE SYRUP,DRIED GLUCOSE SYRUP,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00366,dried onion,dried onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00367,DRIED SAGE LEAVES,DRIED SAGE LEAVES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00368,DRIED SKIMMED _MILK_,DRIED SKIMMED _MILK_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00369,dried whey (milk),dried whey (milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00370,dried yeast,dried yeast,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00371,"DRY CURD COTTAGE CHEESE (CULTURED SKIM MILK, ENZYMES)","DRY CURD COTTAGE CHEESE (CULTURED SKIM MILK, ENZYMES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00372,"dulce de leche (sweetened condensed milk [milk, sugar], corn syrup, sugar, water, nonfat dry milk, butter, natural flavor, salt, baking soda)","dulce de leche (sweetened condensed milk [milk, sugar], corn syrup, sugar, water, nonfat dry milk, butter, natural flavor, salt, baking soda)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00373,dutch processed cocoa,dutch processed cocoa,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00374,E322,E322,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00375,E476,E476,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00376,E503,E503,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00377,e],e],[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00378,EDIBLE VEGETABLE OIL,EDIBLE VEGETABLE OIL,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00379,EGG,EGG,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00380,Egg Powder,Egg Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00381,EGG WHITES,EGG WHITES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00382,egg yolks,egg yolks,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00383,egg yolks.,egg yolks.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00384,Eggs,Eggs,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00385,"elderberry juice from concentrate (water, elderberry juice concentrate)","elderberry juice from concentrate (water, elderberry juice concentrate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00386,"Emulsifier (_Soy_ lecithin, Polyglycerol polyricinoleate)","Emulsifier (_Soy_ lecithin, Polyglycerol polyricinoleate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00387,Emulsifier (E414),Emulsifier (E414),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00388,Emulsifier (E452[Polyphosphate]),Emulsifier (E452[Polyphosphate]),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00389,Emulsifier (Glycerol Esters of Wood Rosins),Emulsifier (Glycerol Esters of Wood Rosins),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00390,emulsifier (mono - and diglycerides of fatty acids),emulsifier (mono - and diglycerides of fatty acids),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00391,EMULSIFIER (MONO-AND DIGLYCERIDES OF FATTY ACIDS),EMULSIFIER (MONO-AND DIGLYCERIDES OF FATTY ACIDS),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00392,Emulsifier (Soy Lecithin E322),Emulsifier (Soy Lecithin E322),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00393,Emulsifier (Soya Lacithin E-322),Emulsifier (Soya Lacithin E-322),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00394,Emulsifier _(Soy Lecithin E322)_,Emulsifier _(Soy Lecithin E322)_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00395,"emulsifiers (E442,E476)","emulsifiers (E442,E476)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00396,Emulsifying Agent (E 322),Emulsifying Agent (E 322),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00397,energy (k) (kcal) protein (g) carbohydrates (g) sugars (g) total fat (g) saturated fat (g) fibre (g) sodiure (mg) 2427 e80 186 5,energy (k) (kcal) protein (g) carbohydrates (g) sugars (g) total fat (g) saturated fat (g) fibre (g) sodiure (mg) 2427 e80 186 5,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00398,"enriched flour (wheat flour, niacin, iron, thiamine mononitrate, riboflavin, folic acid)","enriched flour (wheat flour, niacin, iron, thiamine mononitrate, riboflavin, folic acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00399,"ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID)","ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00400,"Enzyme preparation (Glycerin, Water, Papaya extract, Sodium metabisulfite)","Enzyme preparation (Glycerin, Water, Papaya extract, Sodium metabisulfite)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00401,enzymes,enzymes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00402,evaporated cane sugar,evaporated cane sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00403,expeller pressed canola oil,expeller pressed canola oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00404,EXPELLER PRESSED HIGH OLEIC SAFFLOWER AND/OR SUNFLOWER OIL,EXPELLER PRESSED HIGH OLEIC SAFFLOWER AND/OR SUNFLOWER OIL,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00405,extra virgin olive oil,extra virgin olive oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00406,Extract of Rosemary,Extract of Rosemary,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00407,Extract of Rosemary. CONTAINS: Milk.,Extract of Rosemary. CONTAINS: Milk.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00408,extractives of paprika,extractives of paprika,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00409,"extractives of turmeric. crust: enriched wheat flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid)","extractives of turmeric. crust: enriched wheat flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00410,facility processes fish,facility processes fish,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00411,family milk chocolate: milk solids 20% min.Cocoa solids 20%min.,family milk chocolate: milk solids 20% min.Cocoa solids 20%min.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00412,FENUGREEK LEAVES,FENUGREEK LEAVES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00413,Fiber,Fiber,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00414,"FILLING (POTATOES, CARROTS, PEAS, LENTILS, ONION, EXPELLER PRESSED CANOLA OIL, CILANTRO, SALT, SPICES, GARLIC, CITRIC ACID, TURMERIC (FLAVOR]), PASTRY (WATER, UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID, THIAMINE MONONITRATE, RIBOFLAVIN, AMYLASE, FOLIC ACIDI, EXPELLER PRESSED CANOLA OIL, SALT, DISTILLED VINEGAR).","FILLING (POTATOES, CARROTS, PEAS, LENTILS, ONION, EXPELLER PRESSED CANOLA OIL, CILANTRO, SALT, SPICES, GARLIC, CITRIC ACID, TURMERIC (FLAVOR]), PASTRY (WATER, UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID, THIAMINE MONONITRATE, RIBOFLAVIN, AMYLASE, FOLIC ACIDI, EXPELLER PRESSED CANOLA OIL, SALT, DISTILLED VINEGAR).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00415,FILLING: Chicken,FILLING: Chicken,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00416,"Filling: chicken broth (water, chicken broth powder [maltodextrin, chicken broth, salt, flavors])","Filling: chicken broth (water, chicken broth powder [maltodextrin, chicken broth, salt, flavors])",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00417,filling: white cabbage,filling: white cabbage,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00418,FILTERED WATER,FILTERED WATER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00419,flaming hot flavour [maltodext dried yeast,flaming hot flavour [maltodext dried yeast,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00420,flavoring,flavoring,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00421,flavorings,flavorings,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00422,flavour contains soy and peanut,flavour contains soy and peanut,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00423,Flavour enhancer (E627-from plant source),Flavour enhancer (E627-from plant source),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00424,"Flavour enhancers (E627, E631-from plant)] and Salt Contains wheat *Guideline Daily Amount based on","Flavour enhancers (E627, E631-from plant)] and Salt Contains wheat *Guideline Daily Amount based on",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00425,Flavouring preparations,Flavouring preparations,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00426,"Flavouring substance (Garlic, Chili pepper, Fennel, Onion, Coriander)","Flavouring substance (Garlic, Chili pepper, Fennel, Onion, Coriander)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00427,FLAVOURINGS,FLAVOURINGS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00428,Flour (wheat),Flour (wheat),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00429,Food Colour (E102). May contain traces of _Peanut_,Food Colour (E102). May contain traces of _Peanut_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00430,Food Colour (E102). May contait traces of Peanut,Food Colour (E102). May contait traces of Peanut,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00431,"Food Colours (E12, E150) ALLERGEN ADVICE:","Food Colours (E12, E150) ALLERGEN ADVICE:",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00432,FREEZE DRIED STRAWBERRIES,FREEZE DRIED STRAWBERRIES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00433,Fresh Butter,Fresh Butter,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00434,Fresh Egg,Fresh Egg,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00435,Fresh Eggs,Fresh Eggs,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00436,"Fried Dry Chill And Water Chestnut Peanuts Packet Fried Peanuts (Pears Peanut Oil) Sauce Packet Water Sugar Soy Sa (Soy, Wheat)","Fried Dry Chill And Water Chestnut Peanuts Packet Fried Peanuts (Pears Peanut Oil) Sauce Packet Water Sugar Soy Sa (Soy, Wheat)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00437,fructose,fructose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00438,FRUIT & VEGETABLE JUICE CONCENTRATE (FOR COLOR),FRUIT & VEGETABLE JUICE CONCENTRATE (FOR COLOR),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00439,fruit and vegetable juice concentrate (for color),fruit and vegetable juice concentrate (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00440,fruit and vegetable juice concentrate (for color).,fruit and vegetable juice concentrate (for color).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00441,fruit juice for color,fruit juice for color,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00442,fruit juice for color natural flavors,fruit juice for color natural flavors,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00443,fruit pectin,fruit pectin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00444,"Fruits (Citrus Pup non Lemon Juice Concentrate, Pectin, Lemon Extract, Carob Bean Gum. Contains Milk. Made the USA with domestic and imported ingredients. No rBST. According to the FDA, no significant ence has been found between milk from rBST-treated and non-rBST treated cows.","Fruits (Citrus Pup non Lemon Juice Concentrate, Pectin, Lemon Extract, Carob Bean Gum. Contains Milk. Made the USA with domestic and imported ingredients. No rBST. According to the FDA, no significant ence has been found between milk from rBST-treated and non-rBST treated cows.",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00445,"fudge swirl (tapioca syrup, water, invert sugar, coconut oil, corn starch, cocoa processed with alkali, cocoa, nonfat milk, salt, sunflower lecithin, natural flavors, citric acid)","fudge swirl (tapioca syrup, water, invert sugar, coconut oil, corn starch, cocoa processed with alkali, cocoa, nonfat milk, salt, sunflower lecithin, natural flavors, citric acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00446,Full Cream Milk Powder,Full Cream Milk Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00447,garlic,garlic,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00448,Garlic & Red Chilli 104) Salt,Garlic & Red Chilli 104) Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00449,Garlic And Green Onion Vegetables Packet: Green Bell Pepper Red Bell Pepper,Garlic And Green Onion Vegetables Packet: Green Bell Pepper Red Bell Pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00450,Garlic Powder,Garlic Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00451,garlic powder. breaded with: wheat flour,garlic powder. breaded with: wheat flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00452,garlic puree.,garlic puree.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00453,Gelatin,Gelatin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00454,GELLAN GUM,GELLAN GUM,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00455,ginger,ginger,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00456,ginger (16.7 mg),ginger (16.7 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00457,Ginger Powder,Ginger Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00458,Ginger.,Ginger.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00459,Glucose,Glucose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00460,Glucose Syrup,Glucose Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00461,glutamic acid,glutamic acid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00462,glycerin,glycerin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00463,glycerine,glycerine,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00464,Golden Syrup,Golden Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00465,Grade A pasteurized skim milk,Grade A pasteurized skim milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00466,"Grains (Wheat, Non - glutinous rice, Glutinous rice)","Grains (Wheat, Non - glutinous rice, Glutinous rice)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00467,Gram Flour,Gram Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00468,Gram Pulse,Gram Pulse,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00469,Granulated Garlic.,Granulated Garlic.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00470,Granulated Onion,Granulated Onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00471,"greek yogurt (nonfat milk, yogurt cultures)","greek yogurt (nonfat milk, yogurt cultures)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00472,"GREEK YOGURT (PASTEURIZED NONFAT MILK, YOGURT CULTURES)","GREEK YOGURT (PASTEURIZED NONFAT MILK, YOGURT CULTURES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00473,green bell peppers,green bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00474,green chiles,green chiles,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00475,green chilies,green chilies,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00476,Green Chilli Powder,Green Chilli Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00477,green onion,green onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00478,Green Tea,Green Tea,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00479,GROUND BEEF,GROUND BEEF,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00480,GROUND CLOVE,GROUND CLOVE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00481,GROUND THYME,GROUND THYME,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00482,ground vanilla beans,ground vanilla beans,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00483,guar gum,guar gum,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00484,Guava Juice: 15%,Guava Juice: 15%,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00485,gum arabic,gum arabic,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00486,Gum Arabic(E-414),Gum Arabic(E-414),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00487,Haripur uwa,Haripur uwa,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00488,Hattar,Hattar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00489,High fructose corn syrup,High fructose corn syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00490,High Fructose Syrup,High Fructose Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00491,High Fructose Syrup Skimmed Milk Powder,High Fructose Syrup Skimmed Milk Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00492,honey,honey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00493,Hot & Spicy Flavouring [Sugar,Hot & Spicy Flavouring [Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00494,Humectant (Propylene Glyad E1520) Dough Conditioner (Sodium Metabisulphite E223),Humectant (Propylene Glyad E1520) Dough Conditioner (Sodium Metabisulphite E223),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00495,Hydrogenated Palm Fat,Hydrogenated Palm Fat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00496,Hydrogenated Vegetable Oil,Hydrogenated Vegetable Oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00497,Hydrogenated Vegetable Oil (Palm),Hydrogenated Vegetable Oil (Palm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00498,Hydrogenated Vegetable Oil (Palm) Sugar,Hydrogenated Vegetable Oil (Palm) Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00499,HYDROLYZED SOY PROTEIN,HYDROLYZED SOY PROTEIN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00500,hydrolyzed vegetable permeate powder,hydrolyzed vegetable permeate powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00501,Hydrolyzed wheat protein,Hydrolyzed wheat protein,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00502,HƯỢNG BẠC HÀ TỰ NHIÊN VÀ TỔNG HỢP,HƯỢNG BẠC HÀ TỰ NHIÊN VÀ TỔNG HỢP,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00503,improved,improved,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00504,Industrial Estate,Industrial Estate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00505,Inositol,Inositol,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00506,interesterified soybean oil,interesterified soybean oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00507,Invert Syrup,Invert Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00508,isomalt**,isomalt**,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00509,jalapeno pepper.,jalapeno pepper.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00510,jalapeno peppers,jalapeno peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00511,jalepeno peppers,jalepeno peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00512,konjac flour,konjac flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00513,kosher gelatin,kosher gelatin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00514,l,l,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00515,L BULGARICUS,L BULGARICUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00516,l. acidophilus,l. acidophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00517,l. bulgaricus,l. bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00518,L. BULGARICUS.,L. BULGARICUS.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00519,L. Casei,L. Casei,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00520,L. CASEI.,L. CASEI.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00521,l. delbrueckii subsp,l. delbrueckii subsp,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00522,l. delbrueckii subsp. bulgaricus,l. delbrueckii subsp. bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00523,l. delbrueckii subsp. lactis,l. delbrueckii subsp. lactis,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00524,L. paracasei,L. paracasei,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00525,l.acidophilus,l.acidophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00526,l.bulgaricus,l.bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00527,LACIDOPHILUS,LACIDOPHILUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00528,lactase,lactase,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00529,lactase**,lactase**,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00530,lactase.,lactase.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00531,lactic acid,lactic acid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00532,lactic acid starter culture,lactic acid starter culture,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00533,Lactic Acid(E-270),Lactic Acid(E-270),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00534,lactobacillus bulgaricus,lactobacillus bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00535,Lactose,Lactose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00536,"leavening (cream of tartar, sodium bicarbonate)","leavening (cream of tartar, sodium bicarbonate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00537,"leavening (disodium dihydrogen pyrophosphate, sodium bicarbonate)","leavening (disodium dihydrogen pyrophosphate, sodium bicarbonate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00538,"leavening (sodium acid pyrophosphate, sodium bicarbonate)","leavening (sodium acid pyrophosphate, sodium bicarbonate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00539,Leavening Agent (Sodium Bicarbonate E-500(ii)),Leavening Agent (Sodium Bicarbonate E-500(ii)),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00540,"Leavening Agents (E 500 (ii), E-503)","Leavening Agents (E 500 (ii), E-503)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00541,lecithin (soy),lecithin (soy),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00542,Lemon Flavour,Lemon Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00543,lemon juice,lemon juice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00544,"LEMON JUICE (WATER, CONCENTRATED LEMON JUICE)","LEMON JUICE (WATER, CONCENTRATED LEMON JUICE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00545,lemon juice concentrate,lemon juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00546,lemon juice concentrate.,lemon juice concentrate.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00547,lemon juice concentrate. 6 live and active cultures: S. Thermophilus,lemon juice concentrate. 6 live and active cultures: S. Thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00548,lemon juice concentrate. contains live and active cultures: s. thermophilus,lemon juice concentrate. contains live and active cultures: s. thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00549,lemon juice concentrate. Ingredient not found in regular yogurt.,lemon juice concentrate. Ingredient not found in regular yogurt.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00550,lemon juice concentrate. live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),lemon juice concentrate. live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00551,Lemon Juice From Concentrate.,Lemon Juice From Concentrate.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00552,lemon peel.,lemon peel.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00553,Lemon Powder,Lemon Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00554,less than 1%: natural,less than 1%: natural,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00555,LESS THAN 1%: TAPIOCA STARCH,LESS THAN 1%: TAPIOCA STARCH,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00556,less than 1.5% of: lactase,less than 1.5% of: lactase,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00557,less than 2% of: natural flavors,less than 2% of: natural flavors,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00558,less than 2% of: whey,less than 2% of: whey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00559,lime juice,lime juice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00560,lime juice powder.,lime juice powder.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00561,Lime Juice Salt Ginger Garc And Green Onion CONTAINS EGGS,Lime Juice Salt Ginger Garc And Green Onion CONTAINS EGGS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00562,lingonberries,lingonberries,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00563,Liquid Glucose,Liquid Glucose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00564,Liquid Glucose Dextrose,Liquid Glucose Dextrose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00565,LIVE,LIVE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00566,live active cultures,live active cultures,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00567,"live active cultures (Bifidobacterium, Lactobacillus acidophilus, L. bulgaricus, L. paracasei, Streptococcus thermophilus)","live active cultures (Bifidobacterium, Lactobacillus acidophilus, L. bulgaricus, L. paracasei, Streptococcus thermophilus)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00568,"live active cultures (s. thermophilus, l. delbrueckii subsp. bulgaricus, b. lactis, l. acidophilus, l. delbrueckii subsp. lactis).","live active cultures (s. thermophilus, l. delbrueckii subsp. bulgaricus, b. lactis, l. acidophilus, l. delbrueckii subsp. lactis).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00569,"LIVE ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS 150 BULGARICUS, L. ACIDOPHILUS, % Daily Value 14% BIFIDOBACTERIUM BIFIDUM, L. LACTIS, L. PLANTARUM). CONTAINS CASHEW","LIVE ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS 150 BULGARICUS, L. ACIDOPHILUS, % Daily Value 14% BIFIDOBACTERIUM BIFIDUM, L. LACTIS, L. PLANTARUM). CONTAINS CASHEW",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00570,live active cultures live active cultures: s. thermophilus,live active cultures live active cultures: s. thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00571,live active cultures: live active cultures: s. thermophilus,live active cultures: live active cultures: s. thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00572,"live active yogurt cultures (acidophilus, bifidus, l. bulgaricus and s. thermophilus)","live active yogurt cultures (acidophilus, bifidus, l. bulgaricus and s. thermophilus)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00573,"live active yogust Gultures (Acidophilus, Bifidus, L bulgaricus and s. thermophilus)","live active yogust Gultures (Acidophilus, Bifidus, L bulgaricus and s. thermophilus)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00574,live and active bacterial cultures. Contains: milk.,live and active bacterial cultures. Contains: milk.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00575,"LIVE AND ACTIVE CULTURES (BIFIDOBACTERIUM LACTIS, ADOPHILUS, L. BULGARICUS, L. PARACASEI, STREPTOCOCCUS THERMOPHILUS). Potassium 4% DIST EXCLUS TRADER","LIVE AND ACTIVE CULTURES (BIFIDOBACTERIUM LACTIS, ADOPHILUS, L. BULGARICUS, L. PARACASEI, STREPTOCOCCUS THERMOPHILUS). Potassium 4% DIST EXCLUS TRADER",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00576,live and active cultures (lactobacillus paracasei).,live and active cultures (lactobacillus paracasei).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00577,"LIVE AND ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS BULGARICUS, LACTOBACILLUS ACIDOPHILUS, BIFIDUS, LACTOBACILLUS PARACASEI). CONTAINS MILK.","LIVE AND ACTIVE CULTURES (STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS BULGARICUS, LACTOBACILLUS ACIDOPHILUS, BIFIDUS, LACTOBACILLUS PARACASEI). CONTAINS MILK.",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00578,live and active cultures.,live and active cultures.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00579,live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),live and active cultures: heirloom skyr cultures (streptococcus thermophilus islandicus),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00580,"LIVE PROBIOTIC CULTURES (BIFIDOBACTERIUM LACTIS BB-12, L. ACIDOPHILUS LA-5, L. RHAMNOSUS LB3, L. CASEI, L. RHAMNOSUS, L. ACIDOPHILUS, BIFIDOBACTERIUM LACTIS).","LIVE PROBIOTIC CULTURES (BIFIDOBACTERIUM LACTIS BB-12, L. ACIDOPHILUS LA-5, L. RHAMNOSUS LB3, L. CASEI, L. RHAMNOSUS, L. ACIDOPHILUS, BIFIDOBACTERIUM LACTIS).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00581,"LIVE YOGURT CULTURES (S. THERMOPHILUS, L. BULGARICUS)","LIVE YOGURT CULTURES (S. THERMOPHILUS, L. BULGARICUS)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00582,locust bean gum,locust bean gum,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00583,locust bean gum.,locust bean gum.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00584,Long pepper (16.7 mg),Long pepper (16.7 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00585,low moisture mozzarella cheese,low moisture mozzarella cheese,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00586,low moisture part skim mozzarella cheese,low moisture part skim mozzarella cheese,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00587,"LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE (CULTURED PART-SKIM MILK, SALT, ENZYMES)","LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE (CULTURED PART-SKIM MILK, SALT, ENZYMES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00588,"Low-moisture Part-skim Mozzarella Cheese (Pasteurized Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)","Low-moisture Part-skim Mozzarella Cheese (Pasteurized Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00589,Lowfat Greek yogurt (cultured skim milk and cream),Lowfat Greek yogurt (cultured skim milk and cream),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00590,"Lowfat yogurt (cultured pasteurized nonfat milk, cream).","Lowfat yogurt (cultured pasteurized nonfat milk, cream).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00591,Lowfat yogurt [pasteurized milk,Lowfat yogurt [pasteurized milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00592,madagascar bourbon vanilla,madagascar bourbon vanilla,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00593,"madagascar bourbon vanilla (vanilla extract, vanilla bean specks)","madagascar bourbon vanilla (vanilla extract, vanilla bean specks)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00594,made on equipment shared with shelfish,made on equipment shared with shelfish,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00595,made with real tomato goodness no artificial colo artificial chunky garlic twist new,made with real tomato goodness no artificial colo artificial chunky garlic twist new,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00596,Maize dextrose,Maize dextrose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00597,Maize maltodextrin,Maize maltodextrin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00598,Maize starch,Maize starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00599,Malt (Barley),Malt (Barley),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00600,Malt extract,Malt extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00601,malted barley extract,malted barley extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00602,Maltitol (E965),Maltitol (E965),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00603,Maltodextrin,Maltodextrin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00604,Maltodextrin & Natural Lemon Flavor.,Maltodextrin & Natural Lemon Flavor.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00605,maltodextrin (corn),maltodextrin (corn),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00606,MANGO POWDER. CUMIN RICE: WATER,MANGO POWDER. CUMIN RICE: WATER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00607,Mango Pulp,Mango Pulp,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00608,Mango Pulp (10%),Mango Pulp (10%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00609,mangoes,mangoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00610,Maple Extract,Maple Extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00611,masala flavour,masala flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00612,Mesquite Smoke Flavor,Mesquite Smoke Flavor,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00613,methylcellulose,methylcellulose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00614,Milk,Milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00615,milk (artificial flavours),milk (artificial flavours),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00616,"Milk Chocolate (Sugar, Whole Milk Powder, Chocolate, Cocoa Butter, Soy Lecithin, Vanilla Extract)","Milk Chocolate (Sugar, Whole Milk Powder, Chocolate, Cocoa Butter, Soy Lecithin, Vanilla Extract)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00617,milk fat,milk fat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00618,MILK K,MILK K,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00619,MILK PROTEIN CONCENTRATE,MILK PROTEIN CONCENTRATE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00620,milk solids,milk solids,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00621,Milk Solids and Stabiliser.,Milk Solids and Stabiliser.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00622,Milk Solids Non-Fat,Milk Solids Non-Fat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00623,milk.,milk.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00624,milk. made on equipment that makes products made in the usa than is legally required. till amook,milk. made on equipment that makes products made in the usa than is legally required. till amook,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00625,Minerals and Vitamins,Minerals and Vitamins,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00626,mint leaf extractives.,mint leaf extractives.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00627,Mixed Spices,Mixed Spices,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00628,"Mixed spices (Cumin, Pepper, Ajowan)","Mixed spices (Cumin, Pepper, Ajowan)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00629,Modified Can Starch,Modified Can Starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00630,modified corn starch,modified corn starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00631,Modified Cornstarch,Modified Cornstarch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00632,modified food starch,modified food starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00633,modified rice starch,modified rice starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00634,modified tapioca starch,modified tapioca starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00635,modified whey,modified whey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00636,monk fruit extract,monk fruit extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00637,mono,mono,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00638,mono and diglycerides,mono and diglycerides,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00639,MONO-DIGLYCEROL FATTY ACID ESTER,MONO-DIGLYCEROL FATTY ACID ESTER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00640,MONROVA CARE asn HEATING INSTRUCTIONS: HEAT FROM FROZEN STOVE TOP: Preheat non-stick shit frequently for approximatel Stol MICROWAVE (1200 watt): Micro wattage Place patties on a micror seconds or until heated through AIR FRYER: Set al fryer temperature 35/ Heat for approximately minutes other through Add to an English muffin with ches and patty and acid to am omeiet,MONROVA CARE asn HEATING INSTRUCTIONS: HEAT FROM FROZEN STOVE TOP: Preheat non-stick shit frequently for approximatel Stol MICROWAVE (1200 watt): Micro wattage Place patties on a micror seconds or until heated through AIR FRYER: Set al fryer temperature 35/ Heat for approximately minutes other through Add to an English muffin with ches and patty and acid to am omeiet,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00641,"mozzarella (pasteurized milk, cheese cultures, salt, enzymes)","mozzarella (pasteurized milk, cheese cultures, salt, enzymes)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00642,"MOZZARELLA (PASTEURIZED PART SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)","MOZZARELLA (PASTEURIZED PART SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00643,mushrooms,mushrooms,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00644,MUSTARD,MUSTARD,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00645,Mustard and Peanut Keep away from direct heat and sunlight. Refrigerate,Mustard and Peanut Keep away from direct heat and sunlight. Refrigerate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00646,Mustard Flour,Mustard Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00647,"MÀU THỰC PHẨM TÔNG HỢP (TITANIUM DIOXYDE-INS 171, TARTRAZINE-INS 102, BRILLIANT BLUE FCF-INS 133)","MÀU THỰC PHẨM TÔNG HỢP (TITANIUM DIOXYDE-INS 171, TARTRAZINE-INS 102, BRILLIANT BLUE FCF-INS 133)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00648,N PHẦN: ĐƯỜNG,N PHẦN: ĐƯỜNG,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00649,national chilligarlie sauce ne t,national chilligarlie sauce ne t,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00650,Natural & Artificial Flavours,Natural & Artificial Flavours,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00651,natural and artificial flavor,natural and artificial flavor,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00652,natural and artificial flavors,natural and artificial flavors,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00653,Natural and artificial flavours,Natural and artificial flavours,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00654,Natural and nature identical flavourings,Natural and nature identical flavourings,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00655,NATURAL COLOR(E150),NATURAL COLOR(E150),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00656,Natural Colour (Carotenes). Suitable for vegetarians and vegans.,Natural Colour (Carotenes). Suitable for vegetarians and vegans.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00657,natural flavor,natural flavor,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00658,natural flavor (cola) & caramel color (E150d),natural flavor (cola) & caramel color (E150d),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00659,NATURAL FLAVOR.,NATURAL FLAVOR.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00660,NATURAL FLAVOR. CONTAINS MILK.,NATURAL FLAVOR. CONTAINS MILK.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00661,natural flavor. contains: egg,natural flavor. contains: egg,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00662,natural flavor. soy lecithin.,natural flavor. soy lecithin.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00663,natural flavoring.,natural flavoring.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00664,natural flavorings,natural flavorings,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00665,natural flavors,natural flavors,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00666,NATURAL FLAVORS (SMOKE AND GRILL FLAVOR),NATURAL FLAVORS (SMOKE AND GRILL FLAVOR),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00667,natural flavors.,natural flavors.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00668,Natural flavouring substance,Natural flavouring substance,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00669,Natural Food Color (E-150).,Natural Food Color (E-150).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00670,"natural gruyere non-dairy cheese flavor (gum arabic, maltodextrin, organic sunflower oil, natural flavor)","natural gruyere non-dairy cheese flavor (gum arabic, maltodextrin, organic sunflower oil, natural flavor)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00671,Natural identical flavouring substance,Natural identical flavouring substance,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00672,Natural Identical Flavours. Note: You may find suspended particles in the syrup,Natural Identical Flavours. Note: You may find suspended particles in the syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00673,Natural Lemon Flavour,Natural Lemon Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00674,Natural Lime Flavour,Natural Lime Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00675,NATURAL ORANGE FLAVOUR,NATURAL ORANGE FLAVOUR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00676,Natural Orange Flavouring with other Natural Flavourings,Natural Orange Flavouring with other Natural Flavourings,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00677,Natural Spice Extract,Natural Spice Extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00678,natural strawberry flavor,natural strawberry flavor,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00679,natural vanilla beans,natural vanilla beans,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00680,NATURAL VANILLA FLAVOR,NATURAL VANILLA FLAVOR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00681,"natural vegetable gums (guar, carob bean).","natural vegetable gums (guar, carob bean).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00682,Natural Yeast (Saccharomyces Cerevisiae),Natural Yeast (Saccharomyces Cerevisiae),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00683,Nature Identical Chilli Flavour,Nature Identical Chilli Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00684,Nature-identical flavourings,Nature-identical flavourings,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00685,"NON-DAIRY NATURAL GRUYERE CHEESE FLAVOR (GUM ARABIC, MALTODEXTRIN, ORGANIC SUNFLOWER OIL, NATURAL FLAVOR)","NON-DAIRY NATURAL GRUYERE CHEESE FLAVOR (GUM ARABIC, MALTODEXTRIN, ORGANIC SUNFLOWER OIL, NATURAL FLAVOR)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00686,nonfat dry milk,nonfat dry milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00687,nonfat milk,nonfat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00688,Nonfat yogurt (cultured pasteurized nonfat milk),Nonfat yogurt (cultured pasteurized nonfat milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00689,nonfat yogurt* (cultured nonfat milk),nonfat yogurt* (cultured nonfat milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00690,Noodle Cake: Wheat Flour,Noodle Cake: Wheat Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00691,NUTMEG,NUTMEG,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00692,Nutrition Facts 3 servings per container Serving size 2 patties (72g) Amount per serving Calories 140 % Dally Value* Total Fat 9g 12% Saturated Fat 29 10% Trans Fat 0g Cholesterol 70mg Sodium 390mg Total carsonydrite 1g Dietary Fiber 0g Total Supera 0g 23% 17% 0% 0% Protein dar Includes 0g Added Sugars vitam 0% Gelchuvong Tron 1 Ang Poter m AROMO 0% 2% 6% 10% CHICKEN,Nutrition Facts 3 servings per container Serving size 2 patties (72g) Amount per serving Calories 140 % Dally Value* Total Fat 9g 12% Saturated Fat 29 10% Trans Fat 0g Cholesterol 70mg Sodium 390mg Total carsonydrite 1g Dietary Fiber 0g Total Supera 0g 23% 17% 0% 0% Protein dar Includes 0g Added Sugars vitam 0% Gelchuvong Tron 1 Ang Poter m AROMO 0% 2% 6% 10% CHICKEN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00693,NUTRITION iNPORMATION ĐERST 152,NUTRITION iNPORMATION ĐERST 152,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00694,oak shavings infusion,oak shavings infusion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00695,oat fiber,oat fiber,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00696,Oat Flakes,Oat Flakes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00697,oat flakes (15%),oat flakes (15%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00698,OLEORESIN OF PAPRIKA,OLEORESIN OF PAPRIKA,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00699,olive oil,olive oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00700,"OLIVE OIL BLEND (CANOLA OIL, OLIVE OIL)","OLIVE OIL BLEND (CANOLA OIL, OLIVE OIL)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00701,onion,onion,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00702,onion and carrot juice concentrate,onion and carrot juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00703,Onion Powder,Onion Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00704,onion powder. Contains 2% or less of cornstarch,onion powder. Contains 2% or less of cornstarch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00705,onions,onions,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00706,Orange Fruit from Concentrate (40%),Orange Fruit from Concentrate (40%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00707,ORANGE POWDER,ORANGE POWDER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00708,orange pulp cells,orange pulp cells,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00709,Oregano,Oregano,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00710,organic agave syrup,organic agave syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00711,organic annatto (color),organic annatto (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00712,organic black pepper,organic black pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00713,organic boneless chicken breast with rib meat,organic boneless chicken breast with rib meat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00714,ORGANIC BROCCOLI,ORGANIC BROCCOLI,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00715,organic cane sugar,organic cane sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00716,"Organic Caramelized Onions (Organic Onions, Organic Extra Virgin Olive Oil)","Organic Caramelized Onions (Organic Onions, Organic Extra Virgin Olive Oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00717,ORGANIC CARROTS,ORGANIC CARROTS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00718,ORGANIC CASHEWS,ORGANIC CASHEWS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00719,Organic Chicken,Organic Chicken,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00720,"ORGANIC COCONUT CREAM (ORGANIC COCONUT, WATER)","ORGANIC COCONUT CREAM (ORGANIC COCONUT, WATER)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00721,organic corn starch,organic corn starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00722,ORGANIC CREAM,ORGANIC CREAM,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00723,ORGANIC DISTILLED VINEGAR,ORGANIC DISTILLED VINEGAR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00724,Organic Evaporated Cane Sugar,Organic Evaporated Cane Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00725,organic extra virgin olive oil,organic extra virgin olive oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00726,Organic Extract of Rosemary,Organic Extract of Rosemary,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00727,Organic Garlic,Organic Garlic,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00728,organic garlic powder,organic garlic powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00729,ORGANIC GREEN ONIONS,ORGANIC GREEN ONIONS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00730,ORGANIC GUAR GUM,ORGANIC GUAR GUM,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00731,organic high oleic safflower and/or sunflower oil,organic high oleic safflower and/or sunflower oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00732,organic honey,organic honey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00733,organic lowfat _milk_,organic lowfat _milk_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00734,organic onion powder,organic onion powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00735,ORGANIC PASTEURIZED NONFAT MILK,ORGANIC PASTEURIZED NONFAT MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00736,ORGANIC PASTEURIZED WHOLE MILK,ORGANIC PASTEURIZED WHOLE MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00737,organic potato flour,organic potato flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00738,organic potatoes,organic potatoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00739,ORGANIC RED ONIONS,ORGANIC RED ONIONS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00740,Organic Red Peppers,Organic Red Peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00741,organic rice bran extract,organic rice bran extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00742,organic rice flour,organic rice flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00743,"ORGANIC RICE NOODLES (ORGANIC RICE, FILTERED WATER, ORGANIC TAPIOCA STARCH)","ORGANIC RICE NOODLES (ORGANIC RICE, FILTERED WATER, ORGANIC TAPIOCA STARCH)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00744,Organic Spices,Organic Spices,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00745,organic sweet rice flour,organic sweet rice flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00746,"ORGANIC TAMARI (WATER, ORGANIC SOYBEANS, SALT, ORGANIC ALCOHOL). ORGANIC BROWN RICE VINEGAR (WATER, ORGANIC BROWN RICE)","ORGANIC TAMARI (WATER, ORGANIC SOYBEANS, SALT, ORGANIC ALCOHOL). ORGANIC BROWN RICE VINEGAR (WATER, ORGANIC BROWN RICE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00747,ORGANIC TAPIOCA STARCH,ORGANIC TAPIOCA STARCH,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00748,"ORGANIC TOFU (FILTERED WATER, ORGANIC SOYBEANS, MAGNESIUM CHLORIDE)","ORGANIC TOFU (FILTERED WATER, ORGANIC SOYBEANS, MAGNESIUM CHLORIDE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00749,"Organic White Cheddar Cheese (Pasteurized Organic _Milk_, Cheese Cultures, Sea Salt, Vegetable Enzymes)","Organic White Cheddar Cheese (Pasteurized Organic _Milk_, Cheese Cultures, Sea Salt, Vegetable Enzymes)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00750,organic white pepper,organic white pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00751,organic yeast extract,organic yeast extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00752,organic yellow corn flour,organic yellow corn flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00753,organic yellow corn meal,organic yellow corn meal,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00754,Our recipe: cultured pasteurized whole milk,Our recipe: cultured pasteurized whole milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00755,Pakistan. 0600-00326 aapkirai@ebm.com.pk www.sbm.com.pk IN 8 19640,Pakistan. 0600-00326 aapkirai@ebm.com.pk www.sbm.com.pk IN 8 19640,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00756,palm kernel and palm oil,palm kernel and palm oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00757,Palm kernel fat,Palm kernel fat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00758,Palm Oil,Palm Oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00759,Palm Oil (non hydrogenated). Peanut,Palm Oil (non hydrogenated). Peanut,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00760,PALMITATE,PALMITATE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00761,PAPRIKA,PAPRIKA,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00762,paprika (color),paprika (color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00763,paprika extractives (color and spice),paprika extractives (color and spice),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00764,PAPRIKA OLEORESIN (COLOR),PAPRIKA OLEORESIN (COLOR),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00765,paracasei,paracasei,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00766,parmesan cheese,parmesan cheese,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00767,"Parmesan Cheese (Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)","Parmesan Cheese (Milk, Cheese Cultures, Salt, Calcium Chloride, Microbial Enzyme)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00768,"Parmesan Cheese (Pasteurized Cow's Milk, Cheese Cultures, Salt, Enzymes)","Parmesan Cheese (Pasteurized Cow's Milk, Cheese Cultures, Salt, Enzymes)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00769,"PARMESAN CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)","PARMESAN CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00770,PARSLEY,PARSLEY,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00771,"PART-SKIM MOZZARELLA CHEESE AND MODIFIED CORNSTARCH (PART-SKIM MOZZARELLA CHEESE (CULTURED MILK, SALT, ENZYMES], MODIFIED CORNSTARCH, NONFAT MILK, FLAVORS), SOY SAUCE (WATER, SOYBEANS, WHEAT, SALT), WHEAT FLOUR, DRIED ONIONS, SALT, SUGAR, PARMESAN CHEESE (CULTURED MILK, SALT, ENZYMES), SPICES, GARLIC POWDER. CONTAINS: WHEAT, MILK, SOY.","PART-SKIM MOZZARELLA CHEESE AND MODIFIED CORNSTARCH (PART-SKIM MOZZARELLA CHEESE (CULTURED MILK, SALT, ENZYMES], MODIFIED CORNSTARCH, NONFAT MILK, FLAVORS), SOY SAUCE (WATER, SOYBEANS, WHEAT, SALT), WHEAT FLOUR, DRIED ONIONS, SALT, SUGAR, PARMESAN CHEESE (CULTURED MILK, SALT, ENZYMES), SPICES, GARLIC POWDER. CONTAINS: WHEAT, MILK, SOY.",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00772,"Part-skim Ricotta Cheese (Whey, Milk, Cheese Cultures, Salt, Citric Acid [Acidifier])","Part-skim Ricotta Cheese (Whey, Milk, Cheese Cultures, Salt, Citric Acid [Acidifier])",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00773,"Pasta (Water, Durum Wheat Semolina, Egg White Powder)","Pasta (Water, Durum Wheat Semolina, Egg White Powder)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00774,pasteurised free range eggs,pasteurised free range eggs,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00775,pasteurized cow’s milk,pasteurized cow’s milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00776,pasteurized cream,pasteurized cream,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00777,PASTEURIZED EGG YOLKS,PASTEURIZED EGG YOLKS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00778,Pasteurized Grade A skim milk and cream,Pasteurized Grade A skim milk and cream,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00779,Pasteurized lowfat milk,Pasteurized lowfat milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00780,PASTEURIZED MILK,PASTEURIZED MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00781,PASTEURIZED ORGANIC COW MILK,PASTEURIZED ORGANIC COW MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00782,pasteurized part skim milk,pasteurized part skim milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00783,Pasteurized skim milk,Pasteurized skim milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00784,Pasteurized whole milk,Pasteurized whole milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00785,Pasteurtzed milk,Pasteurtzed milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00786,peach juice concentrate,peach juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00787,peaches,peaches,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00788,peaches (puree and fruit),peaches (puree and fruit),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00789,Peanut,Peanut,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00790,peanut butter,peanut butter,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00791,Peanut Grits,Peanut Grits,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00792,Peanut oil,Peanut oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00793,peas,peas,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00794,"Pecorino Romano Cheese (Sheep's Milk, Salt, Rennet)","Pecorino Romano Cheese (Sheep's Milk, Salt, Rennet)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00795,pectin,pectin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00796,pectin.,pectin.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00797,pepper,pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00798,pepperoni,pepperoni,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00799,per serving,per serving,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00800,"Permitted Flavour Enhancers (Disodium Inosinate and Guanylate, Yeast Extract)","Permitted Flavour Enhancers (Disodium Inosinate and Guanylate, Yeast Extract)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00801,Permitted Food Color (Beta Carotene) and Antioxidant (Tertiary Butyl Hydroquinone) Taste Maker: Salt,Permitted Food Color (Beta Carotene) and Antioxidant (Tertiary Butyl Hydroquinone) Taste Maker: Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00802,Permitted Food Color (E129[Allura Red AC/Red 40]),Permitted Food Color (E129[Allura Red AC/Red 40]),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00803,Permitted Food Color (INS 160aiii),Permitted Food Color (INS 160aiii),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00804,Permitted food colour (E160b)] Contains milk,Permitted food colour (E160b)] Contains milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00805,Permitted food colour (E160c),Permitted food colour (E160c),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00806,Permitted Food Colour (E171),Permitted Food Colour (E171),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00807,Permitted Food Colours (FD&C Yellow 5 (E-102) & Ponceau 4R (E-124)],Permitted Food Colours (FD&C Yellow 5 (E-102) & Ponceau 4R (E-124)],[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00808,"PERMITTED FOOD COLOURS (TITANIUM DIOXIDE, TARTRAZINE, SUNSET YELLOW)","PERMITTED FOOD COLOURS (TITANIUM DIOXIDE, TARTRAZINE, SUNSET YELLOW)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00809,Phase III,Phase III,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00810,Phosphoric Acid (E-338),Phosphoric Acid (E-338),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00811,"pickled jalapeño peppers (jalapeño peppers, water, alcohol vinegar, salt, calcium chloride, turmeric oleoresin [color])","pickled jalapeño peppers (jalapeño peppers, water, alcohol vinegar, salt, calcium chloride, turmeric oleoresin [color])",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00812,Pink And/or Keta Salmon,Pink And/or Keta Salmon,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00813,Pink Salmon (Oncorhynchus gorbuscha),Pink Salmon (Oncorhynchus gorbuscha),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00814,Plot No. 55,Plot No. 55,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00815,polydextrose,polydextrose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00816,Polydextrose (E1200),Polydextrose (E1200),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00817,polysorbate 65,polysorbate 65,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00818,polysorbate 80,polysorbate 80,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00819,Pork,Pork,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00820,Potassium chloride,Potassium chloride,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00821,potassium salt,potassium salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00822,POTASSIUM SORBATE,POTASSIUM SORBATE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00823,potassium sorbate (to maintain freshness),potassium sorbate (to maintain freshness),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00824,potassium sorbate (used to protect quality),potassium sorbate (used to protect quality),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00825,POTATO DEXTRIN,POTATO DEXTRIN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00826,Potato Extract,Potato Extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00827,potato flakes,potato flakes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00828,"potato flakes (potatoes, mono and diglycerides, sodium acid pyrophosphate, citric acid)","potato flakes (potatoes, mono and diglycerides, sodium acid pyrophosphate, citric acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00829,POTATO STARCH,POTATO STARCH,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00830,Potatoes,Potatoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00831,Potatoes Palm oil,Potatoes Palm oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00832,Preservative (E-211),Preservative (E-211),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00833,Preservative (Sodium Benzoate E-211).,Preservative (Sodium Benzoate E-211).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00834,Preservative (Sodium Benzoate E211),Preservative (Sodium Benzoate E211),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00835,Preservative (Sodium Benzoate). May contain sulphites.,Preservative (Sodium Benzoate). May contain sulphites.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00836,"Preservatives (E202[Potassium Sorbate], E211[Sodium Benzoate])","Preservatives (E202[Potassium Sorbate], E211[Sodium Benzoate])",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00837,"Preservatives (Potassium Sorbate, Sodium Metabisulphite)","Preservatives (Potassium Sorbate, Sodium Metabisulphite)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00838,Preservatives (Sodium Benzoate),Preservatives (Sodium Benzoate),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00839,"Preservatives (Sodium Benzoate, Sodium Metabisulphite) Antioxidant (Calcium Disodium EDTA). ALLERGY WARNING: Contains: Sulphites Manufactured at a facility which also processes Egg","Preservatives (Sodium Benzoate, Sodium Metabisulphite) Antioxidant (Calcium Disodium EDTA). ALLERGY WARNING: Contains: Sulphites Manufactured at a facility which also processes Egg",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00840,Process flavouring,Process flavouring,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00841,"Processed butter (Butter, Coconut oil)","Processed butter (Butter, Coconut oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00842,protein,protein,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00843,Pure Maple Syrup,Pure Maple Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00844,Purified water,Purified water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00845,"Ra sing Agent Sodium Bicarbonate (Salt, Spice (Cinnamon), Artificial Flavour: Carame gen Warning: ins: Wheat (Gluten) and Egg. May contains of Milk and Soya, يض، عامل رافعة بيكر the freshness and crispness of biscuits. 50","Ra sing Agent Sodium Bicarbonate (Salt, Spice (Cinnamon), Artificial Flavour: Carame gen Warning: ins: Wheat (Gluten) and Egg. May contains of Milk and Soya, يض، عامل رافعة بيكر the freshness and crispness of biscuits. 50",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00846,raisin juice concentrate,raisin juice concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00847,Raising Agent (Sodium Bicarbonate),Raising Agent (Sodium Bicarbonate),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00848,Raising Agents (Ammonium Bicarbonate E503),Raising Agents (Ammonium Bicarbonate E503),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00849,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500)","Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00850,"Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500). Artificial Flavours (MiIk, Butter & Vanilla). May Contain traces of Egg. Peanut","Raising Agents (Ammonium Bicarbonate E503, Sodium Bicarbonate E500). Artificial Flavours (MiIk, Butter & Vanilla). May Contain traces of Egg. Peanut",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00851,Raising Agents: E500,Raising Agents: E500,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00852,Raising Agents: Sodium Bicarbonate (E500),Raising Agents: Sodium Bicarbonate (E500),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00853,Raisins,Raisins,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00854,raspberries,raspberries,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00855,raspberry puree,raspberry puree,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00856,raspberry: water,raspberry: water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00857,red beet juice (for color),red beet juice (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00858,RED BELL PEPPER,RED BELL PEPPER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00859,red bell peppers,red bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00860,Red Chilli,Red Chilli,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00861,Red chilli jhatka flavour [Sugar,Red chilli jhatka flavour [Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00862,Red Chilli Powder,Red Chilli Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00863,RED ONU ASPER RACE CRUSHED RED PEPPER,RED ONU ASPER RACE CRUSHED RED PEPPER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00864,red peppers,red peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00865,red raspberry puree,red raspberry puree,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00866,riboflavin (vitamin B2),riboflavin (vitamin B2),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00867,Rice Flour,Rice Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00868,RICE FLOUR CONTAINS: MILK,RICE FLOUR CONTAINS: MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00869,"rice pasta (organic rice flour, filtered water, organic potato starch, rice starch, organic _soy_ flour)","rice pasta (organic rice flour, filtered water, organic potato starch, rice starch, organic _soy_ flour)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00870,rice starch,rice starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00871,roasted corn,roasted corn,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00872,roasted garlic,roasted garlic,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00873,roasted green bell peppers,roasted green bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00874,roasted mushrooms,roasted mushrooms,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00875,roasted onions,roasted onions,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00876,roasted red bell peppers,roasted red bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00877,Roasted Sesame,Roasted Sesame,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00878,roasted yellow bell peppers,roasted yellow bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00879,roasted zucchini,roasted zucchini,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00880,romano cheese,romano cheese,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00881,"ROMANO CHEESE FROM COW'S MILK (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES)","ROMANO CHEESE FROM COW'S MILK (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00882,"Romano Cheese Made From Cow's Milk (Milk, Salt, Cheese Cultures, Microbial Enzyme, Calcium Chloride)","Romano Cheese Made From Cow's Milk (Milk, Salt, Cheese Cultures, Microbial Enzyme, Calcium Chloride)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00883,ROSAY UTAT DIST,ROSAY UTAT DIST,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00884,Rosemary Extract,Rosemary Extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00885,s thermophilus,s thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00886,S. THERMOPHILUS,S. THERMOPHILUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00887,S. Thermophilus And L. Bulgaricus.,S. Thermophilus And L. Bulgaricus.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00888,s.thermophilus,s.thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00889,Salt,Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00890,Salt 508) Spices Acidity regulators E30,Salt 508) Spices Acidity regulators E30,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00891,Salt and Soya Lecithin Allergens: Contains Milk Proteins & Sova Prote,Salt and Soya Lecithin Allergens: Contains Milk Proteins & Sova Prote,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00892,Salt Mixed Spices,Salt Mixed Spices,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00893,"Sauce (Sugar, Distilled White Vinegar, Water, Soy Sauce [Water, Soybean, Salt, Wheat Flour, Sugar, Mushroom Extract], Modified Food Starch, Garlic, Green Onion, Ginger, Red Chili Pepper, Orange Peel, Mandarin Orange Peel)","Sauce (Sugar, Distilled White Vinegar, Water, Soy Sauce [Water, Soybean, Salt, Wheat Flour, Sugar, Mushroom Extract], Modified Food Starch, Garlic, Green Onion, Ginger, Red Chili Pepper, Orange Peel, Mandarin Orange Peel)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00894,"scrambled eggs (whole eggs, water, citric acid)","scrambled eggs (whole eggs, water, citric acid)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00895,sea salt,sea salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00896,Sea Salt. CONTAINS: FISH (TUNA). Packed in Thailand.,Sea Salt. CONTAINS: FISH (TUNA). Packed in Thailand.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00897,"seasoned cooked chicken (chicken breast, water, sugar, sea salt, olive oil, isolated soy protein, soy fiber, rice starch, natural flavoring)","seasoned cooked chicken (chicken breast, water, sugar, sea salt, olive oil, isolated soy protein, soy fiber, rice starch, natural flavoring)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00898,see the ingredients in bold text. May contain traces of Tree Nuts & Sulfite The Trademark Pied Piper (Device) is owned by English Biscuit Manufacturers kistan. Used under license and permission and manufactured by Coronet Foods Pvt) Ltd.,see the ingredients in bold text. May contain traces of Tree Nuts & Sulfite The Trademark Pied Piper (Device) is owned by English Biscuit Manufacturers kistan. Used under license and permission and manufactured by Coronet Foods Pvt) Ltd.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00899,sesame oil,sesame oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00900,"sesame sauce (water, soy sauce [water, wheat, soybeans, salt, alcohol, vinegar, lactic acid], sugar, rice vinegar, sake wine [contains salt], corn starch, garlic puree, sesame oil, ginger puree, locust bean gum)","sesame sauce (water, soy sauce [water, wheat, soybeans, salt, alcohol, vinegar, lactic acid], sugar, rice vinegar, sake wine [contains salt], corn starch, garlic puree, sesame oil, ginger puree, locust bean gum)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00901,shake the bottle before use.,shake the bottle before use.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00902,"Shortening (Palm oil, Tocopherol)","Shortening (Palm oil, Tocopherol)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00903,skim mil,skim mil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00904,Skim milk,Skim milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00905,Skim Milk Powder,Skim Milk Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00906,skim milk powder (1%),skim milk powder (1%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00907,Skimmed Milk (Skimmed Milk Powders),Skimmed Milk (Skimmed Milk Powders),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00908,Skimmed Milk Powder,Skimmed Milk Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00909,Skimmed Milk/Skimmed Milk Powders,Skimmed Milk/Skimmed Milk Powders,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00910,skinless chicken breast chunks with rib meat,skinless chicken breast chunks with rib meat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00911,skinless chicken breast strips with rib meat,skinless chicken breast strips with rib meat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00912,"Skyr (pasteurized low-fat milk, live and active cultures)","Skyr (pasteurized low-fat milk, live and active cultures)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00913,so fyclusively by: exc,so fyclusively by: exc,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00914,sodium acid pyrophosphate,sodium acid pyrophosphate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00915,SODIUM ACID PYROPHOSPHATE (TO RETAIN NATURAL COLOR).,SODIUM ACID PYROPHOSPHATE (TO RETAIN NATURAL COLOR).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00916,Sodium Benzoate,Sodium Benzoate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00917,Sodium Benzoate (E-221),Sodium Benzoate (E-221),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00918,Sodium Benzoate(E-211),Sodium Benzoate(E-211),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00919,sodium bicarbonate,sodium bicarbonate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00920,Sodium Chloride,Sodium Chloride,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00921,sodium citrate,sodium citrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00922,Sodium Citrate (E-331),Sodium Citrate (E-331),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00923,SODIUM METABISULFITE,SODIUM METABISULFITE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00924,sodium nitrite,sodium nitrite,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00925,sodium sulfate,sodium sulfate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00926,SOLD EXCLUSIVELY BY: TRADER JOE'S,SOLD EXCLUSIVELY BY: TRADER JOE'S,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00927,Soluble Coffee,Soluble Coffee,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00928,sorbitol,sorbitol,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00929,sorbitol**,sorbitol**,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00930,Soy,Soy,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00931,Soy and Tres Muts.,Soy and Tres Muts.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00932,soy flour,soy flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00933,soy lecithin,soy lecithin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00934,SOY LECITHIN.,SOY LECITHIN.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00935,soy protein concentrate,soy protein concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00936,soy protein isolate,soy protein isolate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00937,soy protein isolate.Contains 2% or less of maltodextrin,soy protein isolate.Contains 2% or less of maltodextrin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00938,Soy Sauce,Soy Sauce,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00939,"soy sauce (fermented soybeans, salt)","soy sauce (fermented soybeans, salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00940,"soy sauce (soybeans,wheat, salt, alcohol, water)","soy sauce (soybeans,wheat, salt, alcohol, water)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00941,"soy sauce (water, soybeans, salt, wheat).","soy sauce (water, soybeans, salt, wheat).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00942,"Soy Sauce (Water, Soybeans, Wheat, Salt)","Soy Sauce (Water, Soybeans, Wheat, Salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00943,"soy sauce powder (soybeans, wheat, salt)","soy sauce powder (soybeans, wheat, salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00944,soy sauce water,soy sauce water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00945,Soya,Soya,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00946,SOYBEAN LECITHIN,SOYBEAN LECITHIN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00947,soybean oil,soybean oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00948,Soybean Oil.,Soybean Oil.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00949,soybeans,soybeans,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00950,spice,spice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00951,spice extractives (including black pepper). breading set in sunflower oil and/or safflower oil.,spice extractives (including black pepper). breading set in sunflower oil and/or safflower oil.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00952,spice extracts,spice extracts,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00953,Spices,Spices,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00954,"spices (black pepper, celery seed)","spices (black pepper, celery seed)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00955,SPIRULINA EXTRACT (FOR COLOR) AND FRUIT JUICE (FOR COLOR),SPIRULINA EXTRACT (FOR COLOR) AND FRUIT JUICE (FOR COLOR),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00956,"Stabiliser (Guar Gum E-412, Sodium Carboxy Methyl Cellulose E-466)","Stabiliser (Guar Gum E-412, Sodium Carboxy Methyl Cellulose E-466)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00957,Stabiliser (INS 466),Stabiliser (INS 466),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00958,Stabiliser (Sucrose Acetate Isobutyrate),Stabiliser (Sucrose Acetate Isobutyrate),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00959,"STABILISERS (LOCUST BEAN GUM, GUAR GUM)","STABILISERS (LOCUST BEAN GUM, GUAR GUM)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00960,stabilisers (sodium alginate and guar gum),stabilisers (sodium alginate and guar gum),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00961,Stabilizer (E-412),Stabilizer (E-412),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00962,stabilizer (E445),stabilizer (E445),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00963,Stabilizer (Xanthan Gum & Carboxymethyl Cellulose),Stabilizer (Xanthan Gum & Carboxymethyl Cellulose),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00964,"STABILIZER BLEND (CAROB BEAN GUM, GUAR GUM, CANE SUGAR).","STABILIZER BLEND (CAROB BEAN GUM, GUAR GUM, CANE SUGAR).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00965,Stabilizers,Stabilizers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00966,stabilizers (Cellulose Gum E466 & Xanthan Gum E415),stabilizers (Cellulose Gum E466 & Xanthan Gum E415),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00967,"Stabilizers (INS 471, 339ii, 452, 407)","Stabilizers (INS 471, 339ii, 452, 407)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00968,Stabilizers (Sodium and Potassium Phosphates),Stabilizers (Sodium and Potassium Phosphates),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00969,"Stabilizers (Xanthan Gum, Carboxymethyl Cellulose)","Stabilizers (Xanthan Gum, Carboxymethyl Cellulose)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00970,"Stabilizers(INS407, INS339 & INS451)","Stabilizers(INS407, INS339 & INS451)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00971,stevia extract,stevia extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00972,stevia leaf extract,stevia leaf extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00973,stevia leaf extract (reb m),stevia leaf extract (reb m),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00974,STEVIA LEAF Part of the REB M. POTASSIUM SORBATE (TO MAINTAIN FRESHNESS),STEVIA LEAF Part of the REB M. POTASSIUM SORBATE (TO MAINTAIN FRESHNESS),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00975,STEVIA LEAF REB M,STEVIA LEAF REB M,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00976,strawberries,strawberries,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00977,strawberries chicory root fiber,strawberries chicory root fiber,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00978,"STRAWBERRY FRUIT BASE (CANE SUGAR STRAWBERES FED CORNSTARCH NATURAL FLAVORS, CITRIC ACID, VEGETABLE JUICE (COLOR), LIVE AND ACTIVE CTURES IS THERMOPHILUS L BULGARICUS, LACIDOPHILUS, BIFIDUS, L CASE) CONTAINS MILK","STRAWBERRY FRUIT BASE (CANE SUGAR STRAWBERES FED CORNSTARCH NATURAL FLAVORS, CITRIC ACID, VEGETABLE JUICE (COLOR), LIVE AND ACTIVE CTURES IS THERMOPHILUS L BULGARICUS, LACIDOPHILUS, BIFIDUS, L CASE) CONTAINS MILK",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00979,strawberry: water,strawberry: water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00980,sucralose,sucralose,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00981,Sugar,Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00982,"sugar (cane sugar, liquid glucose, maltodextrin, invert sugar)","sugar (cane sugar, liquid glucose, maltodextrin, invert sugar)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00983,Sugar. Allergens Warning: Wheat,Sugar. Allergens Warning: Wheat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00984,"SUGARED EGG YOLKS (EGG YOLKS, SUGAR)","SUGARED EGG YOLKS (EGG YOLKS, SUGAR)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00985,Sulphite,Sulphite,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00986,sunflower lecithin,sunflower lecithin,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00987,SWATER,SWATER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00988,Sweet chill flavour Sugar,Sweet chill flavour Sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00989,SWEET POTATO,SWEET POTATO,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00990,Sweet whey powder,Sweet whey powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00991,"Sweeteners (Sucralose, Acesulfame K)","Sweeteners (Sucralose, Acesulfame K)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00992,SYNTHETIC FLAVO( STRAWBERRY) SYNTHETIC COLOR(E129),SYNTHETIC FLAVO( STRAWBERRY) SYNTHETIC COLOR(E129),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00993,Synthetic Guava Flavour,Synthetic Guava Flavour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00994,"SYRUP BLEND (RICE SYRUP, GRAPE JUICE)","SYRUP BLEND (RICE SYRUP, GRAPE JUICE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00995,TAMARIND EXTRACT,TAMARIND EXTRACT,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00996,"tangerine juice from concentrate (water, tangerine juice concentrate)","tangerine juice from concentrate (water, tangerine juice concentrate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00997,tangerine oil,tangerine oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00998,tangerine: water,tangerine: water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING00999,TAPIOCA FLOUR,TAPIOCA FLOUR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01000,Tapioca Starch,Tapioca Starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01001,TARA GUM,TARA GUM,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01002,tartaric acid (68.14 mg),tartaric acid (68.14 mg),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01003,Tartaric Acid (E334),Tartaric Acid (E334),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01004,Taurine,Taurine,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01005,thermophilus,thermophilus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01006,"Thickener (Carboxy Methyl Cellulose, Gum Arabic)","Thickener (Carboxy Methyl Cellulose, Gum Arabic)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01007,"THICKENERS (XANTHAN GUM, SODIUM CARBOXYMETHYL CELLULOSE)","THICKENERS (XANTHAN GUM, SODIUM CARBOXYMETHYL CELLULOSE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01008,TINH BỘT,TINH BỘT,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01009,Titanium Dioxide(E-171)and glazing Agents(Bees Wax E-901 And Camauba E-903),Titanium Dioxide(E-171)and glazing Agents(Bees Wax E-901 And Camauba E-903),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01010,Toasted Sesame Oil,Toasted Sesame Oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01011,tomato concentrate,tomato concentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01012,tomato juice,tomato juice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01013,Tomato Paste,Tomato Paste,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01014,Tomato Paste (>8% Tomato Solid),Tomato Paste (>8% Tomato Solid),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01015,Tomato Paste (>8% tomato solids),Tomato Paste (>8% tomato solids),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01016,tomato paste (tomatoes).,tomato paste (tomatoes).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01017,tomato powder,tomato powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01018,Tomato pulp,Tomato pulp,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01019,"TOMATO PUREE (WATER, TOMATO PASTE)","TOMATO PUREE (WATER, TOMATO PASTE)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01020,tomatoes,tomatoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01021,"TOMATOES (WHOLE PEELED TOMATOES, TOMATO JUICE, SALT)","TOMATOES (WHOLE PEELED TOMATOES, TOMATO JUICE, SALT)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01022,torula yeast,torula yeast,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01023,Tree Nuts & Sulphite,Tree Nuts & Sulphite,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01024,tricalcium phosphate,tricalcium phosphate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01025,tumatoes,tumatoes,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01026,Turkey,Turkey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01027,TURMERIC,TURMERIC,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01028,turmeric oleoresin color,turmeric oleoresin color,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01029,UNBLEACHED WHEAT FLOUR,UNBLEACHED WHEAT FLOUR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01030,vanilla,vanilla,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01031,vanilla bean,vanilla bean,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01032,vanilla bean flavoring [sugar,vanilla bean flavoring [sugar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01033,vanilla bean seeds,vanilla bean seeds,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01034,VANILLA BEAN SPECKS,VANILLA BEAN SPECKS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01035,vanilla extract,vanilla extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01036,vanilla extract.,vanilla extract.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01037,vanilla seeds,vanilla seeds,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01038,VANILLIN,VANILLIN,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01039,Vanillin Powder,Vanillin Powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01040,"VEGETABLE BLEND (SPINACH, TOMATOES, ONIONS, RED BELL PEPPERS)","VEGETABLE BLEND (SPINACH, TOMATOES, ONIONS, RED BELL PEPPERS)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01041,Vegetable Fat,Vegetable Fat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01042,"Vegetable Fat (Palm Oil, Soyabean Oil & Cottonseed Oil)","Vegetable Fat (Palm Oil, Soyabean Oil & Cottonseed Oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01043,vegetable fat (palm),vegetable fat (palm),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01044,"vegetable fats (palm fruit,shea nut)","vegetable fats (palm fruit,shea nut)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01045,"vegetable gums (carob bean, guar, carrageenan)","vegetable gums (carob bean, guar, carrageenan)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01046,"vegetable gums (guar, carrageenan, carob bean)","vegetable gums (guar, carrageenan, carob bean)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01047,vegetable juice (for color),vegetable juice (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01048,vegetable juice concentrate (for color),vegetable juice concentrate (for color),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01049,Vegetable Oil,Vegetable Oil,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01050,"vegetable oil (corn, canola and/or sunflower oil)","vegetable oil (corn, canola and/or sunflower oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01051,"vegetable oil (corn, canola and/or sunflower)","vegetable oil (corn, canola and/or sunflower)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01052,"Vegetable Oil (Hydrogenated Palm Kernel Oil, Hydrogenated and Non-Hydrogenated Palm Oil)","Vegetable Oil (Hydrogenated Palm Kernel Oil, Hydrogenated and Non-Hydrogenated Palm Oil)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01053,"Vegetable oil (Palm oil, Sunflower oil, Soy lecithin, Vitamin E)","Vegetable oil (Palm oil, Sunflower oil, Soy lecithin, Vitamin E)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01054,Vegetable Oil (soybean And/or Canola),Vegetable Oil (soybean And/or Canola),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01055,vegetable oil (soybean or canola),vegetable oil (soybean or canola),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01056,"vegetable oil (sunflower, cottonseed, soybean and/or canola)","vegetable oil (sunflower, cottonseed, soybean and/or canola)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01057,"vegetable oil (sunflower, cottonseed, soybean, and/or canola)","vegetable oil (sunflower, cottonseed, soybean, and/or canola)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01058,VEGETABLE OIL BLEND (SOYBEAN AND COTTONSEED),VEGETABLE OIL BLEND (SOYBEAN AND COTTONSEED),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01059,"vegetable oils (palm, palm kernel)","vegetable oils (palm, palm kernel)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01060,"vegetable powder (onion, cabbage, carrot, spring onion, maltodextrin [corn], salt)","vegetable powder (onion, cabbage, carrot, spring onion, maltodextrin [corn], salt)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01061,"vegetables (carrots, edamame)","vegetables (carrots, edamame)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01062,VIES POWER,VIES POWER,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01063,Vinegar,Vinegar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01064,vinegar.,vinegar.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01065,VITAMIN A,VITAMIN A,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01066,Vitamin A & D,Vitamin A & D,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01067,vitamin a palmitate,vitamin a palmitate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01068,vitamin B12,vitamin B12,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01069,vitamin B6,vitamin B6,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01070,Vitamin C,Vitamin C,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01071,vitamin D3,vitamin D3,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01072,Vitamin D3. CONTAINS MILK,Vitamin D3. CONTAINS MILK,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01073,VITAMIN D3. YOGURT CULTURES: S. THERMOPHILUS AND L. BULGARICUS,VITAMIN D3. YOGURT CULTURES: S. THERMOPHILUS AND L. BULGARICUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01074,Vitamin E,Vitamin E,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01075,"VITAMINS (VITAMIN C, VITAMIN D)","VITAMINS (VITAMIN C, VITAMIN D)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01076,vitamins a,vitamins a,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01077,Water,Water,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01078,WATER ANALYSIS Mineral contents Sodium Caicium Magnesium Suiphate Bicarbonates Chioride Fluoride TDS pH,WATER ANALYSIS Mineral contents Sodium Caicium Magnesium Suiphate Bicarbonates Chioride Fluoride TDS pH,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01079,"WATER BREAD CRUMBS (ENRICHED BLEACHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SALT, LEAVENING (SODIUM BICARBONATE, SODIUM ACID PYROPHOSPHATE, MONOCALCIUM PHOSPHATE) VEGETABLE OIL (CANOLA &/OR SUNFLOWER), DEXTROSE, YEAST, SPICE EXTRACTIVES)","WATER BREAD CRUMBS (ENRICHED BLEACHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SALT, LEAVENING (SODIUM BICARBONATE, SODIUM ACID PYROPHOSPHATE, MONOCALCIUM PHOSPHATE) VEGETABLE OIL (CANOLA &/OR SUNFLOWER), DEXTROSE, YEAST, SPICE EXTRACTIVES)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01080,water chestnuts,water chestnuts,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01081,water. contains less than 2% of salt,water. contains less than 2% of salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01082,Wates,Wates,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01083,wheat,wheat,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01084,WHEAT & PEANUTS,WHEAT & PEANUTS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01085,WHEAT AND SOY,WHEAT AND SOY,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01086,Wheat Bran,Wheat Bran,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01087,Wheat Flour,Wheat Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01088,Wheat flour (wheat),Wheat flour (wheat),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01089,wheat gluten,wheat gluten,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01090,wheat starch,wheat starch,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01091,wheat).,wheat).,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01092,WHEAT.,WHEAT.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01093,whey,whey,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01094,whey ar,whey ar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01095,Whey Permeate (From Milk),Whey Permeate (From Milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01096,whey powder,whey powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01097,Whey Powder (Milk),Whey Powder (Milk),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01098,Whey Powder (Milk) invert Syrup,Whey Powder (Milk) invert Syrup,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01099,WHEY PROTEIN CONCENTRATE,WHEY PROTEIN CONCENTRATE,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01100,WHEY PROTEIN CONCENTRATE NATURAL FLAVORS,WHEY PROTEIN CONCENTRATE NATURAL FLAVORS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01101,whey protein Goncentrate,whey protein Goncentrate,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01102,which are active ingredients released by the extracts and kept purposely as they are ul. Therefore,which are active ingredients released by the extracts and kept purposely as they are ul. Therefore,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01103,whipping cream (21%),whipping cream (21%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01104,"white cheddar cheese (pasteurized milk, culture, salt, enzymes)","white cheddar cheese (pasteurized milk, culture, salt, enzymes)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01105,White Flour,White Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01106,"white grape juice from concentrate (water, white grape juice concentrate)","white grape juice from concentrate (water, white grape juice concentrate)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01107,White Pepper,White Pepper,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01108,white radish,white radish,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01109,White Salt,White Salt,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01110,WHITE SUGAR,WHITE SUGAR,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01111,white vinegar,white vinegar,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01112,Whole _milk_ powder,Whole _milk_ powder,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01113,Whole egg liquid,Whole egg liquid,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01114,WHOLE EGGS,WHOLE EGGS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01115,whole grain oats,whole grain oats,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01116,whole kernel corn,whole kernel corn,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01117,whole milk,whole milk,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01118,whole milk (60%),whole milk (60%),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01119,"Whole Milk Skyr (Pasteurized Milk, Live & Active Cultures)","Whole Milk Skyr (Pasteurized Milk, Live & Active Cultures)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01120,Whole Wheat Flour,Whole Wheat Flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01121,WILD BLUEBERRIES,WILD BLUEBERRIES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01122,WILD KETA _SALMON_,WILD KETA _SALMON_,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01123,wt teate eng,wt teate eng,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01124,Xanthan Gum,Xanthan Gum,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01125,xanthan gum.,xanthan gum.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01126,Yeast,Yeast,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01127,yeast extract,yeast extract,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01128,yeast. contains less than 2% of spice,yeast. contains less than 2% of spice,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01129,yellow bell peppers,yellow bell peppers,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01130,yellow corn flour,yellow corn flour,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01131,Yellowfin Tuna (Thunnus albacares),Yellowfin Tuna (Thunnus albacares),[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01132,"Yogurt & Herb flavor (Whey powder, Sugar, Garlic powder, Salt (E508), Natural and nature-identical flavorings, Onion powder, Herbs (Parsley, Mint, Dill), Yeast powder, Palm oil, Acidity regulators (E296, E330), Lactic acid (E551), Flavor enhancer (E633-from plant source))","Yogurt & Herb flavor (Whey powder, Sugar, Garlic powder, Salt (E508), Natural and nature-identical flavorings, Onion powder, Herbs (Parsley, Mint, Dill), Yeast powder, Palm oil, Acidity regulators (E296, E330), Lactic acid (E551), Flavor enhancer (E633-from plant source))",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01133,"YOGURT (CULTURED PASTEURIZED NONFAT MILK, CREAM)","YOGURT (CULTURED PASTEURIZED NONFAT MILK, CREAM)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01134,yogurt cultures,yogurt cultures,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01135,"YOGURT CULTURES (S. THERMOPHILUS, L BULGARICUS).","YOGURT CULTURES (S. THERMOPHILUS, L BULGARICUS).",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01136,"yogurt cultures (S. thermophilus, L. bulgaricus)","yogurt cultures (S. thermophilus, L. bulgaricus)",[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01137,YOGURT CULTURES Danone Family CUM FOR THERMOPHILUS&L BULGARICUS MIND& S. GBONES,YOGURT CULTURES Danone Family CUM FOR THERMOPHILUS&L BULGARICUS MIND& S. GBONES,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01138,YOGURT CULTURES S. THERMOPHILUS,YOGURT CULTURES S. THERMOPHILUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01139,YOGURT CULTURES S. THERMOPHILUS&L BULGARICUS,YOGURT CULTURES S. THERMOPHILUS&L BULGARICUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01140,YOGURT CULTURES S. THERMOPHILUS&L. BULGARICUS,YOGURT CULTURES S. THERMOPHILUS&L. BULGARICUS,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01141,yogurt cultures: l. bulgaricus,yogurt cultures: l. bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01142,yogurt cultures: S. Thermophilus & L. Bulgaricus.,yogurt cultures: S. Thermophilus & L. Bulgaricus.,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01143,yogurt cultures: S. thermophilus and L. bulgaricus,yogurt cultures: S. thermophilus and L. bulgaricus,[],,[],[],[],,Open Food Facts product dataset,pending_verification
+ING01144,ZINC OXIDE,ZINC OXIDE,[],,[],[],[],,Open Food Facts product dataset,pending_verification

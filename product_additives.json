@@ -1,0 +1,902 @@
+[
+    {
+        "barcode":"0011115340042",
+        "additive_tag":"en:e202",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0011115340042",
+        "additive_tag":"en:e270",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0011115340042",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0011115340042",
+        "additive_tag":"en:e322i",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0011115340042",
+        "additive_tag":"en:e471",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0017077103329",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e150c",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e322i",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e407",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e415",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e435",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e461",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e627",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "additive_tag":"en:e631",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0028029088816",
+        "additive_tag":"en:e160b",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0028029088816",
+        "additive_tag":"en:e392",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0036632042576",
+        "additive_tag":"en:e202",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0036632042637",
+        "additive_tag":"en:e202",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0042272008117",
+        "additive_tag":"en:e160b",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e127",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e129",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e133",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e150c",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e407",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "additive_tag":"en:e466",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e102",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e110",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e129",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e407",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "additive_tag":"en:e466",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0078742369266",
+        "additive_tag":"en:e150c",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0078742369266",
+        "additive_tag":"en:e202",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0078742369266",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0078742369266",
+        "additive_tag":"en:e331",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0078742369266",
+        "additive_tag":"en:e428",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0186852000389",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0186852000389",
+        "additive_tag":"en:e322i",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0186852000389",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0186852000389",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0620514006130",
+        "additive_tag":"en:e211",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0620514006130",
+        "additive_tag":"en:e415",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0620514006130",
+        "additive_tag":"en:e466",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0704863227306",
+        "additive_tag":"en:e414",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290012395",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290012395",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290012395",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015150",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015150",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015150",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015150",
+        "additive_tag":"en:e960",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015198",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015198",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015198",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "additive_tag":"en:e322i",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006044",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006044",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006297",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006297",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "additive_tag":"en:e150",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "additive_tag":"en:e500",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "additive_tag":"en:e500ii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e102",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e110",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e122",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e129",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e133",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e171",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e270",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e414",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e901",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "additive_tag":"en:e903",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010021",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010021",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010045",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010045",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010069",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010069",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010069",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010120",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010120",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010120",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010144",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010144",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010144",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010168",
+        "additive_tag":"en:e410",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010168",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010168",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001060",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001848",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"4099100150872",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"4099100150872",
+        "additive_tag":"en:e440",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "additive_tag":"en:e401",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "additive_tag":"en:e412",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "additive_tag":"en:e422",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "additive_tag":"en:e471",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e102",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e110",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e171",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e331",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e331iii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e341",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e341iii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e415",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"7622201718664",
+        "additive_tag":"en:e466",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961014021585",
+        "additive_tag":"en:e211",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961014021585",
+        "additive_tag":"en:e260",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961014021585",
+        "additive_tag":"en:e415",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e171",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e331",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e341",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e341iii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e414",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961100280001",
+        "additive_tag":"en:e466",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e129",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e202",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e211",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e331",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e385",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "additive_tag":"en:e452",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "additive_tag":"en:e160c",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "additive_tag":"en:e551",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "additive_tag":"en:e627",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "additive_tag":"en:e631",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e270",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e296",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e508",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e551",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "additive_tag":"en:e633",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346549",
+        "additive_tag":"en:e339ii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346549",
+        "additive_tag":"en:e407",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346549",
+        "additive_tag":"en:e452",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346549",
+        "additive_tag":"en:e471",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e102",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e124",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e262",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e500",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e500ii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "additive_tag":"en:e551",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964001179023",
+        "additive_tag":"en:e150a",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964001179023",
+        "additive_tag":"en:e150d",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964001179023",
+        "additive_tag":"en:e338",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964001179023",
+        "additive_tag":"en:e445",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e160c",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e341",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e341iii",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e414",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e551",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "additive_tag":"en:e627",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002429158",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002429165",
+        "additive_tag":"en:e330",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "additive_tag":"en:e102",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "additive_tag":"en:e1400",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "additive_tag":"en:e503",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "additive_tag":"en:e1400",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "additive_tag":"en:e170",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "additive_tag":"en:e500",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "additive_tag":"en:e503",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e150",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e1520",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e223",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e322",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e500",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "additive_tag":"en:e503",
+        "source":"Open Food Facts API"
+    }
+]

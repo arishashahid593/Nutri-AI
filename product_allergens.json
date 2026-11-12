@@ -1,0 +1,422 @@
+[
+    {
+        "barcode":"0011115340042",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0011115340042",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0017077103329",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "allergen_tag":"en:celery",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0021131506919",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0023700014528",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0023700014528",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0028029088816",
+        "allergen_tag":"en:fish",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0028029088816",
+        "allergen_tag":"en:mustard",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0028029088816",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0036632042576",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0036632042590",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0036632042637",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0042272008117",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0042272008117",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0043192702611",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"00629058",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899037200",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0071899051015",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570014002",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570014002",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570024001",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570024001",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570650576",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0074570650576",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"00754200",
+        "allergen_tag":"en:chicken",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0096619916146",
+        "allergen_tag":"en:fish",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0186852000389",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0620514006130",
+        "allergen_tag":"en:sulphur-dioxide-and-sulphites",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0704863227306",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0704863227306",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0775075110298",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290012395",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015150",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0818290015198",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0851035003234",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006044",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0854074006297",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0859480006589",
+        "allergen_tag":"en:fish",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572001404",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "allergen_tag":"en:apple",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0870572007444",
+        "allergen_tag":"en:orange",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010021",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010045",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010069",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010120",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010144",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010168",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0894700010199",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001008",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001060",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001411",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001640",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"0898248001848",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"4099100150872",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"4099100247916",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"5012262004011",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961008022185",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961008022185",
+        "allergen_tag":"en:soybeans",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8961008022185",
+        "allergen_tag":"en:Soya Protein",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000101704",
+        "allergen_tag":"en:Caffeine",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000102978",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000103784",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346334",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000346549",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964000695210",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002346783",
+        "allergen_tag":"en:peanuts",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002429158",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002429158",
+        "allergen_tag":"en:peanuts",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002429165",
+        "allergen_tag":"en:peanuts",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "allergen_tag":"en:eggs",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527151",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964002527236",
+        "allergen_tag":"en:Skimmed Milk Powder",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "allergen_tag":"en:gluten",
+        "source":"Open Food Facts API"
+    },
+    {
+        "barcode":"8964003593841",
+        "allergen_tag":"en:milk",
+        "source":"Open Food Facts API"
+    }
+]
